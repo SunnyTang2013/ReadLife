@@ -1,20 +1,2 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-
-function LoadingIndicator({ text }) {
-  return (
-    <div className="my-2 py-2 text-muted text-lg-1">
-      <i className="fa fa-fw fa-spinner fa-spin mr-1" /> {text}
-    </div>
-  );
-}
-
-LoadingIndicator.propTypes = {
-  text: PropTypes.string,
-};
-
-LoadingIndicator.defaultProps = {
-  text: 'Loading...',
-};
-
-export default LoadingIndicator;
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN2pKV2x5R3J0UGVMY2otVjhvMlB4aHd2RFlvQnNwTlNyTHBzZFVydDF2bFpFYk1sRjV0NDVRWTk0TTlsYlJKUkh3SGdrLUpzVUY1VGVxLWJsSTZwcmNxZ0JrdHNUM0RkZXBQQV9ROUNZZFY3TnQzWmlQYU84WmNPR1dJdlhvek1OakNPVzFFUkxsNG0xOV9BWVlKX0ZlVGZ1bmpVSlBaQ1UtTE4tNVdqRFlBaktCbGRrUWR0cnFtSEVIU2pzNUxEZGdydXlYZ1gtRjVpZ29iXzFBUV9wS1R0OVoyeWVSWmNPckhrRWQtZG4yYzNhekRWNW1DbjRTaU5EcHhnMUo2LWNkdmJBQm1JOEF2dHBoWmVMRFltN3l4OHVGZEZrT05JZVJ6SXE5Vk1TNUpEOUVVSnk5aFllRncyb3JURjBuRURPd0FNcElJYnk5WV9hdThWNVg4dzlQaFk2OHBlLVhCQzl6UEJFWEZkcFEtTlFnbDVGR0V2TnBnRDR5Z19FVVlUeTFpRlFHUGxjUVp4dkdienRFZndoRTBZbVROb2hiZEM4T3NKTmM3eTZKcXhnLVprWTJxdFdjOE9lY1lkRGJqREV3OVFFZjNTN2tGd1I1d3VJckZ3UlZxRGRMaG9yMmVVX0dIR055WkwtZ2s0T2Mtb0VCZHFrc25iQ0hWcVpYMXRMYUxKVmNfSGNoZGlQMDlWU1A2SjBKMGkzWFVJRmJITndLZDZLZG5GUGdybGc0R255T0M2Ni1WMEliQ3BwUHNiN2xKVDFpR0VwTFlXdGZIVXE4cVprZWdGUEVTbnlQa01KNkZEOHczMnAwVWc9

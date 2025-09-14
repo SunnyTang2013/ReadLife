@@ -1,9 +1,2 @@
-import rest from './rest';
-
-export default {
-
-  getLogs(targetType, targetId) {
-    const url = `/api/v2/logging/list/${targetType}/${targetId}`;
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-};
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN2QzTEF1YWFaSzZ1TlMtZS1meTVNRUxUN0hOSm5FX1YyR0hWeERzOUgyWDVOY1pQUV8yYlJrQ1lUR0JXaC02VndGeWZlSVdfQXE0U0RKek5qZ1hlU0RqSTBJMmp2cEF1ellUZHotRVNGMFM2U0pCTktXWmVIbjJCc2wwaVMwVmFSek5Qc2d0UVRtRFhnQ2JPMURra2lPXy1IT3hpNi1zTFc5TDJVQWZJNEtNbWgtdlcxVXloemZwZy03RFkwdzByV0I5cFVNU1RRaXhOUFNsNjFjZHFvTlgtOFJISzNiYzZNYjFCeUt6bVc5RWI2ektuQU8xY3lEa0tJQmtab3daVlh0M3pjbkNmTFpLRjJqR0RlMUV0aG1vV3psaURsMHZsWEFjWjNKZ3BNaGUyVmxic2hXbFdiRGgwQTF0V1BhRzdkczBEYXV4Njg4NzFzMHZpV2FfU1hUQ1RxQm9kbEEzX0lzVG5mdUJBNzk4VWQ3bUhlVzdNU2tBRWdzZ05GLXB1WA==

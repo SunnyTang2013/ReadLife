@@ -1,20 +1,2 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-
-const Home = () => {
-  return (
-    <div>
-      <h2 className="display-4">Configurations</h2>
-      <div className="row my-4">
-        <div className="col-12 col-sm-4 col-md-3 col-xl-2 text-center">
-          <Link className="app-link" to="/job-config-group/list">
-            <i className="app-link-icon green fa fa-fw fa-cogs" />
-            <span className="app-link-title">Job Config Groups</span>
-          </Link>
-        </div>
-      </div>
-    </div>
-  );
-};
-
-export default Home;
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN2tMYlJqcWFZeXlZUHlwWmkzeE8zS2ZiZjVBTWp2X3F3dWNza1lCWHlHX0xaRUNmbU9sZXFNMFpvZV9NU0JtWHRadUdpRnQyWkllZktlX1dISlJCQUI1MDBmSnpwc1R2UGVQclVuZnFLQ09CMzA3bUhYTzFqTjRPVXlzcHROeXFzY1hmQ3drSWk4YlNPZVRNcWZ0cHcwZXhSTVFDTWNHeWlaU3FxX1ZlNjRuRnVFMHRYYUhOaG5NZ1ROZTgzSTU1T1dnNEkxUXl3U0lBR0JyRnpRczM2R19idWVhY1FiNG9kX1VnOVhWV2RuZlpIZnlMeGZaSGJoS2w4eHVPeVB0UlpzWjhLT0dxOXNWUENZVVVINFlvUWhYZHFhWl9tU2NqNWNoQWRRVGdqT2o3RlZKSS1lY3AtaEZhbGlhRWZEVXBIb3NETGpqejVQMFBTc293YTRsNGFpWFRFWmlBMEo0SHc1M1dqR2NCYkdfSFVuOUxmNVU0VEVUVmdiWUdCd1RhdTJTN3VEZVNPN0pRWVJXRmhlZEI1V1hmTEZidHRRODNUMkpMOU1TZWNFZXZzcTJwRmgzaWlFRTRmQlNKdS03MW9ld0RzdDZESFU4ajF0SXRkYTZFcEFiX0tvUXJiQjYyMGhvOFdOZEl4VmVxdUlYcDJ2Nnl5dEtxRk1yTndzTFZYM3dYYnNiWHpNeUgyZFREV2VvNDlGWHp0UVA5UzJTek53MzE1M0x2V29xRm4tVmdaNHBlTTJMOG1QblRZOUwtNXdXRkRUZWs4WnZXYWt3SFlNWDJ3bVBnZ2U5NkRhS2hlMWlCTDBQekswSjQtNXNWNEdfTE4zakJ4VElfT3ZlUmg3V3hjbUNwOTVZQm1CaW9hdkpGTHZZY3FkM2NqdnNwN09la2c1aG50Z29fZzYzSlFHdDBtX1VjcTlyM1BaVjQ4UFk1OWhzSm11NkF3RDVONkVQaFNnRmVmXzVURXI2VXFNS3dNUUFKbVJnVDRBaDMtM2lIVUpWNHJWRWRYWVdocmN0RWRKWHc1eHdnRW4zazlnczM2MGRSTEcwM3cybUlJNjZ6eDQyWjhmWFU9

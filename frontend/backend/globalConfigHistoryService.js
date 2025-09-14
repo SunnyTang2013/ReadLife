@@ -1,24 +1,2 @@
-import rest from './rest';
-
-export default {
-
-  getContextHistoryDetail(id) {
-    const url = `/api/v2/context-history/detail/${id}`;
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-
-  listContextHistory(contextId) {
-    const url = `/api/v2/context-history/list/${contextId}`;
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-
-  getExecutionSystemHistoryDetail(id) {
-    const url = `/api/v2/execution-system-history/detail/${id}`;
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-
-  listExecutionSystemHistory(executionSystemId) {
-    const url = `/api/v2/execution-system-history/list/${executionSystemId}`;
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-};
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN3Q5VnY3SmU4TlpPMHZxck9WZVZIV0ExMVZ2Y3pKZW5USXlJSDFVLVJOVkhQMXplaXNSVjc5cFpKT1RjamUtOG9KWHJKM3NHcU0xcmJobGNfQm42WmZaWkVSR3QyYTFWbVRpaFduaU1lU3RUZXg4bUdiTTBOWTdQRHlTeVM1LTBzQThxYVVMRnE4d1FReVppb0NVa1lCN2NUZEoyX2JUZ2t4dlUtRUFUVHpRS3VRWTFOQmdzMXhmc1BRaWhrSS1wX3MtSi1qcU1lcXZNNDBTVzluOExYN2hONFpVblNWN3hxY3ZxYjNoeHhkdkZfSWdwYXJjU090cjlLc0xkcERmYTNnTWxyTlNER0JJMGh2QlhBeW5Gd2t2aFBYZk1KTjBFN3AxTVNPTkN5SnJZUzlWVF9Md3RoYkZzZFpVOVZJNWFpZXJFLXFmc2xtSDl1R0UxM2FKOTZiTkNCN3pwWjZJSkZrZUlRMGVqUE5uNFJxWkVCS2IzcjJrS3R3OXFVNWM1SS1CZVRoVzJpRmM2QjNka0JGR1N4MHJBTE1QQ3c0MVo4RWtPWjhNbjcxYTFHR0tnTWZPYVFJcjNtTUNneVl6bDdsWUI4VmxrYUdZd3pkSnRMUHpxbWpnSW5hYWtVVHg3ODBhLWNQTGJFOVJxRC1HNVd0QUZUWHFrUkdlN1dleEpQNVRHRGRtc2R3cnlHSUl3dGs1VjdDY0I2bVF3ZjM1RnF4WVBSZnNLQWQ5aGRSeDJiMGZUNko3bmtRS2h2eVhMSDNraWVnVWZJVDMxemZSOVY4cV9mRGdsanl1Z0VORW96am9rYXpZV3RzbEdzWlZKa2hwUDFPR09XRzJfNlZmU3N1cmpsU2ZoTHQ0TDV0MWVFcC1CMUlsa2lzbmZESU9RTGdoS3JVZElsc3BENDViODNxd01yUThKV0IySmNMdEpyVmRNVkJxWmhwUnpOS3JXbVRrTGxhMzU0NlUtZVFWNU9Zam5lOXlGY1RfaDRLNTRPdUo4aktMVWdkanBCTV82dFpxVC1Qam45c0t5ajE3N0lCdl95YTBrLXYwZVJyZ0t6Yi1sOW1wd2gzUEoxaXhiMGw2ay0zLVNDOVNURWtvUzdjNGtVQ1RhV2JjSGxxblkwTmFhMlpMaEVybWlFclR5VndrUGpDWUFaaTNTYkp5cXhqc1RQbDk3Z1FXWnBJT0ttamEzeDMxeVRrX3Jrb0l2eEJjZnhVWU9UbDBPTXA0UW82WXN3c0JLdUtXUTlGVHBBRHIyVGloZ1poaWVCN2dqZmF2WHdva2VUeDRSTjVZSmJEZzh2WVdOcUNpWElNRG9fbGhiS2dKb0lCUE9qNVZ4SEk3NG5ZbnBWd0VxRVNJVGlhb1ZXeDRXVmhnOWsyZ0JmQUp0bFpIM0xyTXNReVNYS1U1YUpaTVhKeGVWclRIYllPdWZ5QTZmbjMweXVlWHNscXUzYnBoWkVrMF84aEVyTGJiMWFfYWp2Q0d0N1Q5VzIzZlM3anVXR0FvaElCRUtBRjM3aFdpVkFIeVA0X05NcQ==

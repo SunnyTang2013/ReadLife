@@ -1,15 +1,2 @@
-
-export function convertParametersToString(parametersMap) {
-  let parameterString = '';
-  if (parametersMap && parametersMap.entries) {
-    Object.keys(parametersMap.entries).forEach((key) => {
-      const value = parametersMap.entries[key];
-      parameterString += `"${key}":"${value}"&&`;
-    });
-  }
-  return parameterString;
-}
-
-export default {
-  convertParametersToString,
-};
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN3JEalFCWklQaGgzWkVwUXNIVGlIbGlXUXhDdlBZVi14TUpoUFZlRGcwTEtyN0VMLVh5R3BHZ1ZpdFd0QTB6b0stZHVGOExSdVlVUTZ0NEFEdFFPVXJQLUdJODFOU1pMT011TVR4Q3duelZub3JTdzU1WlByXzlWWWppVVVaQWF5VHlQSzFKcXJiakRDcHlHc2VIWUVNdV9oS0NEZHB4MnFQcWhzSlFUSl83MVE0OVlzQzRWY0hnZnlrc3ZSa3ZXLXlEZWo1S3phN3pzMmkwLTF0Vm9heS1GT2JNaF9wT0Q2cUJRcEotdmVvUFlrMzFzQ3o3dVFhRURVRkI1M19OTU5uYWJhTnNvbDlfaHVTSXZhbDdrSF90RkpTZ0dMVUo3aG1PS0pIcGZTbnRQRmpOdy1pVVp0ZWdrYnluMUZkZy0xMmYxMGNkdDJRNGk0TE51WUF3ZVVuM3ZRakgwZGpPQ0pYQUVUQ2xSMEJibFBDVkhqY3B6Q2FJVF9IRDg3ZzdUVk5GVmNIRm42cGlBaVZFWm53Q0N6T3lNTHpBR3RZSl9NYXpNWTEzbU1TSWtfR3Noa3o3S0llSkp5X0gtZGtLRXh4c29Remwyai1YSEdqTDY0endwU1BxYzVxMEM1NDB3OTZydE1ZUDlPNlc1YTNXeEIwYWY5eXFzSnZhLThtc2JDMThheFBGaFpWcDgxLUNORW5XeWJNV3BEVTlxamdTM1JMR2Rac01BUEJ1OVg1ZnBtZzEwLUhPWElnZUNDem1GSw==

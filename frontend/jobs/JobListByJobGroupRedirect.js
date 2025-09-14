@@ -1,19 +1,2 @@
-import React from 'react';
-import { Navigate, useParams } from 'react-router-dom';
-
-import queryString from 'query-string';
-
-import { loadJobListByJobGroupOptions } from './utils';
-
-/**
- * This component takes the job list page options for this job group from browser session storage,
- * and redirects to the job list page with those options.
- */
-const JobListByJobGroupRedirect = () => {
-  const { jobGroupId } = useParams();
-  const options = loadJobListByJobGroupOptions(jobGroupId, {});
-  const query = queryString.stringify(options);
-  return <Navigate to={`/job/list/${jobGroupId}?${query}`} />;
-};
-
-export default JobListByJobGroupRedirect;
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN3dLX210SkFXUU54VDdNYzR0NTlocGYtUzV2TWNEbDNQYk5vZmxjRHNpU0RwRm42aWl1YjhtalJ1bjJ5YnlneXpycENTUDZ0R2FDQlVndnYtR2hnREV6SlBzZ0I0OU9ObTNPZ1ZfZTlfS2VLMzViOVpDVmIyenJ5dXRDUXhhanVhR0lsX0VJTmdEOGxlemZGOWloYmRRMXFQSEJkNlRMZ3pxVDZ2ZG9QNG9BT0FnV1ZhZkZKSWhMRzVWLVpDS0ppV1RUSjZVTzlxa3I2QmZlemo2VnotV3VVNm9xWFIxNlUycllOTXdqZG12VjYwQW5VdUhlRlVhZXlDWjZoY3hlZnVJNU4yN2hJdENZUkVXXzg2YURNUEJqZ2J2ME5MRHEzdTlFa3ZhTWF0akp1ajRGM2o4REkwSWlJZjZHaGZ0aF9naGJjeTZmQ01BQ1FYcXIteEh3dk9heFNCNFpXR2xqNGc1d0RyRzRNc0pBaXFZRDBKMlk3YjBHazZQV2FtMWk2amQ5NmRvQWNPclJnUk5nR0JJaW44b0VPc0trU2ZpeTlCX2ZtdlhXOXM4V2ZSMGpmRmtUX0pZTVNobDhOSHZmRjg0WkYwd3JZOW5NenlnTV9QUlZ1bkZGSnhpeldhaFlVeUdvbkg0UnlSNkFpR00zUmIta0RWNDNSbGxXOWpVaEpJcGdGYVpXZWVJV3o1X3NVdmJVdElWUmxCcGlZc0hGbHpYWHd2NHJBUUlHaTRjMU9TQ09tZWdfS2JXT3RSdHZtRHlEb19EYWZKUmVoYmh0eVVqVXpvcVVlbEZhcXNrZ08wQmNLZFdlbk5YRUl2X1ctWXlFTlRoOVgzdDQ5NDRoRm1VbmJTbVl1NTRmWXNMdW5BQW02Ml9yOEh2MV9Fb0g4WXlMOThQY00xZUZpQmxVYkxwLWtBU1JlbTFXaVRhdDF5aExQY2RXamtQMFdrQUxTbW5VSm9uSnV0eFF2M011bVhqMGpWUjNES0ZmaFBkbGhTUE5iRmU1RWFSSjVzUmlta0piaHRSOUU5SUIwUkxCdDUwUzMtUjcwYUsyOVptTy1WMXRSZ0tTSnVwNm5xVHpVS2hYazNpbWVWaDJaOVl1bXRRbzV6UklPMVFfd2piTll6OW5zbThTVjdmWl9UYnpRRkdUajdiUDhUTFJSMWlmYTI1dGRRN284TWJuemZlT29QdmtIYXZWZks3MHdUWk0wNDdYbERUeXAxbUhKTC1ubWVGZkdkTjFNbm15az0=

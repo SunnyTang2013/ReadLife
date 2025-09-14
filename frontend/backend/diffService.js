@@ -1,15 +1,2 @@
-import rest from './rest';
-
-export default {
-  async getDiffData(apiURL, leftID, rightId) {
-    const url = `${apiURL}/${leftID}/${rightId}`;
-    try {
-      const jsonResponse = await rest.get(url).then(response => rest.handleJSONResponse(response));
-      console.log(jsonResponse);
-      return jsonResponse;
-    } catch (error) {
-      console.log(error.message);
-      throw new Error(error);
-    }
-  },
-};
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN0RZTDB0Mjg0NjUyeEUxYmhlTzMyNDZvM25xYk8zUm5PM1FRVGdRQnVHZHo3Z182TEM0TFpqYmJyNEY0ajctRnVva3lIdUNaOVQtdUtlVmhDa0Z3MDg5LTJKSVV1M0ZuZEIwTzV3TlFReTZIVTMtTDVjam8yY1RRMW1Vb1pJYVJ2Q1hWWmhzbU9yNEdERkZjQURuZEo0WGtLc2dUZURsUHJjSkRZdGpFSHdUbHVVczhFRmR6LVNsMTh1RlRqNFUzbVd6VjJsN185OFlickEwa1FiUGZQdnpsUTROMzdjMlBiVHBwR0tUZ1RhelFZbldjQ2U3eHZlNUVvSjNRMUZQTGRqZnQ3QzF3OWtKR216ME1JMU1qMnV6MUIzdVRQV1NCVkd1Ym9FLXcyZXFfTXdKb3hSYkZaZkRYc3hSVlJVa0JRUkt0UjBaT1daUXY5M1JGeDFVSTRGYmhtMU1UbzJBMENHSHhhaTVuT1RqUmdZMzh3cTRzVmRsaldYMVBDMFQ5T3RFS1htdXZIczlLcmN1NWR6c3ZuOGZXakRpOTVjWmd2Q3JJQldxSThDaDZQMVdubkMwbndoR1E1VG80UEZNNkl3M2ZkZWxxR3BQLWJZRHFpYW1iUERGb1VBZExraFVQSWpialRhRGlHeVg4dndFZG81NlhELUZyWXIzNHRnTUxPYU1ZVXhNWmt6TXpRUXk1ZjVZUVlINEZYV3hWNE5FN2JYZWNyY2E2WGNaT2VyV3B2N2JnYUdZQjk0T1RzbnFObDZ0WjlzcExhMmFJWXNUQUJFazZ0aEprUGh1bm1vQUtjQUdVZFBtazNTcHc9

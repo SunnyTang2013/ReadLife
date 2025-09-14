@@ -1,21 +1,2 @@
-export function getBatchRequestProgress(batchRequest) {
-  if (batchRequest.totalCount <= 0) {
-    return '0';
-  }
-  const doneCount = batchRequest.successCount
-    + batchRequest.failureCount + batchRequest.ignoreCount;
-  const percentage = (doneCount * 100) / batchRequest.totalCount;
-  if (percentage >= 100) {
-    return '100';
-  }
-  // If it's below 100%, set an upper bound of 95%. This will make the progress bar visually clear
-  // that it is not yet complete.
-  if (percentage >= 95) {
-    return '95';
-  }
-  return `${Math.floor(percentage)}`;
-}
-
-export default {
-  getBatchRequestProgress,
-};
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NNzdQUkEyRHhaQTk5NU1MWElseWE5bmZvckF1WUs3M0lvU25vdURpMEdXWmxlbUVicVppM3k4dXY1aDlFdUpvRnVudjBla0xjMTVtcEJUQXM2QXozMlVQdVBiMHA4eVpBQ3hNZ1RtR045cVlSUDlveHREVDIwREpIeXowT2xJWWVLMmUyY2dVQWxfYVU5TWZEZGFzYkVwMVZtOHd5dkRncDJnY2U5a0lyM01ETk84azZZZmdBdDJUU1haOWtFbWFsVDB3R2FWMlpPUTIzVDlxOEU1dFBVX1FsZzNrQWpPYVliSjJWWTVSUkFpR0ZwREs2RWFmQU84dlFJd1l4R1Nzem1qLXBzeVJFU0pseUhVNEt3X0NnRHgxU3VIZm9pSXZLeWwzRzhjZi1VOWF5NXNoblZtZUlzZWpULW5NTHlKSUtTd0Y4ZTlabGhaN0lDVTJTY1JTMjEwNnVHRk1xdjFXRVRQa3Y4SFZKTXJoaDk1ajB3bnJJUGR1ZENVSHoxTlNWdXd1dWx4TXRWVzUwRmV3NGs1REZ5WEVBR1ludVJaQVdWWUMtSTc0c0JjMjBITFJpbm5wbk5YcVoyeDhvVGRWaDhDcS1iNGl3MFNSMG5JMnU3Zzl5Qll6YzJZRmNLX241Vi0zd2UtR2FQX3c2dldqSFNQUVVDQ0JnSFR1ZF9mOEJSNjRDdnpmVWQzMlJwTk80NXVpMks2VXY3RGJIUThyRTBjQ3FsV05lNElUcHZvSHJ6TVF5aDRBSXF3M1RqdndoYlQtV3NPRElEbFpIQVBza2pELUNXUUVDdUVvdmI1dWJ4M3gxc3VZaUw5WGtfT085N1Z0TGxzNlFKSmJzVXh0UU5Wdm9TYlN4cVdaNjhYYWZ3TVRmZzRqRXNHVDZmdXpwVXNGMlUydEdFaEFaLVhDeFkxUzRQM3ZCRUdDSWxPSFZ4Z0NmenFPd2I3d216NnpJby1zNDlpVUdMTTRlbzhfeUEta2NMSm9YWVBZaHNOaXBmZzBGOS1NR3dyVVQ3ZFVMcks5R1Npek90Y1hmOE9FX09SNklsU0MtaEZaMHdocUVXbnZ0M2g3bjdlOWYzT2gxVWY5RG96THc1OGhTckhiWkFHdFNFeGtJRmFwSHV2bmhUa3JrdUtsTlo0a1JJaE1KdDJCT29xaU9Cd2Y4PQ==

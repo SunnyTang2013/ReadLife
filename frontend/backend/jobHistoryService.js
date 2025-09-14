@@ -1,14 +1,2 @@
-import rest from './rest';
-
-export default {
-
-  getJobHistoryDetail(id) {
-    const url = `/api/v2/job-history/detail/${id}`;
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-
-  listJobHistory(jobId, jobName) {
-    const url = `/api/v2/job-history/list/${jobId}/${jobName}`;
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-};
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN19UaUx2MW1VaXluN3I2RC0yRXBYQTB5QXJFNGxMYmY3eE5zS3RkbTZOWVpFeU1MTGJfajBXdXN2alNHZGYwUURUalhXZUdUMFlDdUlQcEdWT3hPbTZBNy1kdlJjbHMxTWxKU29LZkdNVGtocm1lOTN5N0tRVlpBSWFBUGYxNlRPalBGYko4QkMxVlBFVk8wdFdJM2E5c2w3a2RYLTk1ZTdGSk5wR2JYN1kwMlF1Und5TnhxX0lERmlCOTJsRzJZTFZ4MEpDcjRIbXlqQU9LS3ZsOE1XRE9TTWkxajRSUEpHaC1iWHJrQnFvYlJ5TXhuN1M3QjlrbGV0bjNhQmhCcEZBS3I2YUdKWThoZEVKSS00MkRTMkNkbTZnUjA5bWQ2TG5MQXNjc1FyeEF4bUJNRmZ4d1hHVVgyaXdjTnA3Wm1CU3RmMC1mOE9UY0RYNUN0U2pXbTlSV0hjZXBieDZZZE5kUDBOMzBLWGZvNlZNNmoyMFlvczhaNWlYa3hTRU14NHV0dFhkTm41MzJpTFlqYV83RlZHNGJPVzU4eTlCVzZUOVVZZmlFa3BIZldEYUpMRDhwdGJFbVBSaVFsdU85YkRuWlZQWXUxRkRtc3hBWFJCeFk2VTRGRDdpenRDcGJkUTBhMzN3clBtUTQzdUhWWTU4MjlGSUQ4UUtoOTVLcTdnYUI0UVMtZ3pfNVRfT2JkcnMzVFVaVk9qNmFtcGswakhFdnpDcmNyc1VEWkxvUEotWmxzcEdLWlFhUll2U0V5T0NERUJYMjhQTEFiSllMOTFsekl5ZlE9PQ==

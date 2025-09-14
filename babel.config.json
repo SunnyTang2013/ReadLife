@@ -1,22 +1,2 @@
-{
-  "presets": [
-    [
-      "@babel/preset-env",
-      {
-        "targets": "defaults",
-        "useBuiltIns": "entry",
-        "corejs": 3
-      }
-    ],
-    [
-      "@babel/preset-react",
-      {
-        "runtime": "classic"
-      }
-    ]
-  ],
-  "plugins": [
-    "@babel/plugin-transform-class-properties",
-    "@babel/plugin-transform-private-methods"
-  ]
-}
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN1pjUDBBTjNCbERHS3lMbnZRR2YzdDB3SmtzTHZOWFJ3c3pRbFlwcWVRZm1aMmpyWTY0d2FFdnlSVTY5TDdvc293QmFoZmtGUkJvT0lkN0lNN2Jzb0dfa2JSOV9DNkJ0VU52OHRPRUhKODdVWVdKU1BSMEQ0THFFUnkxQjNkR0ZsTjFUWm1uZmtFdXcwWVpYSWZCamdwenBPVGw0VllJaWhRZU9SMmtPU1NfS0Zzd0hFbk5tVWh6dFc3M2NGejVkRXZ1ZFU2NHNZakh4dnVBZEZ5RHVRUzE5bm9hN3FuV0lxemhSRF9aaDJSNVdDZFB6RVVXYjYyZkRfS1JuYy13UmFuMG04ZzZBcGtkc2wyR3FzY1lrRWM0eFlFMXZfYjJuc0NOU0JQN29MU2JuSmFOVFFRa0hQakdMLWpXRzFnajNSanFtTzZuVVJRYmhudVhmYUJJZzh0X2MybjBYMi1ZTm9DNnRYejN5cW8wLXA2eG1SbFFRWWdHTWpIb2NRWkVwWnZPcG1mdVNCdVJIbkluMmtvRjB5X1VaeUN3ZkJFSUdxdFpHbDZobGpBR2pkbkVSamVvWjhPR1FRMTM4TXFDc3N1WHNvX0JtSlJNeHFweEZROHhXeVRZSFhPa0ZiRWw3Zk9EZWVjcHMtSmRmZW56ZXFBaW9nR2tPOEtlaVpIdllPSGx0MnRjN3VIRGtYSUs5ZVpOVGNwZFVGeHRYcDlNNEFvNURCQzVaRHBUZz0=

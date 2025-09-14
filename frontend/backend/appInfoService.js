@@ -1,9 +1,2 @@
-import rest from './rest';
-
-export default {
-
-  getAppInfo() {
-    const url = '/api/v2/app-info';
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-};
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN1pOTTRPeTN0djNxZE5TRW1KTXFMbUFiZWQwT2xTblZUTWlkcmVXaFJmQVNKNElZbkQ0UVBNMjdWdFhnRGhBOVE5VjNmbXFGWUNtNDFIeTdOcnp5bzdzUjVkbkxNX0k4NXdqMExvTVM3UWJoWXVOUmpucm1OMWJRN1h3N051UF9zOXBBOWVOcTdwdDFXeWdzbUQwWWlVSDBBTHhjRFU4Y3Y5MzdvM3lUd2xSVnNMcDJjZ0llb3htSWF1R2EtbTN2MUE4RURBUFF1UWx4S2NWS1FpVkQyYnI0NE45MkROSVVaQkJRbDYxOElETTdhY2xzTGRqS2kwbHlYYUlScU9QT19jaVc5REwtdXBhLWZuUGZta2xfbzVmbkdLTExtbnJUODU1T0p3M015S3dJNHBiTGVzMWpITFJQSE9oVUpfbjZp

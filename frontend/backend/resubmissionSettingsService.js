@@ -1,21 +1,2 @@
-import rest from './rest';
-
-export default {
-  async getSettingsDetail() {
-    const url = '/api/v2/resubmission-setting/getDetail';
-    try {
-      const jsonResponse = await rest.get(url).then(response => rest.handleJSONResponse(response));
-      return jsonResponse;
-    } catch (error) {
-      console.log(error.message);
-      throw new Error(error);
-    }
-  },
-
-  async saveSettingsDetail(settings) {
-    const url = '/api/v2/resubmission-setting/create';
-    return rest.post(url, settings).then(
-      response => rest.handleJSONResponse(response),
-    );
-  },
-};
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN2U2Z3liTGdNY2xSMHZmSS1qUFlwRkZiaTdnOXZzdWdoY3g2a20xODFrSEk1VzN6TUYya1RaYW53bk52bF9SWkVJSWNUcmY2QUQ4aW5LQmpaNHhBVHFxUXJBRDA3ZG9mMjY2d2JhTWxsTVZyak93bDd4WVZCRG9aU2dGcUVDM2kyWHlCWklUUU5nZnBMdEJDUktJRnhETHRtdU42RUxDcTVGanlXNUpIakNTSjVia1hSUl9OUWhzU0FwTU50VEVVcWtzNjN3c0ZuTjg5U2RsRU5GMkloTGVnNHd3TmFyLWR1Tk9rSkZnZmMzazN6TlBkVmpqdUZlZE9VWW9wWFphYjJkeUhoN1FqR0JiRTNvQllVRm1yT2loM2xSWTZKbS10dEkzRTVxdVNZUkpob0U0N0JIVlFxRktlVDBDVEtKSnAxeFM3cmdsSzV1VUI1alNDOE1ETUZxSUdERWJ3V19wZUN1UjBJTFlEN0lBVFZ4WWdlVnlDM2ZpLVNvZmkxRlRCREptaUFjYVRkRS1may0wRzNULWZJalhmUm5GOU84UWdFT2J5VFdqczRyVkJQdFhlcjdPeklfazlGX2M0b3dxWHZEQ2RGc1UzaXFNZ3pOSEdHVmFRb3E0UFlSR3FkZVhvby1nbmFxd3ZOcGdXZ1RwdnBjZjdZd0t1QjNNYlZvLW04Sld0VTZUWHFGb3g0SW5XdF9qZFBJcGN4R3FScGQxb1E5WWJURTE4YjNFVXQ2YWdHeklGX2MtbUxVeTJaTUpWR1BkMDAxa3VEbkZhSG9zY0tmNjFiUHhGNnFjRlVpU0R5Z21leVdrcGpmT0hkWE5IdlNxbGJnUDhwVk1MYWRtRnpOOVF1WllQYjg3cDh4cEt6RVRocjlZRlNFak9NWkJHRldmQlhiNE04bmE3d3hNYWpzY0FCREllWkphLXpSWUUxSHRKaHdBNThPc2VlcVdYTm81dXJWaDRkZmFzWkU4ZWtkeFVyQktmUEZUQmZILXJBbUwwVWF3Qkt0eHhYNGJyazFSU2g5QUdNajRxejdsTlBGTGx5Y3lMUUU5T0REcUJnWkhEVmh2WDI4ZFlGNmFITzNXdG1pSkRVWHVBR1Axa1k=

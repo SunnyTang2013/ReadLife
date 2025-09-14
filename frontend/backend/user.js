@@ -1,24 +1,2 @@
-import rest from './rest';
-
-export default {
-
-  getCurrentUser() {
-    const url = '/user';
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-
-  getUserPreferences(user) {
-    const url = `/api/v2/user/preferences/${user.username}`;
-    return rest.get(url).then(response => rest.handleJSONResponse(response));
-  },
-
-  updateUserPreferences(user, preferences) {
-    const url = `/api/v2/user/preferences/${user.username}`;
-    return rest.put(url, preferences).then(response => rest.handleJSONResponse(response));
-  },
-
-  regenerateRpcToken() {
-    const url = '/api/v2/user/regenerate-rpc-token';
-    return rest.post(url).then(response => rest.handleJSONResponse(response));
-  },
-};
+AES_ENCRYPTED_FILE
+lKjFDpcuZSCAyFR30R1lMGdBQUFBQUJveG5NN0ZBUlVuQ2RYZ1dnNDFIalBWYS1XVXhWX3JLajdwQkZXUGFTcUFtVnpPTWdXTHlsWEVhQW1ETFVQQTdsQ3NZQmlHc0FWbzE2ZEdQMERMVWUwbDRTU3QzenRrUm5FUFQ2RmV0QVhHNVZROXF3cTNoOVFEVkhoamhfMThuYmR0WFJ3UUV4b1hDSmo2VTNQMjVlUkFBeldocUlPV1hfOGNRSlN6OXpvYVBUUnNKVFNmOEJFeDBqWTEtbUlZVzhkVXZueHd3a2dLbkF4eXJEQzF1TjZqalpZZUd5WG0zb3dkY3ZrMkszUVVEay1JN1RSQVlvYUJHeGNNNGJQUEE2eEdtNlA2Z0ktMExTVVRuWV8tVW0tRUxmVTdJOTlJbTg1TVM1Vkd6aG8zOGt6OC1YNlVBMGNBS1lXNThkNVFYcmlzcU1KN3pNTFZzVGpTSTU1N1hDOXRzbU5uYk5Va1dGUUVXaEZJY1VxOHkzSkJrTXp3WHBYSGFPRThjOTlTNTRGN1RyYlNNMUJXMnVmdU5IakNTazhrazYweldXeTZSX0JSd2xuUEM2Y19TV0xZRW9DbDE5VWNZMEl0TV81QTFtRG9zak9STDRRWUY2OVYzaXdtWGstSkg4MVdORDF1cS1acTh6c3IyUXdqRU5sQS1qMFhfUkFQS3ljajlFdjhYN2JlQURCSzdxRnlTeDFDXzVfOVAwbGhRby01OGpBOWpyOFNuR0poMzBBWDkxNlVwZjdhRHBVY1lnVmQtREtWbW9DczZHNjRwNExIUTlNQmhkREN1di1fYm10WV9EQVBTdjNzWHZ0bmNsM3RRdU9NS1VlbEp2MFYyV0NaZW9IMDBxZGczRUlJZnJ3YTFkOUFzOG1ROTFlcXlGajdsTk9RWGU0UHFRekRXNEZmMmJrWUtscUFsaHg1bGtpVUt0LUF6aVZqRVBOdUF5cXdmSmZVX0owVTZSY2U5NFdUZ0NoMDZJTHZNNzBOX2pxaU51cjF5ZWd3WExBeXhGMFVYUmFUQm1xcjZPMTNUeHc5dmk4UEVqQWtUX3FGZUI0TWNKRVpnTkNISGFzckZSdHh3QkliMUhtM0NldG43QThjZGRjcm1reVF1RElRZnVhMFYyeE1WQ2JvTDNCSk1kX2laZ2N0c01JQXJ4Ymo4SUd3V3VjbDVnZ2g5MW5kTzV3a3BLM2d0M3dZNmxDU0pIZ2JfanhCQUxPMHZwaHVtMjJrNk1WcUFid0k5S3pYMnhFUHVmX0x6eDRsdkVNQUJUdDNoZFZRTkRhX3hna19FLTN2d3dlS21VVDNPcmFuc3ByWEQ1eE5VZnIyTWx1MXBUaGJ5Zm5xdlNLYUZDSndkbnNhWFZBUGVDWllpRVY=
