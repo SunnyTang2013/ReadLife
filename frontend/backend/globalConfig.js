@@ -1,2 +1,45 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NTlGNjhRZXR0ZjZwQnRfa0taaXlRdXl1bldDU0xpM2l6S2F2cFE5eDVnNW52eDRBWndPWVRBMmNvS3l6NHlLcnFOb2lrQU5oaV92RTRvRFNZVk81TFcwamprV0wtb09ZWl9MdWxaU1ZYUmFTNVZybkxaM3lRY2xqaEpNeTlxdldickFXWEEwY01xV3JKTnBQZ25iRmxXM2d4SDdvMWtCT1dQb092Y3JmOEVZSkNKVDNvOEU0WDZrbWtKeWZOWWtzTmhyR1F2SktvSm1EQmtrd0JTa0YwenRJY05nYmNWMEVMUlBqTG5pNTM5cVpPdUVHN0ttV2dNT1RySl9FckNlaWtWYk1IUTJnLUt4eE9zdm5CNW5vZF9fQWJsYmhFUENGQXJsOWZjMDR5WFpLM3RZRENDc1NJUmlXSGVjVmtTT1hXZG85MXgySzBEZk5OUjJBSERCRXNoRVlmTWF2T3ZuU1RiMUdBanF2empBUDUtZURzV2JPUURyaEI1VHlQWHFJXzhKbVh3T29FYlBPSmp0WEJBU2ZLQzVUUnZ5bFRjTVlEOEZaZ1pQYVJISEtrUXNlcE5rcEZPdkx5NUxKUlh6Y3VEbEdQZWY4WU1rZW1CNXFEVFpyM1JsUDVneTVTVnM4YVFGVFZadDZKT2g5eDlGZHkwNkpIb0h6bURwRVVIQUIyZm1pVGQzcV9ZVFRZQk5KRUpVUU81WmhFTW5rWW5oTDE1dDVfNWNHalFfSHhZOGx0QWpmaG95RFd0RU81TXY3bUtBd0d0QlFPZjcyU19zaktiRjNlWVJ4NG4xR2c2WFhqd0ZMel9xUW05MlhIemR4SHZSSkxCSGcwc0dCYkh5Q2NJdWZ2czJxclE4MldxbHhZN0lub0ZEekhaa3c3bmhnTnVqcE1yenZIdDFzUVNHUmJHdnJMLVRuVlI2LW5tcmtidWppZE5CT2RNb19lbUhMOWRWc2VYaUl4ZmVnNzN5UDY1VWNQenlEcTV5aWtXMTEzLWZuME42bDVpRW82dkJlU3NYZUVfMDAtXzZ0Z3Q3OU5LbVZFYUV0cWlJYkYzVkRtbEVzRmZyTVhMemhVMkpabzNnNEt1WjhUTzc5cnF1WTZzS1dYanlrSFk1OEExd0lRamdhME1qdUJ0ekZmTFI1UkxCMzNDZ2xxTGdQeE9ZWFlsRm5aM3YwVXF5ODdFS3c5RXBYY1Q4UEVBVlFOSXZYTXVaRnNDRGNldklXS0sxUlFoaDNicGt5U2h1dW5Pd0ZnNWhhV09JbE9ISVRsS1FMOHRyWWp5WUFBS2k4TmdoajRXb3kxWUhFMHZuYWFpemtuZXpocGhuYUxmNzJMM0ZxcUhMWkE3MV9hMGJ5SG5ESEdfVUNYRVVhenZQMXdnRS1hTFVuNlRLWHFwdWF5REJWOU55Q0k2VHpRRlZoWi0xWklGdWdhUWhRbkhtdnhPdXVZdUhZOUlOY3JPcXBtdjc5TFk2Y2JkSEV3aktvWmlLSmNTUERyZ204WjBDY1d5WjdtekVUN3daU3BiLXg5TjBmZ3dhVjltOG0zTTBMamFjajlMMzlHcFpkOXZxYlBfMkVyT2g2OGtaWXFIQUd5LTNOQVp2NEZBUFdzM3pEUmR4S19VWUE1WnhZVS0tQWZGSWNzanNsRkN4SVh2b2RlajUwU0FwcGk4NW83QWpQWVNqb3NCbzh6V2RHWGhmVnZDR2VwYW1XeDhkUlVNWmFtcDV6eWRILVdlSF9BV3hleXNpWWJ0Y3RsVFBCWVhmMjlHTWxDaEd4aDVUOEFaR24xdDlzM1FJZmduSXRUeEpidTZ2U3pTTktWQ1FsRkdCNHR5R2dGRlFQRU5qdmh5UlpodXkzaDRvNkoySWtaLXdYRlNnQnM3YlRTOUVDNllvMjFwWmx6dDdSeG4zVno0YW9lY2dVbDRLelgtUVBJU2NkeGtzeU5IMU5lN1hEMlFuZWtGRWRWSnlzY1Y3clNqd0pfMjJpZkJHMlZMLXpYbDVyLUdWbTRCNjVQVEpsTm8xeE5FZlhwa0xSNlVfT1FmVlRhLTBMVmI2RDdORnN1UkZhcktjT3RlZ0lJbjFnZkl5S215ZmEwRF9iX0I4XzVDSEJsMmsxTE9ZZjhyTFkzN2xYci1sSnY3ZjVRa3ZNNExOc3lOa1dDR1M3bENyQ0s3MXJ1T3libmFsLWVxV1VHMWdlNDdCVlNBUzRQUTk2WW1iSXdZcmlfWGNLWFVOX05lTlJiWV9NY0QtLXZBWERsVVhVZHNaSG92dFo0TXg0Vk9ILW1NVzBVY0Jfcmd5VFpxLXd4eWxpT0I0M3pnQU52ZFgxbkNseE53N0tLUGxleHdvbm1fZ21pcUZKaU1TaTFIVk00S0N0YkRidDRESTZlUzRGdE90YWdTZEtMZnJZUmVOOUN4SFhCcFhXeDNoWWpCT3JXSTdfNy1fZDZLRWhVWjdTdmNWVl82SllxbGlVdGE4MXFBTVllUjdDVU9uRjJnVy1hd2JwN0ppLTdTWXllZFhOeC1VRnBUTFAzTXJ4NDBzd04ydUZVdkNpOGVld0FhYkZOZU5nUUNhR29wcUdMYzh2eVdfdm1jSHh1bzJUNFdKWTE3aldrYV9pVWFteHpCSXpUR19YNHlYYmQxX1FJSk9JelgxYW1zc1dZLUg5by13QnNRNUFfVUdsYUNUZFJTQlJORHIydUpFRzYxRzJUNFhDVEdVZjZENkJpbU9hYlNVZnBxTDM0Nl9PUVpVX3VwREJtTzYtNEN2X3RmeS1EMlZwemlleGlSMmhiVjFQTm9aNUx2Zk5ydm9COUQxaTZJa1dMQ0ZiVk1PV0VFNWpLdzJXeU95Y1BQWE02WklYWkQxdXN6NFZZU3d6c2pSX0xsRTlBSnZVQnVxYzl2bXBuNDducmFIOGRkdmRPRVNhY2w4SjYycEhDUHhJY1dSZVZjdjVTMWx6d2N1dkJkaVpSU2VkY3I0YnljZXpGUjNvSUVUSVVGc3EzQUg0NlgxNGtlYUJGb0NtS0x5bVcwXzNKcWR3dWx3dXBWUm14bk51c1oyREtjVkZ5dHEyWFA5b2J4aVFnMmlwYXdvYWNuR1hYYnF5TlhVZjBtanhWdkk1c1pqZWZBVVI5d3NhUDJTNkxhY3dMM1lBajMtN3Zoem9BMkJEMVlDWjBUblB4MDhGeU1SRXpQbVZUcDV5a2l0djFfVTFmWHZsOEktbTZ3MjQ0LVBfd01PY0EtZUFsM3BCVGRsTGsxYk1M
+import rest from './rest';
+
+export default {
+
+  getExecutionSystemList() {
+    const url = '/api/v2/global-config/execution-system/list';
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  createExecutionSystem(executionSystem) {
+    const url = '/api/v2/global-config/execution-system/list';
+    return rest.post(url, executionSystem).then(response => rest.handleJSONResponse(response));
+  },
+
+  getExecutionSystem(executionSystemId) {
+    const url = `/api/v2/global-config/execution-system/detail/${executionSystemId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateExecutionSystem(executionSystem) {
+    const url = `/api/v2/global-config/execution-system/detail/${executionSystem.id}`;
+    return rest.put(url, executionSystem).then(response => rest.handleJSONResponse(response));
+  },
+
+  queryVSDetail(executionSystemId) {
+    const url = `/api/v2/global-config/execution-system/detail/${executionSystemId}/vs-detail`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  deleteExecutionSystem(executionSystemId) {
+    const url = `/api/v2/global-config/execution-system/${executionSystemId}`;
+    return rest.delete(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getExecutionSystemStatusByRequestId(jobRequestId) {
+    const url = `/api/v2/global-config/execution-system/status/${jobRequestId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getExecutionSystemListByType(executionType, nameLike) {
+    const url = `/api/v2/global-config/execution-system/listByType/${executionType}/${nameLike}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+};

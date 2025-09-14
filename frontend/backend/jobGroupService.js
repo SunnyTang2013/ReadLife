@@ -1,2 +1,51 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NWVmNi10eHFReFMwOE5HT1I5ZjdmRjRPclVEVWhXRVAxSzVBQ0tUeU1yRl9LZ3NScGhaMEhiS0ZNYjNZQXVINnhOMVZCa3QzdXdXZExOSDZHb05FOFExa1ZINHJ3UWFWLWxrYnFZSlNYVHFiUTFrT0Rka0s1V1AxamtpdEJCZWVFQms1OUpKV2ItanlFelZRZElSRzNvU2JxSl9iOVQwVjRoOGVjZEFlN1ZvdDE4bWEwSkE5Vzhrd3RwaU54eWJCMThTMFZSR3Z0N3Jjc1g1QUY1QUxwQy1pa0g0TXFTeFhpTXpGNVFLdVZDclV6NHNHSkg3WHBTTTF6d2Z4S2dhOUtXWlM2TFFlZjVaSEItclhPZnZxUzQ0ZDk3dDZya0xFX25xNDNtdGcwYzctWlNiNXgtV2ZGc2FqWU44RjlZN2oybU11SlVMalRZQndzcTFxNllSazVORG9UNjlaVlNocUc3S3VYaTdHV3R5Qzd6Y3JPeVV1RHNqak5GUE5TbWhEX3N0OV8yOG55cldCLW9tVDUzSmxHa0JTakdKNnRGdF8xTTg3cGlzWEplQUoyY1hYSkRvT1J3dzRIU3h5TGZEUmNDVmR1b2NVOGJpMEphaHNXMGQ5UDJzVGtQRUNqZVJ0NDdwTGdmUTVuWlJkZ21zZ1RVMmR2RmZrWjF0RVZDSmx5ZllqcnM1ekhvTGNlM2M2dG54R2xXSlktRGFsU09OaENyNC1MbmxUa0VYSnkyUDFCWUVJcWNlMHA3T2txaXZWVUQza2prYkpkZThlWllZbDJJclB1M0JfaVN4UE5uUmpPYzVQaHpuM2lDVFF6a0JwLUt1NjgtQVhhZHZqRTRaQmwtakpHd0l0Q2ludnJwaWMtTU5VUXpzT24yZFAxdC1udk9qZ1lXMUtETy12ZW5WOWNnWFVpX2FxSHFzMnE2ZUFtdm80YW9oVEZfaXRFa3pqdExaOFdQMnUzM0hFWm9oN0VTbGNNQUZFNU1hOUJmbmJveWJyUXVHRzhTMjJRODdGN0JhNVgxUDVaZTJvcm9zS2FOZlRnd2RsTl9pM0VJU3l4UExhZHc4aHYxa1JSNXRtQ0NWaTFyQWxnMTFvak9Jd2dvdmgwU25tWGVvSHkwa0tZYUU0YlRpb1dkVW5qRGhuYnQ1WUpibDNnVE9Qc0d3dnFtR2hnSng1SU9wU040UVpLUmxqbm9yLTFBR1ZoMFBGMGtfWDRVWkYwYUR1YUFsakpmelVxUUZSZmhnRWY0LS13dGtfQWZ5a3J4VXA3NGprcGpDVU80a2N4VkFhMTdqLWtUR1NFVlpTUWdMbzhmVENLMGtaMThPY3g3cHRNV1JCRkFSaUlBaG1YTi1XQXVTUWFaSFlvMXhwSkZMYi1xamZpeHBXVzh1OWVxdEhrY1ZzN0dsRjcxNmFyWUZjWFlyWVFiaGpFOGRzbWhjdTlIQzhsQnhBSjkyNmtXemNBZEFFVVVaa1BPRUdIamFvX0hlTm5IdzNOX1E0UWItT1F6Y2hTSnRHeFBDd0pDdzlNUzd4d3huLUNuR3hXZmM1RGJzOWZlbWMzSnpRNVlBcUJHV0pBN0w2dF91amNEMTUxRjRMeERXNV82Rlg0TU5KVERCNktfM2VUT0lUU28xbnpKUDRZamRUUDhieDdDVl9OUkoteEtVMDllOXp5Y1ZoSHIycmtSSlBmTWdDSWdWbXZlbDVGRGNTS1IwNWVrbnhTT1JHWFU4ZG5GSHF2ZkxWOEZLYVBqUUg1U21OVlF4NnFFcVR5WU42am9tUVNOZmR1SndDX0FSYkU5V2pVVXJnNFJZaWsyNHlYZXNCNmRvY3NuZ0lKdjVsNnktNVljbDMyOXFEN243eEZJY243QmtBa184YW1Ob21sdk9sekF0ZDItQ3VxeXl2VWRTRUw4UUdiZlZtdENrX3puOEdkdnhwejF5THhGWjlZM2FpSE1IOXBtVnc2YVVJYnZtUTI5N2w4ek5lUHJtRUFoczVVWEVURnBxWmppdEVKTjFxcjR4cDlLaDUyY2ZTV3BwV1FNTFl0QmxMZ3NkZU9FeVZmY0hCeE1ZM2lrVjhGV0RjeHQ3dVFVcXh1YnV6YWJXa2NOeTRvUDBWRTZhRGNrQWl1M3NINzF6UkQ3Ym94SVV2d2tGdy16ZGp2dVJYNEJETlZ0cXBBNEpreWk0cl9uZllpN2RuT0YzUUJpOEt2dTdFY2pwUjh5Smc5SnMtbjljZVA5U3JlN29aZEFhOUN1X055SFlBRVlSVnBwMlY1SVU4R3lCcVZLdVgtZDAxblRpd3NaTVlrSmpfZTBqb3liZUMtYXhZZURWWG5QcGdNQWRzT3dCV01pT2pXdDhXU05icTd1X3F2MllYSHpONmdmY0IwMmQ1RWpiWEFpTWppUHRyRDcteUVWQUhDd0JJU1dFdGZsOTdMQzVuUXBVRTA0eEZfc1lELUY3MW8zZUtOellnQzYtYlcxeTVSZG9DTlRWQW1XaVZWaHozUkNVZFZzQkRCZW1uOTk5VjktN2gxYmxBWlRnbFBQMHhZTUJjbnlVR2NqcmlPZG9vaDVPX2FlekpkUHl3M1l3TWNDdUpabGxqaHJkWmVGLXB3R3BWRFNmMzdVSXFFTDRWeDZfYWNXdmFYb2lZX0J0OWtrN1EzRFVhSlY1V25TS3ZMbUM1TTBKenFSblhHcnBrNW1ydVR0VTNkM3cwSEY5LW41cHJTaEJHTnZMdFlDWms3empRbkFyYXRHdmtReFBDUGl6RzNFNnN2T1F0VW91cWZ2NHJjV0ttTzBtRTF4akRVZ0xUV2lEYUVOY2o4VDVfaVRsVm9GTlh1bl9yRVBBbGVvVW9ZbXpwbGdFSTdhLVBhOHZGMmFvY3FDMG5nRm1uaklYb2JpLVRPdFRBdWoyWm1CS2RzVFBNS0lzanZmamQtTEhnd3JpUDdlZzZjRnk1YmZVbXUycHdMNGwwcWdpTXpYNUNLY0hlQlpLb2ZfbDFoM2Vza0lMenhsQlZMc2l0SGZtOW5PQnRYN3RvX1BEczI0RWtqanV5eFFzOWRXOWJ5R0xJR3duYXU5aVlKeDZkWQ==
+import rest from './rest';
+
+export default {
+
+  getJobGroupList() {
+    const url = '/api/v2/job-groups/list';
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobGroupForest() {
+    const url = '/api/v2/job-groups/hierarchy';
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  createJobGroup(name, parentJobGroupId) {
+    const url = '/api/v2/job-groups/list';
+    const payload = {
+      id: null,
+      name: name,
+      parentId: parentJobGroupId,
+      maxRunningJobs: -1,
+    };
+    return rest.post(url, payload).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobGroup(jobGroupId) {
+    const url = `/api/v2/job-groups/detail/${jobGroupId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobGroupByName(jobGroupName) {
+    const url = `/api/v2/job-groups/detail-by-name/${jobGroupName}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateJobGroup(jobGroupInput) {
+    const url = `/api/v2/job-groups/detail/${jobGroupInput.id}`;
+    return rest.put(url, jobGroupInput).then(response => rest.handleJSONResponse(response));
+  },
+
+  deleteJobGroup(jobGroupId, deleteOrphans) {
+    const url = `/api/v2/job-groups/detail/${jobGroupId}`;
+    const payload = { deleteOrphans };
+    return rest.delete(url, payload).then(response => rest.handleJSONResponse(response));
+  },
+
+  listParentGroups(jobGroupName, env) {
+    const url = `/api/v2/job-groups/list-compare-hierarchies/${jobGroupName}/${env}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+};

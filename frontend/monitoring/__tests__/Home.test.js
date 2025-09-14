@@ -1,2 +1,94 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NV9fYWM1WFBCQ1h1TkF3WUtuSk01Q1pLeFJJSUk1bTFNZVFpcjFJMHNoQ2lXUU8wTXdkRlZ4clhkZUFibGh6WXh0VVVJeUUyTlVnZE1GbXdBdlJ0a1BkTEFNVUlGajB3QVVvN1JkNHZCT2lEcXo2bUZRM2ZQRmZIb2VoNmhJNWxTajBlbUlzT2IwbUcwUXMxemI2SG1BaUhVYmdvNG5ualVPM25BY2NxRk9CSWdIdlNjV2FxVFp4elBXcUJjX2kxZGJQYTBJc1RQeXRRYmI2dlBYZXR6cVpFMjQzQW5HbDlacEI2VDNYRzN6T0pYSDVBYmdxcjJITjRCZjMzeW1RUWJJTUJzVHdPT201SGs0UVZjTzhxdmdxRy1WSWdXVUVJVHBYOTBOaEVFaDRVRjVYYTRJbmJ1S0lKeFBZWmdvbTBVdl83T3htZWFzNHQwM3JqQkNhc2lEVFA3c1FkS2ZxQThTeVhCWmswYXZnaVpYeXR3c01fVDBuYUxpTDB1dFUzM1h4aTlocjl1ZS1DM0dxdURGZEhGaWtQdFdjN190SnBkQ1lFamdjWWtnQVYzX3pmT2RNaHpYbHhfLV9vZzdWQUxQNEdidDdXZjBwZkJ6R1lVTlVBdlBlNGRiaGVsREZpd3BZWk83aURkZWJkNFdkcE9vck9QN0Iwc0VGMnRlbU91Q3c5NzFrNE1objBQV1hvd1pyMG5fd1oyV3RldDlsTzlxci12UDdCb2RDTURHbkc3eV9ZSkliQ3RhQmVub2lKSEgzZkl6a1kwdXpLcFFLb0J3LTBEVjA3RnJVYm5udkxTOVU5bXlvUXFPQWhpN3BmY25qN3VwUWkwTVUyN0hPWEhhdmRrUGZDTld0Nkw3YzdvdzctV0VKQi02SXEweklhZnVQcGViOEl1VlM4MEVscTBDWWQwREJFTjd5NFlENGtKVFE1Nk1yMzVxZ254bGg2SmdYamxtd1dWUzMxRjY2cnppVTJYSXNlbi0zZXRWVUpBNXU5LUpya1hHZDI3NlJWSWFFVE9rOEhqLWkxVXA4bjNBb21iMkw2bDQ3bmJfQjIzQ3RONU9udHR2WWwycmlveWNqLXg5UEgxaF95enk1MFJUelNBV0lqVzJLY21DSHI4UTdrcEc0a2VteTV4MUtNb3FKLTF2TTBZdVpfVVVXZjRPTXNQRXUwVlpTeXViTXIwQk1mX3FONGFUZHhwamx3OHcyMGQtTzhUSDhJazZTU3daR3hRY19WXzA2TVRWTHl5VHRPeF9xQ0lUNExWUFNFZ19JTk1uai0xUDh2amtqZHpoOXNxMmhsdEJBa1FXTHUyM2hBY0taRzI2QmFnNlBJbkJxS0l0ZmdzN3RmMENLMkhIQzlaeUxTLVhfSTBDRWktTmlfWmcydnZMazIxMlVscjg0emc5TDJhWHJDQTJnVmhpX0VndFRhaUVCQkVka1dSYjZWRTEydDVMeHYwQXF4NU1CcXpGTEtVLThaV3FINHdITy1VS3VhN1RyazRWOGN0SENaRWRIcGMzSm1HNG5Tb1FRZHZOemZMd3NkRkY2eXNYOVlQSTVFa3Y5WlJmcllSLTN4cklYVy1JWjY0ajdzLW1XUUxscHdIWFVyX2I3YWJ5ZkI0QTk5c1V5T1FTRkczRVBzMENXaW9zWWYyUk1ScExjQkpnbklWbVZLQ3o0ekI4SmZwdGVmdG84cXlUbVBoZ1IwMF83ZmRKdUVUdWRqekZ6VHJlZmlVOXBxTVUyWllDdGRrV1VtMDhLbF9CTDhfYnpHVzljRHlmQ1VZS3NqdnJGM1VweE1RbWIxR0Zrc1dyWGpBdE5Ld2JIeVpqbXJ1UEYwNE02ejNkaDIyRTVtNlpEZE01QXFpLVlUUXZMUzFIa1pMVnNWTnByRDNqRVJ5cmYwMTlENmo2MnRYYTZ5MVpzRW11OVN0U2VOUVkzQ0dNcDRpTV91NXc0eWpIR09MQmR6b1B5ZWlmR1hBMUxhS2RPbk5HcUpmdTlPOUNUYXpNV1ZMajFRVElpVW1wSVNPVHA4RkpGeGJoZGU2QzVNT0JpX0hyN0pSTXZGNXlxV2tqX0lHcXVtVFFNNDgzNU5BR1J0M1hwS3pMb3dGX2p3SjRDT01sY1BHUnlVMHpZRDRXT0swdHRKUjV4eTI4ZXBDbVRxZ09fQkI2UGw5MWxEc2h0MG9zY2J5OEtkUGRyVXdOb2ZaUDF5MjVLRGU4a190OXpTLXJDUW5CUXVMcmhCV005dTAwcWxZMkdjSm84SVh1MDFoS3NGb0E1MU5STkdNZWU0aFVkZWdneEY5OHBObmFHa3R5dFBNTlJfZTZYbDlaWU9JbUpkSFRUbmpwZklpeGNIRlEzMlhBemR5TDBWaEtEMUdnRXJPbFFvS1JaN2IwdFhyR2VWYzQwU3pEclB1VlR3VFJKZWtRSnZqNjhEeTZDMC1OX09pTnVjbEtqeGpENlk5MURqMGl6d1hTMC1ySWRPaGZ4dkFJWXhZTWFLTUlkU1JEX1pNNWs3VFRKcDk2ajE4VnpxLXVBc1QzMVp6UHoxazFVeDlqT1lIUzdsVVM1ZllOcnhRU2psS3NiZ2QtSVhVZHFvNzltYlp0dlN2UHB5TTNSRS1mVFVhZTZVUlhkUjNidk55ZWxKSTh4b1ljdHdpM1pvWFEtelZMSEE2czBjZzBzVVpvRXRLenRoRHQxamJ1REFNVEJucVR3Y2RuMFZWNUdENjdwbDBIX3QwSWhWRDdCNDRCdDVqTzg4cUFIZi1tUDlOYXF1cTNFRl9CeUhnSkREQldUSDE5NHMzMnRpbXVHT0xFRmZGQ2FZaGdaZmZ3anR6NUVXc01JenR2a0I4SHAzNzBDQkNnWTY0Vk0zVGthS0QxcW9VdldIT3U3VmJlY1phVGd5bkM3VDVqZ2V3RFdEMmdYRG5vT3lGYVZOLXpNcXdVOFdDNW5OT3Y4UHRES2FrdUdpWmpEdUNqdVVwdXVkeWVpaGg2YWh6Y2g1MnBYdDBMUGJRelhlSmVLaUFLYXV4WThGamNJTTJ2ZWxsLUM0dnVnYXRNMFF1aFRLaTZyQXdKckJoMUd1WkQzYUF0TGtTLV9BM1F1NzFkZW5abHVoSkt4QllSYWpBb3ZOa29Ea1p4aksxMEt4YmJiZ05TblRmVjNaX1NTMG8tLVBOelY3czZVbjhZVnFsY0lTSXA3U0pyOVFEX0xpY1R5dmNFZDJOQ3g1QWVzYW9HZmhjVzZSRjZCRU45d0VFaDR5X1pWRm5jOTNmbGtveGNkX2tzeFNMd0d0NjdUWERQR1lpZURBWDdsa2h5ODlwYUtWOVJRdkFVbUt0M1JlN2Nzb0l0RWMtcEFYS21fdmdEV0FjRkxDa3dwamY0aWh0ZXNEQ1VmN19OM1VaUjNTejJTLTRDVUd0dmViSEN4NUM2RzgwcUw4VGV3aGtIdVQwRGFKV3EyelA2U0FDSHdleWZkY2dmajR5TFM4aVVGLUgwNWtmYWpLRkw4cW5YdDlyUTNCekdYUzVFTmViOEFhNmdteGt4MG9mcC1vYlZISFJuVWttcEtaa1hTOUNFWm5UZVI4NjE3a0IwN19aTlJDOWJNTFdIQVhoNHhTRV8zQmxHZ0xEZkdNb2pPRUxUN0RvZDBFSU1IZmU5UUtmQjFGcVFJcHFIRjF6ODhEdDByMmo0WjRKamRYc0xzUmFfU1N0cmpsdjNRMG9uZ0szSXlUZENVMklsZmh4dllQdzhINEpvX0Y5MUZNMHBoMFlKNV9hN3I3aVVhUVZMQWpTSk5odEZMVU9KbXZKaC1iM0lrcktwRFlOalNMWk5TVDM2dGdOb2xBM25BNU44eEY4NktmMzJRcUNJZVg2RWFqNUhJVzUtMnVDclQzWTBiN0dMTjl1SG1lSm83QWN2MGU5WjlBYTN2ZDRiMG04NFJkYm56YXVHWVRlelI5bHVqUjRHOHlnVkxVSldwN0k5MnJnZ2xyQnlkVXZzYWo4MmRjQlliQlB1TTZiYkJ1ZGE0bFo5UzdmRHpuZk51aV9qSjNkQ2tLbDJzbnl1dXRCazM4d3FBWU55YWdiNkc0MXhUcW04WHI0TkRQcDBHMDRkUVotTjBQTjdRbDBobS1GbkpUNmJrTVp1WXhWNEd1WEprWklNdHFkUFRHd0tjd3E1bGZjQ1phTzdWSW9DRWJzVlpKLUF1aEVZMnRMWWd4d2dqbWtkd09WZ0V4WXQwU3hQSzNPZF82czBsUkxnX2c0dmFFU0FVOWtaYUFxQy11WFFZVjdHYll5a1h1UGR4YVBVS2lFSExWUEtNdjFPZ3FCYUJHVnZQSWE0T0JCZVB4MFpSOHhXbDJjZDFSektaS3lfM0dhaVVaT1BndXhVOEJyXzZmYmtiaENoTkJrNURGR3A1WE9nYTM5VnJvUTQxQlZYRlh6TVlQamU0ZWNIVUdJT0c5OHJyekx3T1B2Qm05TjFJVWZMbUxtQUtQR3hNdnRPbkRZTGdsSy12X1FrVDRGOFBtN2t5S1Fnb1lGcU9ab1FhSV9CUGg2TlBQYWNDNEZpZVlMNG1Rc3hHYVBQNmV4WlczaTdpQkxaSVJURnVqZFpsTVh1dVhNbFRyUVp1MjZrVUxhYzRhMXkzT0ROdUJJcjhLUmotNzRuNFdlMVg5WGNPSklUbGg0cWZSb2NYWkJFb3Zza2xNTUk5T2tLYkliTWpIRW1KQkVIdERQa2otYTZWM3I4Vy1ZeU9wQ1A0TXppNUZrOTFVTUhOOTM4VDA4NnNRMlUtOG1jeTUzLXo1LU1EczVXLUhFS2lMN3M5SUkyeVRRc3g3cGZRaWZPbV9fTFNMM0lBSFBYR1RPY2U2ZkdmU0tXcFdPT0Vrb1ViWE5GNk14dHdCT2dCMnl1WkV2cDB6T1FCM2JKR3NuRUhRaHpJRGg0a25NalpDWUJ3bTZRYmQwM0pMQnprOU9yeGFTZE1ZZmFTNWtya2R1MVdFLUp0Um5ERlE2cFJMc2F0SHFIUTRwcWNteHRXZ2h6NDFYVjhoT1V1Q1VxVGkwVjFkeFFzZ3V5ZjVMZllIdERZWE0yOVZVWlV6Z0ZtXzBmZE5LWTRYYVBYb00tVXNQaGZQSlk5aTFSdXg5VkszOTNwc091RTBIX3M0dUJVcWZNV29oaTBidW5uTWstSVBpYXROVjBnekQyUl9RMGxSQ3VtVlNVX3BrRzIybUEtbVlodDBKdGdVdkk1Y3U0NVFQV3FwTzF0QXE1ckE2SDlPcTkxb1NlRmJDakRyNUw3TGxGT2xnaldTVWJCWS1yTEU3bjhBTTlpT0hacUdMYnJkMVM1YTZNeVl0c0xiNU5yRXNUcnFSd0Q4S29RSTdOUEFZUEhzei0ySDB3ZGdPelo1UXprV3o4c0RmNXR2TWNEVVNRRjJnb0xUUi1UQjV4bGVKUU4tTVhtWHdLdnFabEpGdmozQjdCRlNtYkZhQVFhZWlYLWtMNXhWZnhLdDRFZWtycTZRR1FKbXVCUTl6bGtlOGZ5eUUtWWk2T2RSNlZyMl9ta3JheDExS211bnh6NTI4OFZyam9vSS1hb3VULTI4VWpVdVFGZkVwYm5qM0hzdE5sYi1TVjcwUkV0b29wVnBKS2JRVGRpaTFlUXR0NWFMR2s4WURMSXRqaG8tV1o0cGZzaG1zd28tMXZIM1g4QXJ5S2JHSms1NTRtQ3RvZERjRG5mX1JucEN0TGc3MEhMZzN1N0tZN3JlSFYyQ2tydEhsVUJURk1ySF9DNC0taVdzSjVZdU9xYV9LUksxOExWNHZRZHFSdE9qeW14RnEwVzdleFlsSlcycFJpeVI5dnkwNmp6WGI4bjlqSUNpbVpPVWdVTThXWC00ZXJUcWkteHJRU1JUS1JPVEFlWG9YUmNtenVVVTlELVpBRmgxak9CMk93NEVsOUZxanNrVXh0RHMtc2FoMEJVU0tRcXlYb2NYRjVWRUdDclhPNkRScFhJUHNHZ1MxUXlsOWxvOU1pYkpXcXFpVUFJLXlBMDZuQ0daUEE3bnRzZUZocS1KRU5xcG1uX3dDVHdKVmNOeXdIQWJkMkNjVFlmVmJmZXFNOENjUkpqNGFmU3VfNVJDLVZRT2hxZFhId1ZEYnRiZzZfb0lfUXJXR3YtLWNTSy0wNWhNWGlpb0xOQ1FxV2RxY1NUVm1EODluckdTbjZ4aDJ5YVJsa29yYklfRlhlemdQX2FSbS1YRkdISVpfT0N0ZXd2Y0pRZU1pcEhyT0laMUIxOG1YTGp3cTRZcUo5bWFIRktSblpoTnkyWm1yazBqQ0RkT1JSOTFwdXdRPQ==
+import React from 'react';
+import { render, screen } from '@testing-library/react';
+import { BrowserRouter } from 'react-router-dom';
+import Home from '../Home';
+
+// Helper function to render component with router
+const renderWithRouter = (component) => {
+  return render(
+    <BrowserRouter>
+      {component}
+    </BrowserRouter>
+  );
+};
+
+describe('Home Component', () => {
+  test('renders monitoring dashboard title', () => {
+    renderWithRouter(<Home />);
+    
+    expect(screen.getByText('Monitoring')).toBeInTheDocument();
+    expect(screen.getByRole('heading', { level: 2 })).toBeInTheDocument();
+  });
+
+  test('displays dashboard placeholder message', () => {
+    renderWithRouter(<Home />);
+    
+    expect(screen.getByText('There should be a global dashboard...')).toBeInTheDocument();
+  });
+
+  test('renders all navigation links', () => {
+    renderWithRouter(<Home />);
+    
+    // Check for all navigation links
+    expect(screen.getByRole('link', { name: /Pipeline Requests/i })).toBeInTheDocument();
+    expect(screen.getByRole('link', { name: /Batch Requests/i })).toBeInTheDocument();
+    expect(screen.getByRole('link', { name: /Job Requests/i })).toBeInTheDocument();
+    expect(screen.getByRole('link', { name: /Execution System View/i })).toBeInTheDocument();
+  });
+
+  test('navigation links have correct href attributes', () => {
+    renderWithRouter(<Home />);
+    
+    expect(screen.getByRole('link', { name: /Pipeline Requests/i })).toHaveAttribute('href', '/pipeline-request/list');
+    expect(screen.getByRole('link', { name: /Batch Requests/i })).toHaveAttribute('href', '/batch-request/list');
+    expect(screen.getByRole('link', { name: /Job Requests/i })).toHaveAttribute('href', '/job-request/list');
+    expect(screen.getByRole('link', { name: /Execution System View/i })).toHaveAttribute('href', '/execution-system-view');
+  });
+
+  test('renders with correct CSS classes for layout', () => {
+    renderWithRouter(<Home />);
+    
+    // Check for responsive grid classes
+    const rows = screen.getAllByRole('generic').filter(el => el.className.includes('row'));
+    expect(rows).toHaveLength(2);
+    
+    // Check for column classes
+    const cols = screen.getAllByRole('generic').filter(el => el.className.includes('col-'));
+    expect(cols.length).toBeGreaterThan(0);
+  });
+
+  test('displays Font Awesome icons', () => {
+    renderWithRouter(<Home />);
+    
+    // Check for icon classes
+    const icons = document.querySelectorAll('i.fa');
+    expect(icons).toHaveLength(4); // 4 navigation items with icons
+    
+    // Check specific icon classes
+    expect(document.querySelector('i.fa-plug')).toBeInTheDocument();
+    expect(document.querySelector('i.fa-tasks')).toBeInTheDocument(); 
+    expect(document.querySelector('i.fa-rocket')).toBeInTheDocument();
+    expect(document.querySelector('i.fa-server')).toBeInTheDocument();
+  });
+
+  test('has proper accessibility structure', () => {
+    renderWithRouter(<Home />);
+    
+    // Check for proper heading structure
+    const heading = screen.getByRole('heading', { level: 2 });
+    expect(heading).toHaveClass('display-4');
+    
+    // Check for proper link structure
+    const links = screen.getAllByRole('link');
+    expect(links).toHaveLength(4);
+    
+    links.forEach(link => {
+      expect(link).toHaveClass('app-link');
+    });
+  });
+
+  test('matches snapshot', () => {
+    const { container } = renderWithRouter(<Home />);
+    expect(container.firstChild).toMatchSnapshot();
+  });
+});

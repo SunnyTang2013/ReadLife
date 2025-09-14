@@ -1,2 +1,24 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NVdwTlFYY1MyLU9VNXprVGVrMDdMREdjeDNNWk1vYWpNOWhWNXpkeUhTak1YWlhWSGJZd21iLW51dW0ydUU2elB1MWYzRnpfMzZ0NjZNQXZBcUJzTC12VWltUDJ2TFJWaFBZMW5ZNGZSbDk2djNvZWdla19SYm94V3k1MnIwUmwzSGktRnQ0RTgwTkdTd3ZreXpEc1BGZmJFaHEwV1hlRXZPQjd6OWZIS2diMmhfdUhGQXJ5SmhhRlB2a2pLaWJxa2hoQjVYUXZKUkdYbGktT051dHlGazU2VVJfSnk2Ujc1Zk9sRXRtU0dtRFFnQ2JTRmU4ZFU2eWNwQmVJQWV0dUhWWkV5YmprSmU1X3dMdVdZQ1Y2NDI0VUlsM0J2SGxlR0kyNWJ0bnRUN1VTNHBQTnFBWS1tS20zZ1ZKbmNad2N2XzhIZVdZSWFTWER3N0NvclRNbS1hU3VrOFRPcDMtUlY1ZnFjcGlaeWxwOGFVR2t1ZHlqRjRwakpSY3FzM2xLM21IYzlfVThwNWJIdVdpZDlTVUw5TDlva0tFYS1DdmNiR2hMNV9PX2xZV3BFVU9wd1V3dFVzX2ZGUVNIVW0teXI4a2czeGM1VXJvY2RHeTdhZnR2dUNHWmg5UjFQaklmeWtkMzdMVkdUcktUMmE5d01CcjVEMEVpTE9oRE1ZV2JYOHJQVTNQeV9ZZnJrc3JEc0MzRGR3aXFGQTVvRVpRN3g5Q1ZRM1hzQUFtWTdjcmtERllqZ0FUTjZ6eWNnQkhIem1URllaa1BCYXFKdjRPd2lpLS1YemQtX0VyU3BmZ3FCaVpFbFpCMTZybkVFVWk2bHNfNFpycHFiX2xNeWhJNm0yYTJLbExzUkRsX3AwcnN1bWlKMXhHRERFU2ExQk5EYzdNdE5RQUtubk03b2gtU3VCbnA1VDBCUXZwcEdQUnc1MHhZQ2E1RkVoTWhGaWZlTmxhcE5DZ19YMlZjejRlc1JKVURibjd5VUM0dGpKbDFDMTQyVnh5R3RaQS12dEdoWmFWcE8tYzdIY2VKUU9SSVdkRVh1VDQ4Z01jZVd3aklOSEoybDFRNTRGVHZ0cGNXak1SUW9Lb1hwS1FjLVczdjNfM3ZYbm1SdW9tRm51QTdaVm9VUDgyRFhJRFVsZ1FSSkppRm1UbTBxMDRnUlc3MUZjZTlPTW5qQlNxNU5rcmRTbldrQjdGN0hGb1ZzMEZkbDNZV1JvclhyWE9BNjhXV1d4RXFvVExLTXI0Ym1uTEM3eDhxd2ZwSk90T1ZFNFJqS3pSaEpNUjh6UnBFd2hzc1VxSkJlMjVzenFFNkF0YzAzUmlBRmJwUWJqUWdjUXpnTDg0LTlEWUFsd1poOWFjVHFFbkRiS3J2XzBhS19Ycmk0RC1DbXdHbXdROEx4N1QyUEZ6dVZYRG5PYjRvc3VPZ0JZeWVfMHdaUFFDWUtJTGRKRDZxMUJPYVpVT3V2d2dlVmZQbXhCNHg0SldUMlZtMkd6LXZCbzZDQlhGSUx6cEdzNHJycEZOTzRjdUx2NlFtdA==
+import rest from './rest';
+
+export default {
+
+  getContextHistoryDetail(id) {
+    const url = `/api/v2/context-history/detail/${id}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  listContextHistory(contextId) {
+    const url = `/api/v2/context-history/list/${contextId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getExecutionSystemHistoryDetail(id) {
+    const url = `/api/v2/execution-system-history/detail/${id}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  listExecutionSystemHistory(executionSystemId) {
+    const url = `/api/v2/execution-system-history/list/${executionSystemId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+};

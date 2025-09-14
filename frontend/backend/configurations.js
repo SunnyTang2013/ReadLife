@@ -1,2 +1,60 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NUFlallYSlFlLUFBUlEyZWpsYVBaRWx6RjFUd09VUDV3cFhHS1hzQ2NqQjYxY0xuU3kyOUhMX2JwdXNPa2haS0FQTlBTYkVZN2I4Wkw3eko2azViWFg3SG0tRC11Nm8yTmozcURWVHZlVTBZVnA3XzgzUVZ4eEdvOTlSZ3pHOUhLWU5sNlNyWnhiN1lHZW13c2R1ZUQ1Wl96cWRIVDRfNWtSNHNYSDhPeEtNbHJEcGpINEo4ek1KQWM0U2FWTnpiS0FPcTNXWnlvTDBCTjFTQzZMNDI3MTliOXRyWDFxblF0QTF0Zmp4YTJVQnZwMTFtbUd5WHhGbkl1cVFNN003UHhnYW16WFVPbkZsUnJtMUFjTncxcGNQQzUtX3ZlT0pPVVh1ZWt4bmZ2Z2RUbTNGaHhHUUJsRW1kRzF5Rlc5Yk9UYldwbGR4eGRYbUdjVHlMa2JHNDZNdGFmeFFGZ1hqQUpNRy1Fc3dtMWx2dkZLY0ZhTDNQcWlPNVdPVDR0VkVyMENkZjVXaUJQUmdjMlNuTnJ4bW5YQTRWazBadHVFQW1adGpHQ01lZ2UzZTZpTXVJWGJ1Rmd6dTJ6YUlxZWNFQXd0cHRveGlBY1J5cmt1d05ZVElwTWtPRGVjaG5LMVFPU0NFMlAyWHB1RUpqY1pGWUU0anNPNElHSGVDSDVtaEY0S0N2YzM1M0FxVDZFUDk1cWQxTkRMRFQtbU9WMVhkN0RjRW1EYmRucVU0WHhjbVdiR3hCN3pXT0VLVUd5bFQxRy00ektyUkxIeXVCZ09qa0dPU0dGTUp4VGZfblpEUXcxNDhsbzhmMjhWN2VqdW1BSEwyRWcyNXprWTk1MUNhbURSMDBhekl5U1dVX2xRbFR0eC1adXdnRHYzSDBYX1N5TmVnSFluUTZoeEMwcHNlaDNIeThDN0Frb21iTHBZQU9neXVHSHVwSnduZE1vRmVWZmktc3p2UGNWLTRTTHNTZEFWRlU3bGh2SkRqZndnVTFib2pDeW85a21QY1I0OEw1WjEwZEpiMXBid3EtaDFBU0tyZDR6dGQ5WFBYYmJiVTRYYkg3eFl2cDdvMDdONXVfVktlZko3bVpiX1g0QkpjT0M0Z1NPWG1icXUtTk9hd3JheVlVNzdHTmJ6alh2MGFYbG9qcjBYNFdWd01MRjV2Mmh1bmRmN3ZfZzhOMjRVdnBFcDlhVk1XY1FINy1aakJuM0RKMGMwamlzSThUeFUwekVfQ0hjcTltTkVhU2c5SENNcXR5TnNjNjdpQ0pON3NEaVJGM3hHSEFPWjczbGZuaFpaeC1xNldGbDgyQmpaUE5VXzdiUFhjNlZpYUg4bEZlUDA0a1djSkdZc3A0R2szT3NJanVnODFqakRqTGVsbm5ZVU1uTHp1VjNXU0IxMzlVNkFjbDdRdUk0a2tMakdVWllBZXN2Ui1DbFVETm5wMFdoRnJFWkRsSTV2ZHJseHNYUmdtRm9TYVFRWTdLdmNtWnRKZ0FIRnhHUTNiX1RPeWZndFVfSUVQNWg2dENHRWdDVHRsQlZJMWhBQ2Z4VzJFRjl2SjRIVEFQTC1LWVc3ekMxaTVwMG12dkxpbDd4clJMNW1DQ25GUERVNlpHcnNvMU5JQkpFWXpvbU1QYzZZQnVNT05zbFVoZjFpSEtCSGlnUENfX05kb2xBMm0yX3RRQm5lMTgyMDJsN29vVVg1SzFtTTVrWXYwZ1dyT014WjRSME1KQUdMWHZOVHBYMm5TRHo1UVZhYkxiNlY3bkVWbm9jNUNSdUw2bjA1ZXFuaEdsQ1lvU2xsdWNXOXUybnlsaWZlakZ5Q2FJd0EyV2hpS2RHUTdKcktoVUR4eWo2Ymh2cFdrcExzaE1kbzN5M0xScnpSU0QxTzBJMGxYV2JEeGFIYlpMMS1uMUllMFBGRGVOcF9aek9OcDVSNkpQSGo3OTdBVFBuT1FoLTVQTUJLLUVfX2IzclAwTlU1ZmpEOEFOU3JKUlBfRDVEamRMb0ltdEtRb0VoZVVZdWZWamhkb01JWU9NUWg4aXpLMG8tdTZqSzJLdl8wQnhZUGR0UW1UdFNWWm4tQlU3YXNIc1o2cGVXZ2JUNXBuak9iWjBOZFQ5OHVLUWNHOXNRUEdNNlFzaExORHVwSk56VmJxMEU5Wnlyd2MzODZRaldQSGFNRG5Xa25GTEo3Ym10N1dkSnJBVmpUT0wwM2UxTmwyYm9kRXlpUW9QQzFCUUpUdkxLbDBoRFpaRm9Ccmw2VmUwVzFhUHBzS3VzU1RSTVNKWFJKSkNQM0lqRk1Xd1hNdVJ5WnBFRVZBR1NVeEUtV0RZbHo1Vkdfc2MwbjZuaV9SRmVWZGE4MHdlZEVxRTlFSW5MYVdVbkprSzFzTzk2Y0FKblZaV3hSSVoxaUQwbER0cHowVUo1OEpQWmUteXo5NGFGZUtCRGhYekhJdjhybjdmeTZTdTZVeXVQeG1KbWwyRlZlQlYyNjhZY3NwQkY1eG1pUll3d1RzbFMzcE1wajI1Rnk4ZmMwSzFRYVhXU2Vtak1XVENKb2hvT1ZuSGNCcWNTR3RfMVRNQjlTd3lERlc4ajZfbmt2TDZ5Yzd4UGNLdmtPM0FITEtDVnFCOHpSWWRWVVFJNllnNkZvTXNReU1mN0o4WGkzc21SeUpWZnhYei1CaGxRNzJGV1RLVHNTdlllRHJxSkk2eE1ORUtaN0tyOVhBdm5uRDlBSnZsY0F5dnREbTNwZ3NiSE0zZURlNF82SE03U0RjR1p3MFhKV194UUFHUGZERnNMc1FWUUpXSDRBRXFjTzFDMWFSdXpfTW16SGEwY3A3QU42Y3hNYTN3Sk9iRXI2SmsySGF6UkhJYmlDZFdsT3k5UVZiVG9iYnZGLWlKaFpkN2V5eWhmbDhnRHY1bTFGaTltUm1KSFFLajZHbmctYnpmWjlyR09oUXF0SVJvTUVVR3I2TUhiYldyQWkxRENkdWd4N0k3dEJ6MkgwVlZGODR3OVZEMHItRGVSbHV0ejU4d0dtQVBzS29YcURhbk5qM2lJVWR4a1dsY1JiQ2sxZkd4NnlyWU5yMlliZG5ZczFrNlAyaU90RXNEeHByaFJFcGl0THFfb3dIVjZsbWs4eFNzR1VyTnN1UENhWjNfODRjLTBrblpHUWV0RURVcGxxWVdaS0lIVWVPaHl3dzlOSnFqTXJfQkRhNHNoZlRyaWh0dU9idmtfVzgxWjd0VmQxVHlIUUFwQWRyelBkUVgwV1hYVV9FSlBHVTFXSEMyalc5SFVkUzcwMkFrU01wX0Z4Tm5jZk11RVZ2TnFQSjVkYUlXSlF1RFlBVWhZWEZTcE9XZk1zdlBrQ2xQdWdmQ3ljeldaOW5PTHRONXZuUzhuUmJwV05MekppaDlpTjFUeng5cUFtYkFSX1M2WFhJTjc4WkdXYkp5TXdISDFnVUFUNGhjR1lVT3UxN0NNQ3Z5VW9XVmQ0aXc1cnAxQ1FzY3pTNWlhY3g5SFhvQk9PUnUwZjRrR2d5T0dFWmlmaVFFU1RMQzJzVHJCeDBYTG1jc2trYjVlY2xDaXF0eE1yRHBJTWUzRExMZDVLNXRHNUlVTDVUdWVfUlVvZmNMT0lqVktXcnFGUGxBYy1BQTVJSC1veHFGV2ZaRmcwMEVUVmh5U2JzSDkxMjRRZUttYjdSVDBlUzNjaHdZbFI2dVFkZWJPTE9pNkVSdlRPZ0hKR1JjeFdmWlBqdEZINUtuRWVSOFc0WjdJY1pfQXNkanBrT1pLbW1SWU9lV010YU5zVXN3S2R3WDloNldBakF5cTJZRlJJYWIwQURqbGVCekNWako3cFE4eEp0Z1NLM3B4RkJJVkVuWk1QT1ExYnVfZ2dOTFpHanU0RURiYkhLNFFZQXllZTk0VlpqTnpSdmVHYmlBWFBfem10ZktfNFdDenpvTWhLeHFtaFh1UzBQdWI4OWV3MnM0S0c2WHhKaTAtdjM3VTNZSFlERnc2U09ZLUNoOVFfamlaeG9hdFA5TmFtN0szS09PTGRsbGY1WnpWWGpYNEFSMjBQZGtweXk1MlRESU5nYVlLYTRLQXlDc3hBMVlGRURkU21WWDcxVHd6ZTREN2JOMWNEVFZ4RFZOVVBrQmQwRDRTUWhaU3E5UTlYR0M0eWgwMER1RG9CV0dvQnMzdXNtME5jSndDT3MwWGY5SDZlYmhTdVJOVXJJYmlfb2E0NndLaHNBPT0=
+import rest from './rest';
+
+export default {
+
+  getJobConfigGroupList(query) {
+    const url = '/api/v2/job-config-group/list';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  findJobConfigGroupList(category, keyword) {
+    const url = `/api/v2/job-config-group/find/${category}`;
+    return rest.get(url, { keyword }).then(response => rest.handleJSONResponse(response));
+  },
+
+  createJobConfigGroup(jobConfigGroup) {
+    const url = '/api/v2/job-config-group/list';
+    return rest.post(url, jobConfigGroup).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobConfigGroup(jobConfigGroupId) {
+    const url = `/api/v2/job-config-group/detail/${jobConfigGroupId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateJobConfigGroup(jobConfigGroup) {
+    const url = `/api/v2/job-config-group/detail/${jobConfigGroup.id}`;
+    return rest.put(url, jobConfigGroup).then(response => rest.handleJSONResponse(response));
+  },
+
+  deleteJobConfigGroup(jobConfigGroupId) {
+    const url = `/api/v2/job-config-group/detail/${jobConfigGroupId}`;
+    return rest.delete(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobConfigGroupVersionList(jobConfigGroupId) {
+    const url = `/api/v2/job-config-group/version-list/${jobConfigGroupId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getConfigGroupVersion(versionId) {
+    const url = `/api/v2/job-config-group/version/detail/${versionId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  activateConfigGroupVersion(configGroupId, versionId) {
+    const url = `/api/v2/job-config-group/activate-version/${configGroupId}/${versionId}`;
+    return rest.post(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  revertConfigGroupToVersion(configGroupId, versionId) {
+    const url = `/api/v2/job-config-group/revert-to-version/${configGroupId}/${versionId}`;
+    return rest.post(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  synchronizeConfigGroupCounters(configGroupId) {
+    const url = `/api/v2/job-config-group/synchronize-counters/${configGroupId}`;
+    return rest.post(url).then(response => rest.handleJSONResponse(response));
+  },
+
+};

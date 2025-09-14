@@ -1,2 +1,256 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NW5lMHh1R05OVEU1aVB1M3NMOVdNaTBRX1BOV0xpdHdhV2lqd0xrcFZxakNqNDQyX2ZmUFRsTGhqMGxNZGlEZzJybkxmbDVTWGhrSVFDbno4a0FaQk8zRldPTFdDZV82R3lKS1J1ZDlHdkNtMDNwbmxmUDYyZkZOQUlFVXljREVKSkVwUFlEQ0FoOXdMMnhSOGFzRlZPV20tWlZDRFdKeENIZkZmZ2ZiODlNLTRRTnk1UjBjcFV3ZHRUdEkzNmtvV2RqMEQ1OEREejhqV1QtaWRabDU3dGdVTHVaZmUtVE1Ycl90RUVIM2lZYTIycjNjaGRNcWZid2lwSXNtalZMbFlxRkh4UnlkUkNieGNMczBqQ1VHaWFuZ1NiZGRyY3R6TXdkSzhaVGp3bWliQl82NHQtOUx1LWdnbHdZQWxOVFB4VDliR253OGNfa0ZzQm5Na2Y1cEFlRTlaSjVNcDhtZG9XV3RmYjdpc1NkS2pIYTNieDIxeUMyNjEzeUVuNUtlend5OHAxaVF0clh0NFU4YU9ZTW9IMnhtUjlPcFdIOGprdDlMa3p3WTlzenlDYjRSbjFHQlctd1UzamJCMDZSOXZINFE2bnlkZ08wS21jRzlIVmtNOVpoVVRiZ18yZEM4aWJrN2Z2SFNHaEpTa1ZpMUdSbHNiRmxTS2p3X21WUHZ6QW9RQlcyVDNKWWRfRU9WSTY3UkppZUcza19Pb085S3RmYmNMY2E4Y0dQVkpuTEh2LTZUX1ZWaF8tSXBNRGRjVzNvdFlxS21vbnFQQzByNE1kbFhWZTZMRUNOOWpKS2t1SjRqUDBlU1dMalZyWExNcDd0SVd5ZWt4eFlCQkRfeElfdUx3LWpodmlrR1lqWnAwamdOeW1UR1QwQjNxLUdLMDloYXBzLUhObC1pczQ5TnBmYW5OS3ZIYnplcTZvNEdxN2QwYjctT3pONk9Jb2c4TzlaYmxYQk1ZSmpyQ2ZsV0lQeXUxU3ZxNlFvUFNYY3gyTFJpX2FTel9MZDJicklISktSNjQwNjdCSGFCNVNKb01BTnNSWmFxMzM0elpydUd4NEEzdVUyMHlPdTBEZ3VtUTZBWmV1bDZqNEd6SmxhRW0wTlhURTdjUlZTT0NnRnJ4ajg2c1RXTFBfRTV1R0ZQNTF5SEVQaHFfSExKSUxZSzVHclE2ckZNX1I1OUlIWVdyNk9BMnNta2lfRENGM3hDbDNOSEpDRzlaOVF3ZU1MZ3pqWmUzQXNHMUxIZ0JMMzlOak5TNnNYT0R6Y0ltSE5oQjdtdUdEWGp5WG1Cc3lINHBSdEh1eTZQckJEZjVERUc1VDVFN2h1UnFQNS13bHlPSzYwRWNKdllLUjR1MzRnbHluVUxnTTNObTdIakt2S21jWncweUJoLTV3N05nXzBhUHFsSXkzSmwxb1BWRXpKWXVId2Q3R3ZkOFQ0TURHMFJ4aENpTThBRU1nNHlYbVNheEZfQXpTZEliOVV0NHA1bHV1LUFrYXR4WHJJbi1BbUFwWFhTNmdERmVCVTRxM3VyM3ZCb1IwTUhsM202WTVVUW83amRISDJhNDJBSi1Fcm8ybzhLQlZLTWw1SWVraV9GQnZ3b2pxaUxfbG1wcFVmUGFOZ2lkZmZJdklwb2tiTHJQeFJRbmZvck5fWGd1TEtaVEh3cXp1MjdlTzNkNVlPQ211anU4VnlPeXIydUZ5bi12NUdKYnBsQl9GU1hSMjZMME5RZ0xVWmZjeUc0VGd0LUliMks0Z2R4VTBlQ2NIeWVWV1pnTWpIZVR4OVVHd2NmVUlucW9jVnB6d2xRYlRsNWRWNmdXd1A5Tk92MkNzUk85UzdwdERlWW9kSXh5ZjlhNFJMSEtZNk8zWlIwYmd1Uldxa1VfaE1jUnFmZkdGMmFHWVBkV2xTcTJUZ0FWMVNjV0tfVXZmR1ZmYWpKODhyS29tLVpOclE2VWljRFVnNG11SDUxUVB3alNzdFVFXzJ6LUIyRWlob3hPVll6dzBqT0JIak1YZThMdFVRbHJ6ZVB5Y0hMVEN0LXdUUllsQUlBV3NuMS1aTFl5VVVVclptWWVGSHUwMTlPR29yWlV0TC05b2hIQ3ZCd2t3WTQwcmNXeWxXdVRKbXlLRkZEZWFXQmJOMnd4S3VEZG5kUHJIUTRwY2VVRXZPUlE2WjZFNGxzclJmNXQ0eVhBaVhnOVpqRzdxbmhkTTQ2dFBtb0RoNXVGbHlNZ2JpdkZycGVPSHg2b0tRc243VjdUSGtGX3lhLTRqY3JpZEdjUjk5bG1VLVFsYjFYY2xNOGozR1NNXzJULVBJNHlfNEFzMUJlMFlGQkZmdVpWMWM0a19rV3ZLNU5jMjhESlVxTVhtckM4bkVudVNlamhXWXU0MGZUM3JXQmtCMmNWaVpCXzB6d0VkODhYSkE2WGh2NzBDTXdpN0JNZ1hwXzdESTZfcGRZVTR3TWFKbGlMMzlTVXdPTWhqU3dTcmxOSVBvaXVuNDRzRXdfazNfTHZsQUFCdTBOaFE5RXU2WGxDVndqY1pzeXBoSDByaDloRlp2LXFrbGhJemRTQlZjU1I2eUdjSVFWNEFubGw5WnZFUmVFekNTU1VEZ1dFRUlzS0tBNE4wRWpsaXhWcWMxeFRIVDlWQUVaX19YOWJuRk1STnRGVzRYR1Q0QW1nNUt6MXRaR0JMYWFmQkRqcV9wTmhiaUhKdFBERkowMDlUclhrVnhpam9aNlZXVUxEU250SUhUY1loY0lGSUx3ZjUxNTZYTHM0cTdVY0lPRFV6cmRPWWNOZ3RxZEVTNW5iZmhubzlEX1ZjSk8xZWIzaDd4QnhLNXBvc2cwMUdnVUpIb1JfYWtLZHNqZk9rOVpQQlB1X3pIOGpYTV9fdjVjQ3BQZV9qX1BhUlh0c0NBSjllS0FMYnMzcG1DVURyOUZlRURHb0FhZko4dE5uWjJhdEpDb3FmSC1NZ3Y1N3dPVVRJdnRxLWNzbXlSZWtPYW9Sa2FrVm5uSjNweUprVnVhUnVlUUxBZzdRVjhmelhVc0pRRWRJZU5HdVBoSm1WZExPczFUREUtbm1jVzNNYjR2b1FqNm5BSHpTSndGejQ3bFh4TzJhZFI5a2F1a3VtZTQ0SnAwblUzc3Q3OTF5UjFQSDVnRmprZGVSOVBUZGxyQ251a0otdGdCWGxsRHRQc1Z2NjRsa2lOanVPOWZUQTJvLVJVVHlBM3ZkZm1wSjJkcDhDN3lhY1N4cG05Ul92cjJuanBzOTR6WS1DbzRCeUNja3EycXlsdFNzNkVtZ04ta0MxQlotckFHbEtTNDBjZkhfQW5CMkM0Qkp4WFJqYmh2TEhYd1o4ampwaHdEeXZtMlZLRVJpOHA1WjYxR1l6bWdvdXJ5SHFScWt5aU53SFFwcjZQUkgxWFA0Qm84VWdGWE5rZ05OblljaHphdXFObHRCdEpNY3lWUjZXRWZIdllZNFJXVEV5LXJkMGdrSWZ6S1h6OVZHcmNNclFGV1JTSkZwZ1lNbmZXVk16bHV2b2xGNWhrcFdVeEhBNlBVYlVuU2xBSXNaN0NZcjNTZVB2VWJ0RHJmS2dNTE1ienl5VFpvM1oxUlVVUk43aEhTVXF2enRocWwxTHBiaFFxdks5TmMzRTJBbURGVVA5Qk4zQzRWRDBMcThJUWF2MUpZQ042SWFXbkdYaDM5aWgzaXRERDdFUjFNUjFud1BieWVXRUVKVHp2bHYxMS1VX3Z0dVZQbGdrMzh4UjhyRzN6eHRhRktiNGNkV2oyWVNzWHJOSmQtbmNwQkpqQllTRlBHay10QV9rTTd4aVkyV3hKeUYtUTJTMU84ZkNVb3VKLWg4a1RjeUc2X21Zd2xrZXRJQ0R1anJ2SHJuTGFwTFNXbHpDMUxHQlNKY0JnYW5KR3FBekNaUXJUMFZFRTdBeC1VUlVNMHo1NjF1SmlhLXNfOXVtR1E3YUtDcmZMdk1NaW5DNG94VjVHVzZUMnB4SldCakswaUZ2ckRIa3pOVUphOUJocEE5SkhybzRBVmpuSkMwRHF3QktQNnpTVlpkeUJSR2VLWlVUc25EX1RrS3lHMEdjenBQc1EwaENES3BLZ2hWNlZDVG01S1VjX0VJU0JvMkVLTmN1TG5MN1h1cU9LOGVtanFOVlRpbEk2R2luT1FDLUY5U0dxS2daWFdTN2w2UzJIV2J0dmlQeVlVWDJoa3ZjV0xxaUFRdzZxVklNNmZsc0RFXzAyTzE4QXJLZnhJVVI3ZURTLWY5TndveGxheUFIWTdFVVB1MDdUUHlJbVdzZFl1WnBTYmZyRC1fb0tCWFV4ZVh5RExuT3ZxLXZaOWk0QUVCVmdpaWxvMVR1bXZfQmEydDE0VkFLZk1Gb2pFOFBpcTUzWTVJLXJtTjJJZTk4TmswWm5zaEFqY182TXpIQ0ZaWDFDdGZiWkFfMDdPMV9BVHdueVNXWGpCLWE2aTNxQ3lIMUdqUEhsV29KNTA1Ql9YamIxb0pNaGlybWNQUmo0dXhyM0NwQ1F5MVR3UExNdnpfSjNTRzRpZGtDNXZ3LWZIMm9YTnBHUV9LempXM2hjd2hVdnozX1JuSXRsWHlZWm1LMjVxWUx2WVk2Vm9vb3d3b1lBbDJYRWxOUXJRWjcxaDdMSXRrMnpialVUMTlqa3hST3BWTWF5U1lYS2R3YXNvd0VFaGNGbU1KeG5OS2JNOXVGZDZtMFRPRWlyZWZHQnA5ajVmbXY0b1VSLWx4YVdLM3lOakIzZ2dYc21JM2VfVlROemloXzlUQlpDUmxsYlgzVkRtc0pnZEJ6VWFvdWxHQ2FWUlNMb0o0clVsT3F5aFltQnNWR1NUTS1YRHdzVHkwb3dBUjljQUZXWm5La3pPLWFLOVVKNjFQaGNkcTlIek5MaXVoQVk1WjM5ZG9KcW8wYjA0Z2k1TDlXX3BhLUFhUDdEZ1JGQnY4WW1pWnhEOUQzRXdjTTREMmRPczVwbGtuMWQydlNvbG04SXpkWmhZQkhLTEVsWW1iT3psSjVNZ1FqcDZ2NFI5RGd5aG5ZZU9CdmNLRzUwcEN1bnpuSzR4N1VwRndSV2gxMy1mSUlGaWFzQ3BzaHIxeC1tRVRldW5PSVJKdFdNd0R6bnJYNDNRbVZIYXdjS2Y4cUNuNF94MDRnVnN2RDJUaGlIdG9yRmpLMjBDQ2tFbDJuSWl0c3RJdk5mVGFGUVl6Q0lxZ2xXYmtFMFdRSzREOHlWNG5wMGQwRTUxUkhsdTBoNjZQckhBWVBBck1KekR4OFQxS2dJNFlLZS1MeVV1amVHMW83TFhBNmN3M2ozMThCeF9ZZ0h6dk5JbXEwY0xodTJFU2dYNXQxanBOYXhuTjJHeGE1QUZ5WE9rRzFLOHhaRU9ZeXBaWTJGMGp2RWx0RFVTNjFMX1d5Zk8wQzFXUFh5eHFkcmpTdDRNVzlDUmM4NzJQemYyOGJpcFpTNlo1SzhSQjZXLTdzVnJvemwzN2NacW5ZcEtMZm9WbHNfbndnM3Z0RmZDUDB2UDlwQktiek1oRzBxamRKeDNrV0ZhZ0Q0NlZzNG9zdTlWaEFCT3o4dHhnMTNtTDV1Q0hxa3FyeTZSYkx3MkJhVlhzNE5VWWNISVFNM3ppMEhLN1RwS2cxY25vQWotZkFKRnJTNGpxbXNiYUp3THBUQUFpSXBwV3B5ejhOejU0eHZyN192dXgwNUFfdC1rMGZCQ0xqZzRBMnlSQktEX2RBTTBSLXo0QUhBNnFEbjFQbC11dEVBSXVmSjByMU9RaFNZNGlfZTBjMUNWZk1aaUc0czcwazRLTHpBTWlGenU5dTZscjJvdFZiVFJCaGwzWGk3dWY4bERpZVR5SFN2SmVXZTVXZXFlaFZzSmR6ZThYdURCdS1LaWZtbnBrbEdaVWFHQW5uY0Z1Ym1HdUVhdktaM1BsUmJmUUZuMjl3NXBhYmpOYVRRWWstX25EUDNITjMwemlzWG81ZlN6dmE5SG83YVpCNVVoVncxVjJwZFo5Si1KTVdiZ0JZRnRTT0owb3hnVTRyZUx4MERRLVpxWlcyUHAtdEVyZmdmSlU2S2ZpTHA2Ulk5ZjZZNnBfYlpMaXdvMm5UTE5rUHBGYUprRXRkV0dnM3owa0pZWWZHMUZaODdEVENXaS1ISnh1MVNzcWM4akVUSzRDLW9vSUxtX3kwNDFvbktMVl9MZG8wVFR3ZVpGZjF3YjVzcDNMUVVXZ256dktEdFBOOWpTajM2NVdVOFhIUW9LbGZCV0NKSk80SjUyTVdocG9JTmtSU2Iwc3BqQ05PZG9LYjhoajI0bVpBeGJWZUlUaENFWjJZZ191ZmY5YlpSV1NSd3BzRUxUekhDZU1JbHp3VjNpRnlvYi1TQ2trMFZOckVMLW9GWkNPcUFQbk9jR2NZMTBMNWJYLURYYkM1UklSNmh5aFZDLTB4WXg1eGZ2d1R5NUN2NVFNaFgtLURCZWpaa1lZVUdCVHJMUm9MMEVPaUQtb19lN0F2Q1c0eFEzWjVVUE9QSjNZQlJrSzV0WXk2dXZzWUxnMmtzb3dSWlZxaDFYSi1XTmhwV1BHV0h5Qm1NUngxMHZETnhrbkJJZEF3alduMFFvMFNBS2Y2Y2c4OFVhQTg1eXoxYnIwZEhNSkRuVWJHZjFyOU9lejlVZXREMFFZT21ydlZsV3ZLd0xacHl1LXBMcTYtb1ByZjRXZ3liclhWazd2R3VYdHVfTi1kblM1N1A1QTdieEN1Sk05ektrdDhKZmJZSHZyOENVamJBVXJHRlhwYjJ0djlVb3laUWFvb2RfQk1VU3dna2puaGFIRUpuaGdCcGY5NVVoZ0FVcWFEcmlKUW1mNzZabUcyUmZfZVF1aEVBMG1IMWh5NjdXUWV0WDl1TENueE5md19ZQXNFM09zT3FCcjR0Vl83NmRFM2RNUmszcTdBdzVhY3IyQmR4NnJIME9ZTElxeW51bElQQ0cyLTFrM0M2MGZXNXA0NUZ2OXRyeUpBQkhBNE1RR3NWMGlXUUlqYXJEM3d2Z2F0YzhhT1dYOGllRHdsVWhkUThIcE5aSkUtcXlydlgyOFFvMkRQZ2Rkb25neU1DXzhEbm9FTWhsdHM0MGRGNm9IOFVfbFFUQkpZVnVESS14VjhEczNBZ0dQUEZGd1JDdFpJOTVOM2MtTzFtc1F1R3ZUbGNiNzBsbnRWMjBULS1GdlhxOUhnR242eW0zVFV6TURJS3RKMG84c3hSQWZxWjVyb2JCbC02TzFJWUptM3pFbDlvT2lkTEExeTNUWW44NmVmSW8tLXR0cTVJNFNWanZ3c1JTbXRYdEplVUt4QkdiOVNfRWp3bGZjZ2pFY0dZSUQtWU9oY0xxSUxpRlBOdXZlZ1BjLTB6akxnQW5fTlNhMVdPRUtla0t3R09CNUdLNVdsdjNHQkJVMUk4T3BmU3k1VjFLWk1aUGItWUtNZGJfWVFIZXhNRi1rQndWSHA3ZXVNRllNZHNIWmF4TU1rVFo2amY4OENnQlIxTTNDcHByQlRpTllacURCdElZbU9TdmFnZjFWYWVCd2V1Z1FrdzhtRXBqZEhUV2MzYlY2LWJOMlRPeGZCZl91RC13Z0NXZ2pibFBzSTBXb0pjRjB3bEdoWC1KcHVIUlFwejc2WEtHUTVEZGYwTkJEYnJqMGZMcWl1dzFSOUZJMVV3ZzJUR0FzUlRvV202MGZnZGtMYkNFMTlzcWJQQnZiZHdfZ19KNTJjYnI1Smg0NXBLUmJCNjVDMXMzOURhX2FvWmM0ZnhCeXVfUW5iTTZUcWszOTd5STlfMElnbHJjM010Z3dQT25DX2RWLUE4NFVJdzVrM1F5d1pDNm44TXBhbHdTeDF3VDE0bjNEUUY5WEhSR0pIbnphSzFLT3VqWHpnZkhRRW1EUEdkZzl3NXdWYnZSbHJ4MXBtUmh5VUNEVGJCQW12bHh1RlVxWGR6SnNZb3ZZSTVEX1N1MklMbmtYR3kySVRNcUZQalJmRXVDbnRkOWdsUTAxQWZRUFFoMFg4ZDZuY1A5R0I4Vmt4N1U0blRtdWhxa0lFZzc5VjhPY21sQkc3bUZPMC1VWnEtNGZVN1hQY2liOVRZWllfbTFKM0xmQUtJX053Y2hsQ09EczBMOXl0VUs2aGYtOTN1VG03VWlYcGUwb3U0MFg5eVJYeWlPTjN6VmdRZmY1dGhWYzlISmp0Rjk2SFZ2THFHNXhiLXFxN1JVN1IwajZOQklQeHhncUlnT2tPT1M2UjBfRlpwZnBQaGNTNjNPM1hJWHBtNFVnbmNDY3ZuYUZXMEtZd1VNSlpJallFQlJKSmpDQTg5ZS1kSkd1cFNkVktublkxaUhKcWxxRVpFTnZTRW5NUUI0Qnk5ZUM5Zk5iWF9LdnNqaS1NNkVrVWVRVnNJMGJnTk1ELTlvbXUwOWxYWlFfVkFhbHgtdTY4LUMwemJYMzI3RUxJYjVXMjVvTEFkeGpqa0lVcGw0UXAydFIzN1U3c2ctenBjbC1TS2xBcGtteEFkR1hPN19uRGxsSEpOVTlHMFJkRWxrOUhfLUx1MTViTU5BQmh6aVJfY1haRDJtb3FlcGtHVFZIbDNvcV9vaG84MmU2OWZXdWhOVVVicnpDaDZ4Q19RMnBPQlNSQ2VjYXBqdEt4WnZ6NW5mNHpCTV9BRE1GdDJtMDRzc1NMV3pET1l5MEpCcVFObzhVR2FWcEduOV95RG10RWdUQXRGeTU4NElHMkRHVElDS3RrZTVudmZuRV9Hb1RJaG9TQUpJRS1zWEJCdE5SM2luNFNzbjBqWmlVbUlrMlA3NGptdEQxVHVkajNjNkRvSDVod3k2YzFiYUc5ZnYzY1ZWejMtN0dQUl9ZOVJTT1M1VklIT2JMTzNDbkxOUDQ4VEJRTUVjVjAyMEJzNHVNZ1E1cy1LV3dvQzVBYVZZOUZJZ3l6X1ZSNjRnbEozUmd0d2F3aTQ4T0s3amdfU1dpdVQxcVhac1NQSHJ2OGhETEtNR0dzaUEzYjZGY19OQUZvU0hEeHc0cTQ3TzZCUVczaXpkOGlkZlUzc2hSWUdJTjY0Z0huUGxoWHZNUlpjRjFCQkxrV2N0Q3VfX2N5ZE1mbkJ0Z3ljRldBc0lrSkUzOXFNb1dQMy1rWUNDdFlPRnhURGIyZVh3NWtiTTM0SWtGaXU4dmRDYzlMMlVHS2VLQUFfRWNYWGFqMVpTWHN2NEZQVTFPbnE3bHVWdmk0bmhaVnhtMUUzYTAwMnJNLTJwUFc0d3ppWnEzLWhoREhCczJQbWljZTlZY1RSaTNaaXQwSzFuZ2psc0M5QU1uX3dYeXBIYzdnUmVsTWdIOVJ6SlRST191UmlGTWNwMlYyVWtFS2pvR1dkQjJtVFdhNU9sY0RPVm9HX0dWaVNBUi1DNl9mQnJ4SW8tSDhNT3hTd0VfYlhhNmtOYjB3SmdnN1pfenlqVlc5aFctX3VtVHR6R3FMX2pTdEtPZW1DNG94RjZaUjl2dGl4aUZNTTE4RUxpREhHbjNVOV9oNzNZSTRReXM2LTJKdWJ4NzRFU2lHWlQ5SG11cGVPR3MwUWJyZWloS1FpaVMxcVRCMWk2czhRRmdnalkzazRFU0RVMHJ5cVNSUmpTdTE3SW1qc1V3TFFWNUtnN2stRjFOemV2MDQtcGpucGQ0MTV2Y1d0dHFrS2I1aUJGNmVnRVN1bU9VVmJVbHQ5bVNKc3c5ZWpnU0VTN2ZrRzJtWHNIM2tXbWdZdGJOUDlhdmdGa2x0cUFhMWxfUkU4cG9MaEZva2kyRWFxZHdyXy1IQ3ZtcldGMmZmbC1lWU10dmIzUG82NnQ2RzhUOG9JTkY0SkpXNTBhN29pV3ZRbzNRUVo4eUVUWjZPdldudTVSNi0wQ3A2ZzhtUGR2TGZtdWdYZ0VQQm5sMWE1NFVnLWpHR2RGUWxySWxhVURweU55TG80Sm1vVzJiRGwydHlDWDFQRlhNMlhWeFZWbzRxRWx5MDFXMGN1T1JYWEJkMWZxMEg3M1dnX1hTZGNaSGRRUzd4cF9MeVVfd2dtaWlJLWtNSWU5ZmQ5OUlDYUlqVnVyQ2IxVEFlS1pCbkZ5eFl2eHRSSEhSc19YR0dxUm94Wno2LXpCb1lFbmVEeEVTU0dtY1d2RUtqSHhfR0lWMldINEdSbDFaRnFKNjNKUTNDaGlGeHhzOWIxUnZLNXdmYWpQM3RXcjI1Y21hWnNZWm1NYmlzMFV1YTBFd0FwMm1SMW5GMmUyOFUxam5YZmVJb0I5Z0tQU3B2ZVVlYzNWVUdsbXFoOGdZRHduak1jOTlDcVVRVUZNT1BzQVRVN2tBanpTSFpSbV8xWmpEOXdaY3VEVmdxWnVtYk9DdDlMYTFwVEotQlgxaXlGbFdkdmhDM0plU1h4WFlBYUY3ZnNua1ZLcE1tN0xrNXFXWHBCR3dVTXJkRlItZUpvOVR6VjFLZ0QxcFliUnBCSFRaVjc2ZDRObFo2UTJMNnIzMUxMY1hxMVdYYUhKWGdvVzB5RE1mN2RhajBXc2llS3pGeWxzREFQUERSTDNOcVVHNlFSZGJNNWhuZ2YwRVUxVlZXbW9vVmVQTTNGb2FEbFI2dDRRTVVRMlk1N2dmYXJPTklQZXpnZDBrUW5IVDhJdkdESXBQSzRNNElsOU9rVVhSVFVFMGJRZ1QzdXZkTzd5eGljc1doay1rWDRKeTh1X3VyQmVDY09STXBZM2puajhKR0RIWWFqVVREeTRYX1NFLWRhMGlOV0duN2RpTS0yLV9wcDdGSzdlaUN0NkJrcURXTXV3MWUxdG1xdG1ybjVEQUpyc0ZzZnp5UU5vWWxwdkpLemE3a3h6RWZnLVFoT19MX3VuQUpzU3l2eHdwaVM5QU9iaFdHcEZYb0dRLW9LXzRybWxqU2ZNUmladVZjaGN0aHpmWFRVdkhvSS1qeTV3Y3JIeW5ZaUVDZE9qeXNWcmF1VzJna3NSRVhmNVJtbElSMzBwQ0ZuOTFGU0RTRzIxNDBOTU9iTnROTEZ3VU43bXVTNExBbDNDTkZkdlktd1U4amgwakpNbDBRVEZvYk8zUE5USlJKelNKbTlTMWJwN2dvY3AtUVpraEZya2VNcHYzSy1GMU1LeDBJcnNJS09GSlpTZnpGTkZxOVJWMDBCYmlVbzQtcHBaVWpyanV3TEhNMGk5cF9KOWFXeXk0cEFrYkE4S1NVTHpBWGFBMVlURDczR0JLeGtkWFNHdFpLc2JqQXlkZGE1TGx0cWZiRk95em02UWtCTGFMU2lLbXF4UHdkT2wyMjJSZGhpbmR4SVBlTi1CRVpxMU1QWlMyd3Z4ejFMNEVGMjNOb1NFSTNrN1ZBRHNqTFZuc0hBcHJzQlA5cWZvZ3BJbmctb3NKOWtvVl9pSG9VSE95OE8tSlZpM05Ud252OW5sMmR5SDZBM1pwNF9kRkVHdjBuREg5c25ZQm8wcFUtOFpWRWtSZnk0VlcwLU9wTW9leTVlZFgtX3A2VndDdUx4M0haX1NqTHRZS2VZclV2N0N4TWNadVd4dEF5R1R6dXc0aFBrUWZYZzkwOHlDdHZnYk9VeTFrRDUzbG4tajJWbXp6VE1wWU16RGVMZEltVXVNS05MalJqSm9pMG9PMk5WLWpjRzIyZGNoR0FoMjBtMlVtdU9lSkEtMjRTVmZwZjVCblcxN3pBSU9hOFZDOHhwOWVMejFkZTJ3VU42RnRhcExTUjczdHRBLVF0blV4TVltVDNUbHhNUzl0LURDdU1ZLUFZV0FiVGJMMDhveU9Fc2FmYUVYbFhCM2h3UXNreGVkemdzaE44R18waFgtbUFEZnJnSzloSF9oUFZIUkNBam1oa1VsZUtVMkxILWsyRWNkTkY4OXU4c3VRWnZ0NGxueF9wbkJSYzNuVzJUNzdOQmV3bENCeEsySlFwUFRCX0g4cWtqSlNlUVBVajdCOVU3SWNLMk00dm1lWmJNWFh6OVJOWEY0azcyamFtTnBhRlpZZkFaNHV4MEo4MXpxNXFleVZXelZOZUtzeHFCM1hOSGZ3TXBfZjAyVndNMy0weVFiTWU5NUdzd3NQaXF2ZElpSXAzMzRvQ3ZvQThYLXpNX2FiLXduZXMyU3htWVA4VURsemVlU0dTY1RScmVzdldHbjc0cVZiWWgxREtSNWMwZktxMmx3TktxRkt5ZGFJektIY092al91ZVNKaS0tVzRoYWV0T2JtNVVlOG1JdTg2Y2F0YjlrV3pjdGxRcFdJSEpiSUFpXzFyMW5NQTl5cFAyaHhWM19OTFZUX2dtdmVKZzg0bGZ6LTdDS3cwWG5NZG82UHEyYVpmMkR5R0I4ZlJJVGhyMFQyU2thWFpQbDR4VVQyWXB1N25zSW9Vd3pJZERQSlBTWXd6RE5hYW80Rl9JakctRXJrWHJvMUhaZk80eDJUVlhlZXJiTUVmT3hSaURqajlfMEJaUXF6NVNHZUdFT3dxck5xN0J4TWEzclRXSENlaW83V1dhb3MteEtXSFo4dGd2Nk1rQjJqYVZ6LWp2VUxCbzUyM1hlY2h4SHk1T2pjU2psTVJ2Mk51RE1FMlllTjM2QVRSSEhIT1VEUmVBLVBZZ0tLZExYbTVpR1pjblhXR1d5bFFmRjdaMzJycEwwQkVCOGVmVE01ekItT1NNYzNIZ1BRdEVJV1JQVXY0QWRUT1UyM003RHQzQkVfQnNZWlVreU1aVFkzMWFZVndvdFNzM3Y5NjdWUGU5MlpnQ0R5aUVPTUFzU213cHlMNjdxSGFqWEJfSm1OLS0wdXZyNVRSWmJzTkxmMGttY1VEWWZ2d29IUFE5M2R0eFk0SWFVcU1XSV9xeE5CYmxkSzZrUXU0ZVFNTzRhT2E5ZVBETE5wMWptOVhUMTl6TVYzaURxUkpKaG1oWUo4UlJyVGJQZmRxVUN5bmUxeHhwRXV0RzdtV3RWei1ONUlDSHItME84eXBpTGdZb2ZERHJDSzQwVk9FejlSNmFFckozZTlaTngwQ2VmUkhTVWlUVXdkNlZqaFdqSHN2akkyVzhmRGZ3SDM3dEUwamV6Q1plbDJlLW8zcGVXdndpVExPcG5CRElYSnJDNVV6dUdSSExObThEUTFqbFRTOU1xMTFreFdSX3FVVVFoNG1ZRUd5Wk1ZWXg1dzQwT2EtTWozY1NZMV9GQXpVUXlnVzk2U0JGdXhHT0Z3bXVvRVBRNVAwbzlGbjRBQXpCenNqM1U2VVZISzVjREdoMXhEZ1gxQkZwRTQtWGd2S2U3SG44MVhybWx0cUxxdFB6UFoyRW9WWUxrWmU3VlZwVHlHbUZBLXR4c0xSeTNHQ3ktMVZndmE0ZGQ3bmhyaDREYkR4eXRTSXVmcUFVTk11blpXYl9LQkJYS3laVHJsNWg2QmpsWkkyTnJhb3dFVE1TaC1qNS1QalhoZUxmRmFJc0ZaYlFwVlpfRzdCanZaZ25DX3VnU0JXVTZuTTFTZDlMX1BuQ016TkZhM2VJQlE5VTV0MVJaa01Cbjh2SHF3ZmdzZnVtM0ZScmhKWEFwUExvaXZqbkx4MkYybkFFeWZJN20xcEgzb0VnWUVwTzFQcURlYVFySTZ0bkJZZi1XaWpPSWptN1Y3RnlzYjdvTEhheFJ0TTd5dTIxWFI1UFlhS1NmcG4ybEg4MWtvV01DU2dqbjctWUVLUmZnQ2F3S0pCdTFzbWRNWVFSWHd0RXU0ODZCSVlDNTRUX3g2WWRtTUc1VmhVWnQxYndYLTItYnY1MzU4WU4wOXpKZ1pQVVVuUVd5SkNlaDlzZnF0UndNMlFIZTZUZlpCbVpnM2Q0VUVHUXB2U3Q3bTB0RnQ1MUk3MTBUMjJfUTNkZ0pfSzJYWjhuSzBTY1J1Wjd6RktNdC1yWk02aXAwVXU0UzJGazAtcXlxX21ITkhocEhvMzBHS29CN1Bvck9GWTNOQTdBRl9WMnBUelpwMGJjRmFIOFpKQUU5bDlXS0dlYTJUNkUxV0pJMWRYY3htRHgzV1dGb2xITXlmNnVxUXFlNU1pQ2lURHhDbG40cGx1SVFQeFJIbGlaOTBObFpkZURfYllwZl84eVV6ZE9iTU5RV1JKUk1ad2VwYmY0UUhZWVUzR3RJVmdMbzFyWFVxNXVzLUhXNWtsS0Z0b0FJQ09SeFAtUjFkZ0dCVWxjdk1NcWNnTllKdUFYMGNqM2t0Q3NORDZVUWtFajRjYUZiR0xCV1RFR1hqZFRVSFVpVVNRRER0dURIV3pKSUpuSUJyYlF1aUlsTmR1SFZHOGR6RUFMZzJPVmFadkYtMmpSa2pNdThBYzNla1NnN0pKZFN4TmRDSzd2bnBjeHVtVUhCb21OUk1Sdkg4ZU9mYlA4aFY4ZnZZWDF5bUFSbndSMm9WcEktSF85RnltRzIzVjhJY0ExMmJTaXFZXzlGXzFlRmVDRG9Ub0V2S3hxaC0xSGhuTkhzRlVXaUlCSG1EYUdTanB2cXkySW9lRlAyWUY4M2w3Zmh5U25MWno4bU8xZ3BidjJWQTQ2aU05djlBcTl6ektIQUt3amZUd2Q2Y0dTQTlheWxwQXdzT3lRSkVoQ3V5NGxoemtma0k5N1Y5eUY2bzF2cEdYQzlxT2pfOXUyUjNBeUNmbm5zU2xTaFdCX2tmZEhSc1JIRm9NY2V0eTFnZE5yaHRRazRST0hPUlA0Nnp0RmJkck5fZjlwRDBJWE9ITTg5ajRmSmNSSTJ0dVZCNkx3UjZYSG1kcFhhVm16S1lQNGxwUUN6NkNGaUV6eW5ONlpwUm05bXM0dzV5djFURkl2NkVIZWtWZWhvTE14V1J3Y3FoTFFUaWZhRm1fdGprRFFYRFNMY05sSEZrWlNpNl9YcWx3NHFQR2ZwZzdVc0Vfa2stM1NrLUVna0JlbDh4QS1IMWdNb3pOekllUEE9PQ==
+import React from 'react';
+import { render, screen, waitFor, fireEvent } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
+import { BrowserRouter } from 'react-router-dom';
+import BatchRequestList from '../BatchRequestList';
+import monitoring from '../../backend/monitoring';
+import globalConfig from '../../backend/globalConfig';
+
+// Mock the backend services
+jest.mock('../../backend/monitoring');
+jest.mock('../../backend/globalConfig');
+jest.mock('../../backend/jobExecution');
+jest.mock('../../backend/pipelineRequestService');
+
+// Mock child components
+jest.mock('../components/BatchRequestPage', () => {
+  return function MockBatchRequestPage(props) {
+    return <div data-testid="batch-request-page">Batch Request Page</div>;
+  };
+});
+
+jest.mock('../components/AssignmentGroupChooseModal', () => {
+  return function MockAssignmentGroupChooseModal({ onClose }) {
+    return (
+      <div data-testid="assignment-group-modal">
+        <button onClick={() => onClose(false)}>Close Modal</button>
+      </div>
+    );
+  };
+});
+
+jest.mock('../../components/LoadingIndicatorNew', () => {
+  return function MockLoadingIndicatorNew() {
+    return <div data-testid="loading-indicator">Loading...</div>;
+  };
+});
+
+jest.mock('../../components/ErrorAlert', () => {
+  return function MockErrorAlert({ error }) {
+    return <div data-testid="error-alert">Error: {error.message}</div>;
+  };
+});
+
+// Mock localStorage
+const localStorageMock = {
+  getItem: jest.fn(),
+  setItem: jest.fn(),
+  removeItem: jest.fn(),
+  clear: jest.fn(),
+};
+Object.defineProperty(window, 'localStorage', {
+  value: localStorageMock
+});
+
+describe('BatchRequestList Component', () => {
+  const mockBatchRequestPage = {
+    content: [
+      {
+        id: 1,
+        name: 'Test Batch 1',
+        status: 'SUCCESS',
+        uuid: 'uuid-1'
+      },
+      {
+        id: 2,
+        name: 'Test Batch 2',
+        status: 'ONGOING',
+        uuid: 'uuid-2'
+      }
+    ],
+    totalElements: 2,
+    totalPages: 1
+  };
+
+  const mockBatchRequestStats = {
+    SUCCESS: 1,
+    ONGOING: 1,
+    PENDING: 0,
+    FAILURE: 0
+  };
+
+  const mockExecutionSystemList = [
+    { id: 1, name: 'System 1' },
+    { id: 2, name: 'System 2' }
+  ];
+
+  beforeEach(() => {
+    // Reset mocks before each test
+    monitoring.getBatchRequestList.mockClear();
+    monitoring.getBatchRequestStats.mockClear();
+    globalConfig.getExecutionSystemList.mockClear();
+    localStorageMock.getItem.mockClear();
+    localStorageMock.setItem.mockClear();
+    
+    // Setup default mock implementations
+    monitoring.getBatchRequestList.mockResolvedValue(mockBatchRequestPage);
+    monitoring.getBatchRequestStats.mockResolvedValue(mockBatchRequestStats);
+    globalConfig.getExecutionSystemList.mockResolvedValue(mockExecutionSystemList);
+    localStorageMock.getItem.mockReturnValue('GDM'); // Mock assignment group
+  });
+
+  afterEach(() => {
+    jest.clearAllMocks();
+  });
+
+  const renderWithRouter = (component) => {
+    return render(
+      <BrowserRouter>{component}</BrowserRouter>
+    );
+  };
+
+  test('displays loading indicator initially', () => {
+    renderWithRouter(<BatchRequestList />);
+    
+    expect(screen.getByTestId('loading-indicator')).toBeInTheDocument();
+    expect(screen.getByText('Loading batch requests...')).toBeInTheDocument();
+    expect(screen.getByText('Please wait while we fetch the data')).toBeInTheDocument();
+  });
+
+  test('loads data on mount', async () => {
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(monitoring.getBatchRequestList).toHaveBeenCalledTimes(1);
+      expect(monitoring.getBatchRequestStats).toHaveBeenCalledTimes(1);
+      expect(globalConfig.getExecutionSystemList).toHaveBeenCalledTimes(1);
+    });
+  });
+
+  test('displays content after data loads', async () => {
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    expect(screen.getByText('Batch Requests')).toBeInTheDocument();
+    expect(screen.getByText('Filtering Options')).toBeInTheDocument();
+  });
+
+  test('displays assignment group modal when no assignment group in localStorage', async () => {
+    localStorageMock.getItem.mockReturnValue(''); // No assignment group
+    
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.getByTestId('assignment-group-modal')).toBeInTheDocument();
+    });
+  });
+
+  test('filtering options work correctly', async () => {
+    const user = userEvent.setup();
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    const nameInput = screen.getByLabelText('Name Contains:');
+    await user.type(nameInput, 'test batch');
+    expect(nameInput.value).toBe('test batch');
+    
+    const uuidInput = screen.getByLabelText('Batch UUID:');
+    await user.type(uuidInput, 'uuid-123');
+    expect(uuidInput.value).toBe('uuid-123');
+    
+    const statusSelect = screen.getByLabelText('Status :');
+    await user.selectOptions(statusSelect, 'SUCCESS');
+    expect(statusSelect.value).toBe('SUCCESS');
+  });
+
+  test('apply filter button works', async () => {
+    const user = userEvent.setup();
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    const applyButton = screen.getByText('Apply');
+    await user.click(applyButton);
+    
+    expect(applyButton).toBeInTheDocument();
+  });
+
+  test('reset filter button works', async () => {
+    const user = userEvent.setup();
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    const resetButton = screen.getByText('Reset');
+    await user.click(resetButton);
+    
+    expect(resetButton).toBeInTheDocument();
+  });
+
+  test('handles API errors gracefully', async () => {
+    const mockError = new Error('API Error');
+    monitoring.getBatchRequestList.mockRejectedValue(mockError);
+    
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.getByTestId('error-alert')).toBeInTheDocument();
+      expect(screen.getByText('Error: API Error')).toBeInTheDocument();
+    });
+  });
+
+  test('closes assignment group modal', async () => {
+    const user = userEvent.setup();
+    localStorageMock.getItem.mockReturnValue('');
+    
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.getByTestId('assignment-group-modal')).toBeInTheDocument();
+    });
+    
+    const closeButton = screen.getByText('Close Modal');
+    await user.click(closeButton);
+    
+    expect(closeButton).toBeInTheDocument();
+  });
+
+  test('date picker inputs work correctly', async () => {
+    const user = userEvent.setup();
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    expect(screen.getByLabelText('From Time:')).toBeInTheDocument();
+    expect(screen.getByLabelText('Till Time:')).toBeInTheDocument();
+  });
+
+  test('execution system dropdown works', async () => {
+    const user = userEvent.setup();
+    renderWithRouter(<BatchRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    const executionSystemSelect = screen.getByLabelText('Execution System :');
+    expect(executionSystemSelect).toBeInTheDocument();
+    
+    await waitFor(() => {
+      expect(screen.getByText('System 1')).toBeInTheDocument();
+      expect(screen.getByText('System 2')).toBeInTheDocument();
+    });
+  });
+});

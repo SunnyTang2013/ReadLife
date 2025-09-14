@@ -1,2 +1,104 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NUp0aGdmRk5sTENManNPclFwTHFTMlBGck1qbWRIUFZhSjUteW4tbW45WEQzVFZ3WUdSWnJ5aTRrNkFRcGVkbnVvVDltdlNVdHFvYkpOdDQ1a1cxVFNGdjhoV0l3WERqcTIyZ1pHbnRETWlIU0hLYlI5OWRsT01RbTZNWW9XUy0tdzFFQUhSS0E3UlNoZ216aF9XLXRIWXhRS0ZoQ0gzM3ZDRE11MF9Ma21FVVRpNnlQaEtVS3A3QWcyd1BzYTZ1Z0ZyaUJqWnNaSWhGLTZEblMtQ0c0enhHTnZLUEVhcXpKLWJTaGRGd21ROWZ1S19rdVFWZHM3YVRiSDdUdGs4dW1pZTZRc2hMYnZVNmhTN1ZlZHA2NloxU01QTE1xeTZUUWQ4bmtIV1d0Nk9EMEF5S3kyaHZLVmdsSVlLNmtCaldFTzFaMEoyR0tNZWJxcTVTUjNUV0hwT3pjRnBINGpNLWpDdmc2WE50RTQ4VjdDM2pOb2MyamZmZUdzWTVlZURFMl8yeFRDZmN1ZkxaR1FEbTBhOXVRNmVaSEE2N1ZmMWM4SHZ1RHJveFBmVFVUaGV1UVhXNjVTOG1rQy1jYUZnNkJsdXExVU1BSGY0bWxhWjB6UmVmR1o2dFdyU1RhcDVDY21fREZ6NDMtbTRFRXdPMWVSMk9zQmhVcTJ2RUtSNWl2c3d4a2paTEphN2tyZHhiTFh4U092Ri1RZEVGR2VVQ0xNNzJqbmFkZzNVQ1FVTEQ1dnR4QWdqaHAzeTVzdFVUOENaVEkyZEFxQUFxWE1yaGlDZGVFcHJ0M0hfdE1OaVdPRlZndXItaW1jSWVQQW1oZFl0bm1kakxTdHVVU0hHRjRaQUNJZlQ5LVlhR3REZERNYUFMWXE5djg2S2ZfMFg3dTJxeDZYZTNpdlgzZkpKelR1VzUzSFpvZ2liZ0YxaG95QWZxN2VTOW9jOW1XajhnenAzWF9DR0xrQTN1d1diNXJKaG1MbE1ick54el9wdFFDMUxPS3JMS3lreWYwTTFMb1ZPUkZuVnJ1bnpjZWxuSlpRZFZqeU1KZE9ibUFlR0dkRHpaekNPTHVJeWEwa3hBWU0zTjRoa2NtWnVTUVlyQW80REhNN1R3V0FwQUUyYW1sQzUwYi1oOHpFUDE3NFZFSi1DckJfVmMzZlVhNldaNVBWaGJKSGtJY3JKZE5aOF9LWnlwb2NRRVBFR3FFcXF5aGRDT2VFZ0VXM0RORmhNZlZocmVWalpKT1BQLWdMRG51azA3VHJYbTFacUI1QjhfVnJFZ09BZnBtMGFaZHpnSlBfQjd1eWtzVmFqeWVfMmd6S2tqSFVYY05sdTYtQ2YxUTlReHd6VGV4VFc0TXRLSEhmY0VjcHpDeWJpMl9veTM0TWxsUUx0ZWtkOF9zYmVIa0F6VTctWTl0RjRLejRQR1hwenAyT0NrOV9uaGR1a3dZdTEyWG9UUGRTTnZSaTNEOTVRMGFsOGRVYTZ3dzFOdjhmVUZmUWV0end3NEVHWTZtOUQzOWJqQnZNZ0djV1ZlSFhLd1hlMTJMYk1jWkM0VW03VnZDTDdySTFmWmxuTVA0UWhxb2pUV1dqbG1yM185UWtTZGFjTlMzaW5EZFUxeFkwSHh4Q1JUenU4YjZ1TUdDb2dHMmNraXBsYml0aVZjMjNMWnZQSFhIaFVzd0VkVU9PdWdLUWltbFJPOUJWVl9pOGxaT3dmbHNLZmJ4T1NjYWZKNmZqcUM2bkM1djVHT2p4S1BsWC04dFZfM0pKUGZQVC1tcWZxcDhMQ0JSdm9aazdudjRUMk83ZmZCTUtPYXBXT2RFX1hvc0taakZsYkh4d3BmTHpIWnJ5QzAxYS1nbjh3dXEzMllMbE1ZczN4RE1pSjhDN1BORmZwSGFXTjRVOG9PbEhGeGZGUnVEOVczVjNMRTNDQjIydzJ5cHlfMkFBRkF6NjRoZGFSdW5iYzdvT2JmV1Z4ekFCM1FVektWbHp0T25rU3h3SGpfTzVhRURFUFV1MGNVV0Mwa2NZLWZocWtWT2RUZG5DTUQyMVg0amdTM0ZKdXg4UXBadFZSMFZyRzlKT1U0b0dNOFI3RFplS216TmVYMGVNd0MyZ2NlSVQ3VERmZEZucl9zc2FMWVpkNE9KSFlmakV2ZWh0QmVXTDV2V0hLLUtnbG5MRnNkWVFrSzlHN181UGF3YkpJdHpfdDEya0dxY092SWlBNkd5eTJqaU41dVYtdmZiQUtoNlliTTU1d1dmV2J3QkVyWmtBSHYxWmtwdGRIUFNGRzlIVVdtS29UVXhDR1FSNWwzYVBCc3JWMG9KX3lCNU11d0tpYjRXX0dfbVdoUnR5bHVycWRLa0piZnVJUUw1VG5sTk9BdnBDNzE1b3VUU0sxWkc3S2dRbVBwTkZEdG51c2FNV1lRa0FpbjFYdlVlbTJVcEloRkdqQ1FZVjdTVnFDa1V0d014UWtCSXNGa2R6amRNSlFBSUR1R1R5U0UyZUF3bkZnZ09yUjJ2N2RqTVA0LWhUQUNtREFQb1VGbUVYUXdUNGtsaHBUX08xZWRYUk1EUkdNWnMwb1c3eWluTy1nZGp5bnRGNUhJWVlWbHE1VUFxUGMtakdFaGlOaWRpSXVHbXZBbFVuN2hJaWExZlZ3ZzNJYjBJTngyS0hJVjZOekZKNGRLazNISFJQdjYxUENSR2FmMFdoSk5oN205bVVjZlRnUnFxdFI0OVZ3MWV3QVZkRXpJVmxLdlN6aEJFWWVqTG42T09BMlpWWVBuSkJ4bUNJYmJiWVNmRWhadXJZN0ItdERVR1M0dGFOVnZsLXpwNEh3Ykd3SmV1SnFUMGVHTHZ4dWl5MzJjYW9jWHdTbm9LekoyNVM1NVZVajFqSExTc3l1WGxxWFo1b0VNcUxkdzE5c3d4RUEyQ2RXd1lNdHh2ZFJKTlNXTjFmV1JGYWtpbFVKczJ0Qm54MFdKdThzT1Zvamh4RHFWekJadVRKT09JMTg0SWV6RXRqSnhKRUFpSnotdFl3RFFBOW1RSTdTbkVNYXdIMmtURVdtOFFJRG15Q0dGNm9icm5LcFVrbWFab2pfcV9CZmpNdWRaT09RU3Myc21jdWZhYzktRzZLMnRpYW9KWVR1d1dPVFEwdHR5LWhTRU5CUEMxVzdaUjQzWEZVVEhHZGJMdWNnN0JQa2VZTjlkNTVJRVlYUEhVVldoVzg1TTVqWUV6OWtqUDk5WFhGd2k2UFBxemI1SjVhTmZKS0U3TFkzTkt5VVQ2cHlSVHdvYkZYalFxZWVKdmZ3X0g0Wk9XYm5QcjdEcWp6UklISUxpbEFkX3VKOWRwclRPNWkyNDRZTVktVUJ5aEhrdjhuWGs3elFNNUZ3UjBwV0JPU1pUYVE2T0hlZkZJbXAtcUxBSGRBaG40a1VpS2RuWnJsLUJNbkNHeEhPZ1VkenhwT2ZTYVBuTVRTd2xneUlZSFNKTURteVFsU2E5ZE0yaUM2WFF4SlFJdDVLT3gyM1QwbW82SmJLU2hBSVRRTERCVnN3bzVPNG1vTzcwdlhLaFpnSVFTVWhQSDhkU2d2T2h3b3kwbUdfeFNrc1VUdXQ5RnloSkMzTEk4aWZjVE9KZDlPOGlGaTdvelFjbG9FeXUtNmRwQUs0WVFkYlJsdlVHejFrRTJ6MWdqQ2RCdXhxZ01LcXRnaWpJdFdLU1hNTmRZNmtXelhnUEYwNldLMTJiYUVFOGo4aTFrNkFReUkzYk9NWFFhbFdkYV9vUGdWU21aNkJWVjZaT2E2dnhRQy04em1OTTVtWXA3RW9SUHhYSTUtQTlEMUw0QndmaUFJMWFGaDVaaXZtQWx6dURQZEdXU0J5bm43b00wTEl1ZUZ1enlzX2VjalJtZXctamp0c1NyLWlERF9vSC1PUFdxbHMtZ1ktTFBnODV3Ti1rZzU5Y3ZHTFFiQWRMbXo1WkRsVVZod0drX2RyaHgtQ1g0clFEX1JuVDc3OGtKXzhCSUxzS1ZzLTNWdTJmVGFMZFZrTng4Q1cxbldwdW0zQ0RHellKc3B4WkRNbWdzeGZNUXpoWkpZbFl0dzB2Q2pDNnlId1BkdHdOZG81NnBXYmFZeVA1dzh6WDY4YVRIdDI3SFQ2LXlYdTUtUTByU0tMd2taQVF4R2FfSml6UXF3ZlVhc2RHOWRaUFJFd2xkdXljWG1qYnNObGdiT2w0ZGoxUUZ2N05keU9kSkhNWXhGX2JUa25QSHhWN3I0Y1BqclB3aFcxbS01WFFSN2VIblNKUm9ycTFRdnJuaFFZOFVVXzA1V2xNZnRPcWQzNGxvcUZkek5tVk41SzJwQk44Q1MxVDVjUFgtUHNSdTFqb0pnTDVyclJoejJJN1dRMXEzeVphQXIzWFp1eS1Hd0VMQ1BKWjl1R0FfaWgwQ1puc1gzRDliOW1kU25ZVVB4TE5nUmpta2ZQUGhyQ05YTzZobmUyYi1POHRvRXpXWUlGQTdrbTJncFlZMzBkUnBicXhWczc3emNVR2NKM19lOEhsM3VqZDdibTI4SWxXY1dmaUJ3NXgxNU1tQUlhbEp5MnVMMHJ3ZktpV0pfUzBVcERuSHRheXNnZm01aEV1dUUxWVJzNzFKV3ZKNlN2dDNLSUxfUms4bWJNWHhDU0o5MFpvNGlnSy1iVWR5RGxpbUNuc2IyYkpQTTlrRks0djdrdmhvcVJOSzRCZ1Zld0ZBSXUtSi10Q3Z4YUIydmw2X2dlMW1LcGtUOXp6YS0tazBBVHI2SkRRTVRralZfVXRReU1uMzVaSWpRRktaa0VDcmVldC1KTk5tUGtJeEFRN29JeXFkSmxXRHFlS1g3UUlMWmJrcWNYSzlrSEIwTTE2Y3VPQndHWDl4ZkM4RklVQ3RGRTBXVk5CYnRvbjI1STRFNU5abHdlNVZhTDNUNGpQczVWeW01Y2gtZVBSMmpEYlRRbUpwTlpYc0RXMktNZjdIY2tGaGo1VHQ3ejhjSUZMUXh0LW1JUFU1MV9YWm9WeHY4bjVxME1SV0V0YjBiUTdqekRHaWtYSDc3UWRKOUgzeVJGVDU2bDNVQ01jLU0xcWplZjY1U1NoY3JjQ3lvckdUU3JtYk1qdHF1QVE3ay1UeFdKZFB4YkNVNUZDM3lyUy1rZEVtaUZlWDRvWkstNjZMdk5Nd25Yai01TG1fSWplZG1mWTQ1Q0JBQVV5cW5FV1hKNGp1ZTlZQ1FHWTdHcVJVazRKRTFUUUFWd1RGMXAzNXNiMHVpT0R4c1djZ0tXLVRLOUpPdXBGNUhLMjF5Y3JXNERoOEZ0dFI1eTVhcmcza3ZlcDQzdHhLa2RCTTRad0t5NUJ1aktPblRaYWh4dFduMDV3QWN0ZVVxdkhibWVfbE9DUFlsaldCVm56eWxOVm9VbUJHVkJfZm9pQ1Q1Y0xQZU5ELWpNS0RGemZCUFhmZG94STJLRGN3eHN5MzFIMmw2andSaHM5djBxWmRDckxQTnB5LVBHSGNzUU9rbi1HRFpOQkFydVgxN0llQjBDb04tUkViRHZ5UG9FTFhrY1ROZG85cGdXQ0YtakU4MGktbnNMSjFQdUh0RDF2c2szRzM2Q1JfLU5wcC1HdEdvdnZtbnBycFdmMWxLU01sUHVQX2lfUVhPOEdXZEJLVDZQcDU1ZlZHc2l0MjI3LVB6UnRhZFdWc0p0VHV5cEJfRXR3YjQwRHVsWDZvMWdTaFp0M3hpbS1jSzh5QlhZR1RIVFlxM20tVWF6TG8zazY3UURMWF9KU195N09yMFR4MlM4ODhFeDVGb0w4SEp4SFVUTHVSN05TVUtTSkVITERDZmpHeGlEYy1TQlpxbmhmS1Yza1VuOGFYREJhVG4zWTNPd0NIWVd0ZTNZWmY0Nm9mT2theDJXV0JMRklManhpYU1vVU5sMGo4QVA3Ul9CSk1pM0JhZE5XUVY4UzMxd2Uta3JGM1F0N3ZoUk5WOU9CcmpWZ09TN09jVGM0WG9kbFlubmgyVE1fVXM2WHhBNndiYkZLOWVkekg4WTg0WXlKbW44V0lNQUZSQzE4bFhVRDdVU1N6ZFZHRnlnakVvUE9Kb2JNZUc5SjJUSzhHUlJic054cGYyUGFLZVhxUjhDSk5QUHR0RTJNLV9lNEVVQ2w3VlVmRU9oSUZ2TEUweTVTQlNxMUpaT181a1JlTWlaQ1ltUWRRNWpPa19Xbzk1aEVBa3c3WkV4TmRkbFNYNWFtYkpjUGIzbTFEbDdTbXhDbEFIX3ZWZ2hSN29pY2pmc0R5LWN4a0lwNWxmRzhQVFZidGRzT3I4NmFJd0E2Z0d5WTJwazlfZzdDb2FaOGJzb0g1TWF2NktDNkM1S1NrOUl1Y0s1V2lQdVhzRFV5bXc5RVdmQmdSTmdoWmdRTEc4eXJJbm0zZjRSNURPRWlrbGYzendIMElpdElmQThlQ3dTTFJjYnJ3dDJJYlRST3VmYkIwc2Z5TXlYODVhajJ2bEctT1VRUGNfaVNYblNDWWFzaVQ4M0x4SkFvcVM4MEpueU5ISkZJMEZOOHFhSG0ydjdUSnRzdm01RXZzLUp4eV9ZZzJBUnJIUTY0M0Q3NkFIczVwWXBIdzIyNExmZjRZNjlYdmdoRHU2V1RVMV9KVWl3WkRTRzZhcFlWWDAtdUg5NjJhazBNcnhDN0Y5X2lTTUJXRzFwY3QtQ1dlRDNQUGZhSTIxalQ3TTg2ZE11YUFKRVk1OXN4aWdXWWNZTTlnS01kNVVVSVN5OFlPeVIydXdtVUQ4aUZTNEhPRnZrUS1tcS03S0FQV1huZzIzWVZrTU5CSGx5Z0FrQUt5MHlvQnZTLThVckdrNWN2R3BVM1ZVUEt4WE9FLTFGa3ZNdFlZQW56T2dIQWNPbG5MV1FHNXRaZmNiZUJ1bjJucW9KMGV3M3k4MkpBeWQ0NVEwN0l1cFNRNkd1UkZGc1BqVi0tbnhyOVlWdkRlZ0N4YkdhYkQ4bndqUzNrUUdBdWoxUmZxREtXZ3d5OUh0TXQxTTAtTUs1X25DZlFqLWlMTDFMMlNXeGZXUTdFaDJkbWRxQkFyUE9CU3dIOXdKUExiVWNaMGc0d0lneGxCeUxzQ1JMVU5ud1VUWVUxd2pIVDNnWUNJRkRRTmFWaU4zVUhOVUtJWDlWdnBaWU5xb1Y0ODZmYUFRVmlkTGRXMjFKVjJDa0tQaWVIcHNHWlp0eUd1RGxHQWR3eW82X0NnTG9fWUk1WWFSUUpjS3pwR285cmFkekMtZ3pqanFoLVlGY1V5STVrS2hiLUZCaWhZNm1wVWQ1elNNSFdsR2MxOThGNE50ZlBzcVpObWVsQTRVNG1EMkRBPQ==
+import rest from './rest';
+
+export default {
+
+  getReleaseList(query) {
+    const url = '/api/v2/releases/list';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  getRelease(releaseId) {
+    const url = `/api/v2/releases/detail/${releaseId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  exportUrlForJobGroupBundle(jobGroupId) {
+    return `/api/v2/releases/export-job-group-bundle/${jobGroupId}`;
+  },
+
+  verifyJobGroupBundle(releaseName, jobGroupBundle) {
+    const url = `/api/v2/releases/verify-job-group-bundle/${releaseName}`;
+    return rest.post(url, jobGroupBundle).then(response => rest.handleJSONResponse(response));
+  },
+
+  releaseJobGroupBundle(releaseName, jobGroupBundle) {
+    const url = `/api/v2/releases/release-job-group-bundle/${releaseName}`;
+    return rest.post(url, jobGroupBundle).then(response => rest.handleJSONResponse(response));
+  },
+
+  addTagToConfigGroups(jobGroupId) {
+    const url = `/api/v2/releases/add-prod-tag-to-config-groups/${jobGroupId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  createReleasePackage(jiraKey, releasePackageInput) {
+    const url = `/api/v2/releases/create-package/${jiraKey}`;
+    return rest.post(url, releasePackageInput).then(response => rest.handleJSONResponse(response));
+  },
+
+  releasePackage(packageName, crNumber) {
+    const url = `/api/v2/releases/publish-package/${packageName}/${crNumber}`;
+    return rest.post(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  checkPackageSensitive(packageName) {
+    const url = `/api/v2/releases/verify-release-items-before-release/${packageName}`;
+    return rest.post(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  checkPackageDetailSensitive(env, releasePackageInput) {
+    const url = `/api/v2/releases/verify-release-items-before-create/${env}`;
+    return rest.post(url, releasePackageInput).then(response => rest.handleJSONResponse(response));
+  },
+
+  analyzePackageFromCreate(env, packageInput) {
+    const url = `/api/v2/releases/verify-release-items/${env}`;
+    return rest.post(url, packageInput).then(response => rest.handleJSONResponse(response));
+  },
+
+  analyzePackageFromUpdate(env, packageInput, packageName) {
+    const url = `/api/v2/releases/verify-release-items/${env}/${packageName}`;
+    return rest.post(url, packageInput).then(response => rest.handleJSONResponse(response));
+  },
+
+  listPackage(createDate) {
+    const url = `/api/v2/releases/list-package/${createDate}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  packageDetail(packageName) {
+    const url = `/api/v2/releases/package-detail/${packageName}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  compareVersionsFromCreate(env, packageInput) {
+    const url = `/api/v2/releases/get-packages-for-comparison/${env}`;
+    return rest.post(url, packageInput).then(response => rest.handleJSONResponse(response));
+  },
+
+  compareVersionsFromUpdate(env, packageInput, packageName) {
+    const url = `/api/v2/releases/get-packages-for-comparison/${env}/${packageName}`;
+    return rest.post(url, packageInput).then(response => rest.handleJSONResponse(response));
+  },
+
+  rollbackPackage(packageName) {
+    const url = `/api/v2/releases/rollback/${packageName}`;
+    return rest.post(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  backupPackage(packageBackupInput) {
+    const url = '/api/v2/releases/backup-package';
+    return rest.post(url, packageBackupInput).then(response => rest.handleJSONResponse(response));
+  },
+
+  delBackupPackage(packageBackupInput) {
+    const url = '/api/v2/releases/del-backup-package';
+    return rest.delete(url, packageBackupInput).then(response => rest.handleJSONResponse(response));
+  },
+
+  listBackupPackages() {
+    const url = '/api/v2/releases/list-backup-packages';
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+};

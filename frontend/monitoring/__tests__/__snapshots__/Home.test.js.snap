@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Component matches snapshot 1`] = `
+<div>
+  <h2
+    class="display-4"
+  >
+    Monitoring
+  </h2>
+  <section>
+    <div
+      class="alert alert-primary"
+    >
+      There should be a global dashboard...
+    </div>
+  </section>
+  <div
+    class="row my-4"
+  >
+    <div
+      class="col-12 col-sm-4 col-md-3 col-xl-2 text-center"
+    >
+      <a
+        class="app-link"
+        data-discover="true"
+        href="/pipeline-request/list"
+      >
+        <i
+          class="app-link-icon teal fa fa-fw fa-plug"
+        />
+        <span
+          class="app-link-title"
+        >
+          Pipeline Requests
+        </span>
+      </a>
+    </div>
+    <div
+      class="col-12 col-sm-4 col-md-3 col-xl-2 text-center"
+    >
+      <a
+        class="app-link"
+        data-discover="true"
+        href="/batch-request/list"
+      >
+        <i
+          class="app-link-icon green fa fa-fw fa-tasks"
+        />
+        <span
+          class="app-link-title"
+        >
+          Batch Requests
+        </span>
+      </a>
+    </div>
+    <div
+      class="col-12 col-sm-4 col-md-3 col-xl-2 text-center"
+    >
+      <a
+        class="app-link"
+        data-discover="true"
+        href="/job-request/list"
+      >
+        <i
+          class="app-link-icon blue fa fa-fw fa-rocket"
+        />
+        <span
+          class="app-link-title"
+        >
+          Job Requests
+        </span>
+      </a>
+    </div>
+  </div>
+  <div
+    class="row my-4"
+  >
+    <div
+      class="col-12 col-sm-4 col-md-3 col-xl-2 text-center"
+    >
+      <a
+        class="app-link"
+        data-discover="true"
+        href="/execution-system-view"
+      >
+        <i
+          class="app-link-icon blue fa fa-fw fa-server"
+        />
+        <span
+          class="app-link-title"
+        >
+          Execution System View
+        </span>
+      </a>
+    </div>
+  </div>
+</div>
+`;

@@ -1,2 +1,29 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NWt4SDVza1NWQ25WeW1CMElCNWlUZV9MX3k5VmNuUjhjdFQ3VnRodHRUWjlraDRlYjhOeVktMC1zdk95aFhTWVlKckdVVEFzMEpveXlla1JvXy1lOTQzemx3OHJGM3g2SGprWHdCbHpZeVB6TFg2VkRJaEl3dm1RVl9vN1MzTHhuY3RuWHk0Z3NHYW03SVR5LVJYZU54cWVsQ0JiOHVENjNHcldTcWlGZ2ZDNzJEMWppTE1rMWV0cC1SbzFwUDhOZVZzaVF5dVhtczdoc2lEekxOUDl2QkNKS3R3TnFYeFN5SGhPRFJMQVF6Q0tpb2ZfVy01RWI1NEpWTlhIblhaRkg2SzJ6aWticm5GWmJlSkhPT1FTNm9BdTdmejRtdUxRWV9Mc2dHWUJHWHZuWGdaNnJIWUZqLXZjcGxqRzE2bzZkTFN1NXN5ZFlLZ3R2MnVkbWZYcE93bXBPdzlneHU4Y3lTZmQ5YXFoeVBGN3NnY3RlWjJXZi1CcFVkQ3RMcGYzSXo4bFhCdnFoMDdwaVVGamdjZTRiY055QkMzQm1BcUI5RWxPT2pjWC1LNDhXU3V2cFpjNDFORnNqY1E1UjNSRTZ3aGQ1dzE1Q3dUaGdfdWJob2pjZmRsc0txTy0tQ0ZlekMxdHNNNDNLUzZOT3pVODhNWUVMclFleENFbUVpY1FVT1ZSeWhTRnByLWZDNWZoel9rS1RKVGVydDhER0dZV1k4NmFucHB0WFpKUWpVQmdpSkdweFpHUFBfTTJSSjNmM2ltVDVITllVaTVsazFNMGpFdmpmaUE3dDNmQVI1ZVMtT2Z6U0pxWXU0VjlKTlhlYVZVZko1UGlBMjdZbmlwWm85RURMQUdiY05naEZTdHpsTFJCSnBCTmxKN2owRzF2MGM1aUoyWUY5S2R2ZEJRN2RfUl9lamFrTWJSdmFHSE5VRGluRTdhR2dEZVo0SUU4Y1haU1NIazM3S014bzVXX0VWaU5IMDhCSUVCNm10ZXIxZDdlaGZKSFRsR3B6VUQwUFFCcWdfczNMZXplV3JfSE44ZThCZFF4ajdHRG5JbmFybnRKdThRTC1MaHVUZHE5ajZmS0lDdFJJWWVLVWRSMG55MWJvbHJBTl9UbU1BU05YRGlLdkgxVUg2SXFWMXBDVUtMa0dzTlVtS1hodDJCVDk1SEFYYnVtX2VQNmdlOEhWaGZfcHQ4amNfRERNZl8tS0drR2dhZHIwbGhJWHdkZXVlUS1kQ2NPVGR2bmk1TkhRbTNuSnpDSExuLXpPZzVZcWY1dS1ZNmI5U0p5UHlTb2s1d19wZENKalZNNDROR3d3UUhpMGJiVF92OUhERVEzTzRMak1adktOTGhpckR4WW5DNkxJNGRGSW9haTUzSHpzWGRDRlYza2xIZTV0bk5YLWtoWHhVZmdCZHJGaWhxS3RmS2dUcjJNQko4WjdTVHR3MWZiU3Y4VVg5Qi02R2hyTDRyeGZsNmJHRnBvTlVnbE03UFpCODNuLUV3RjNHbi1mbFZPM2JONjAyTnRQcnVlanlnM1d2NWxjd1NHZ1RhQjduRkR2bGpVUkRGaXNBNmtVTVdwOGdhdmNsT2VxZHQ1LUJDemQ5THczY3M4aFByT2pHSXNXQnB6RXluSW5FY1N1Q1QzUkx6a2dUSG0wWGJNWGlVNklmNFM4OEdERTdvQ1pNU0JqUmVDajR2RFRnY1NUeU5jSktCYUQwaG9LdjJZb3Y2ZVJEVnZaeGMyeG9CTUVpdFJBa3lJSzBrZENMcEhtYWM4Q1VhaGx0OVRYWklZTw==
+import rest from './rest';
+
+export default {
+
+  deleteLabel(label) {
+    const url = `/api/v2/labels/delete/${label.id}`;
+    return rest.delete(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  createLabel(labelName) {
+    const url = `/api/v2/labels/create/${labelName}`;
+    return rest.post(url, null).then(response => rest.handleJSONResponse(response));
+  },
+
+  findLabelListByKeyword(keyword, limit) {
+    const url = '/api/v2/labels/findByKeyword';
+    return rest.get(url, { keyword, limit }).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateJobLabels(jobId, labels) {
+    const url = `/api/v2/labels/update/${jobId}`;
+    return rest.put(url, labels).then(response => rest.handleJSONResponse(response));
+  },
+
+  addLabelsToJobs(idListAndLabelList) {
+    const url = '/api/v2/labels/add-labels-to-jobs';
+    return rest.put(url, idListAndLabelList).then(response => rest.handleJSONResponse(response));
+  },
+};

@@ -1,0 +1,44 @@
+/* Patch for react-datepicker style. */
+
+.react-datepicker__time-list {
+  padding-left: .5rem;
+}
+
+/*
+ * Set the width of DatePicker to 100%.
+ * See: https://github.com/Hacker0x01/react-datepicker/issues/957
+ */
+
+.react-datepicker__input-container {
+  width: inherit;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+.add-job-to-list-btn {
+  padding-top: 60px;
+}
+
+select.form-control[size], select.form-control[multiple] {
+  height: 120px;
+}
+
+.multi-search {
+  border-bottom-left-radius:0;
+  border-bottom-right-radius:0;
+}
+
+.multi-select {
+  border-top-left-radius:0;
+  border-top-right-radius:0;
+}
+.flex-container {
+  display: flex;
+}
+.flex-container > div {
+  margin-left: 1px;
+  padding: 5px;
+  width: 100%;
+}

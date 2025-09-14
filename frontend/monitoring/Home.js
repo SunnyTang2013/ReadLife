@@ -1,2 +1,43 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NUNhb0NxYXBJdG85T21wSkZzVFI4OHpjMlNEbmxSR3F2MWpBRFlOS1Vfazd0aVNieXA4SVNQUUNuTEl0UlFiZUlhOUhsblBQLXl5dTJ1QVBCQkZFM1M0MjRzWU1lR2xrdUxfOWk0Wl9ubGd0Nnh2RXJfX3JQXzVNbW43aW1lTVFRUTBxT1JXQlBuS1FGZ2F2NlR6Um1hVFhBeWd5Tm5kMHkyVHRfMEJJWG1tRTBSVkxTaUl0T1ltSGtKaG1NS2taWTVOYnFJLWl3dVRtQm5uWmpYbnF5ZUZQd0JNRmRHYWN4bVltUjc0dUlxbmNCRERHUzUyak91bFVUQldqQS1mREsxSVJxQzJCOXREbzR1bWo0TWsxcXMzR0RkcDNLMjAzYWZMbHgyNnBnb1hFUjF0eXBjd2FDclgwTzlBNTRGdWxUS1I1QUJESXJvbXp0d2RPRjllM0lyZGtHV0dQUkpYZUpoMW5Gei1yVm8xU1RneVJfNXBSaGRPU2dBMTg1d2lTMzVLY0ZjN1ZmUUoycG13VFBrYXFHemx2dlMtOWFIdElrNnNYU2xDZk9QVUJrbXBZaFBaWnJCeE5ETVJDaFVYaDd1dTVSYmR0U1g2b1ByeGhtYnBnTE9wNFBBTTVDZDYtX1dOS080QkV2OE4wWXJGNVQ5T1A5WnhtbGlXWEtGUlRVZlNCSXFjaC1mOEptSVA2VGJxQ0cxVDFpVjJGMGxHTFQtUWppVURHMEpmM2EwNFU1ZkZBV0pYVWREZzRIM1R1V2hkM3A2NHJBdWRZQk9OaGFFUUQxcF9zTEdicjFsZkgySFh5U1VSbVVBQ1JCTHZsXzBtSmZBTTJ4MEZxQ1Vuck5RN1BvcGJjbTRLaldlY0VtVUdCNHRyMTdsUEFZcEN6VTNiajFSNTdzMDVrOFl5bU1ubXJ4OWhQOGh6dkxhdzRCMmk5U2dVckNYM2FkaTFrbG52b29WblA5ZXhMSkZ2N0dRZXFXV1dTelJzTEx3bkwtWU12aWNSY2prS3VpaERHNDVOdzhNMG15S1AyYUh4dW1LbUVjNi0zcDdCR2ozRGxIV0p4T1g2VjhpdUNkMEppelBvbzNmaDdOR1BXQkUyT05wN1VJLUlmZDBjd1NLMnB1ZHNwWUdSeVZ4cXJuOXp0LVlJRWJsR19aMF9DdVFqeFlFNHZVeGJVcnB5S0dobElwVmFnWnZNbzhMRlJDV2EtMjlPcDZNdG5QcmNnY1BhdjJBQVIzZXQ2UTZFNFlRekJMREdUM2pnRHpDc0FIQ3RRLWNESmtpRHdHNnRCU3JGMk1rY1hDVlRKQ0N0c2xtS0RiNEVSNmpmRWVodUotQkRpUllfNDlqMEVTTklxaFJtRnZJYWxUVkFCeTZFb3ZOVjdiOWVieU1YNlA0ZzNPMVpBNEpnem1OYlVvcWRZR3pER1lqR0VEb1l1cHlVVDNic1VZa245MEVXVlVWTVpxeEJaVmEzU3p6ZW9zRGctQi1DNk0yZnpLbWI3eEZCeXBDTUFYaUFDOExnZF83TFFVLTJzaUF6MXZqdEtQbk9SYXNya3lCQTZoTUNTbTVSek5CWWw5QmFpd0RPTjltTUlTWG9LV2JxV1I1WWNaemcyVHJGVjhuaFBSX3ZfU08tM3pPTHphNldySFhyWHQzWmg0bXFRbk1sOGJzaTJITnhVTkpxdllDM0pId2lyRk9WalJQeWdUNjdEWTZsWVhZajdpUjM1X3lidXhTeHBVM2Y1d1k4NkdOcjBuMnpMVnEtSC1kcjZ1YUtNU191ang4QVNUV0QwbXZNV1BYY0xvaHhXeVlxeUFLVERRbjk1d1dtYUY0NmdBWnVIREpvS0lnRV8zZWZPZF9QcWhxZWt2T0pGVk5rNEJCd2s2LUduWllTSEJWVzVfNE1IZjdremlXdUFrbmpieDJwWlRueDM4X2o5UFhWc214S0lvc2l6dk5SUk5jOWhFTnp2d0tKcGVkTnpYc0twZk01ZWdYdzJhVjNOLWFsb1F4dFJtLTNNLWlWRDExQjEtYUlSS1ZYTWhqR2NRRWJkRGJpOHFyMXJIWXY2aVNLRXRJMFFhZFJqVUlPWENyUWtaRTQxV2RKUUdISGppaTJwX216My10TWZlVVB3SmVPajV4di1qbTZzYmFLQVF4Tm1rR2RnRFVJMWR2aXg2OGFlb2RNcFhTdVhqNEVRaFRRcVVyYnAzaUY2MV90SHdJWnNDRTJvczlBS2p0WjB6MXRvNG1qeWF3RWNCZkJkRkt6b0QxN0ZoS3lMcEc2ekt2V0U5SDJoZUIzZWgzdVdza0E0aW5TWHBRSkthMjNmMUpCanZzYVpUVkNMbTY3cVNReXVpd2t2Y1VjNEpnYjFxejFRTXpQWDR4R3BUMVlVVVd2d2QzWjQxYkRRM2ZUQUJtYlBHYTJLVHM5MjRmZHQtQWRrUi05WGtNTG1UeXpRenpyRld4b0VTMlg2bGpvZ3lLZlZ4bEljYV9RMzNnMDE1VS1jWFlTZTVvYjZnY2NicXd1RS1rS2ZuX2syb0czVnMwbkFscUpxOXhxUDdoN1JaQ01raHMwOEZ5eFlPcGxqUjhpak5sMWNHcm84bEtvYXYwWXFzRFNGaHlVY2ZOaDhwRjRqY2tVU2l4bmZGWWVHblNueUdLUG9nb0ZUMVZsQVZQRXhUOVFTNHZqQkRacHZJVW5TNFZvV0MtajVKMEZJMzJuSzc2c1NXbnh3MHA3YThlQ3RRUndQamxOLTF6anB5dEp3MkhSRVZpVjNVZERBdGhWZmt5Tl9aOE1ReGRKZ21HYWh4bEVneng5aWRUZ25QUjFBRWJ2cGVOVlRtaGsxaXhqUlh4c2xieUxSLXBxYnItRDc4OEpCQWd2MjZyZVJrY3pOazJfcEJfRnNqVDRWTS1YelpaVXBsMS1DU2FkUGtMbFZwbWxWYkZiNjZxOEtncjN1SWM3RzJNdzJmREhVQkVJdVFtcnFTc1VCLVlDQmwtcy1PekxrN2NpeHVOTGRUSENQQ1doZGpTZz09
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+export default function Home() {
+  return (
+    <div>
+      <h2 className="display-4">Monitoring</h2>
+      <section>
+        <div className="alert alert-primary">
+          There should be a global dashboard...
+        </div>
+      </section>
+      <div className="row my-4">
+        <div className="col-12 col-sm-4 col-md-3 col-xl-2 text-center">
+          <Link className="app-link" to="/pipeline-request/list">
+            <i className="app-link-icon teal fa fa-fw fa-plug" />
+            <span className="app-link-title">Pipeline Requests</span>
+          </Link>
+        </div>
+        <div className="col-12 col-sm-4 col-md-3 col-xl-2 text-center">
+          <Link className="app-link" to="/batch-request/list">
+            <i className="app-link-icon green fa fa-fw fa-tasks" />
+            <span className="app-link-title">Batch Requests</span>
+          </Link>
+        </div>
+        <div className="col-12 col-sm-4 col-md-3 col-xl-2 text-center">
+          <Link className="app-link" to="/job-request/list">
+            <i className="app-link-icon blue fa fa-fw fa-rocket" />
+            <span className="app-link-title">Job Requests</span>
+          </Link>
+        </div>
+      </div>
+      <div className="row my-4">
+        <div className="col-12 col-sm-4 col-md-3 col-xl-2 text-center">
+          <Link className="app-link" to="/execution-system-view">
+            <i className="app-link-icon blue fa fa-fw fa-server" />
+            <span className="app-link-title">Execution System View</span>
+          </Link>
+        </div>
+      </div>
+    </div>
+  );
+}

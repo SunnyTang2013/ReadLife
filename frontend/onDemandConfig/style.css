@@ -1,2 +1,26 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NWpYWnNPamU1a2lWZl9uZFp1TVBYYm5MRnJFVkFjbWptZGRHSDY0QmNiLVFBX1l3M2hVNm9vN19Ya3lERnVtR0FvaHhlUTF3bkI4X3RIendfRE9hRkNiVF95WW5wQklsaWczdzVaalViRVYxUU1BU25acFRHaGNxNWF4eFRHQjltWjlwejNyR1cxOTh2c1hHNGd0bDdJajFqbnRHWm9VYjRWRXlBLWhtbVZ4UlRqT0NnZVhCUVdZLWhLc3dhdTZ4U19MVkNFV2R0UDY1VkxLLUdXUDFTUllrNjNDZUZVX0txNHVIcDJsZWdYbHl1ZDd0MTNiUFp6eW1DSHR4Q0JCZE9Hb3RCcUZfRUZmbzR5RzBjZ1pON2k0ektseTFoZFFadk9xSzRVX29fT0M2bWRrQ2MyVWlxal9SWFpQMHZKMGxES3htekl0TFIxcWZ1TEZ0YVdMZ190ZEVJM3A2a3BzUGNKYm4tclRpdGRYWXZUQ19FRDlhM2NjLVhjdXZYU3JYTExKOFhZZlQ5c2luQVVYaklrUm93Y2NLQzRodm5pY290NnljVnhmemNpa1dJM3Zobkh2ZzdoRGc4RmJDdmtReVF4UDJiWGZvS3Z2VWE2Y25kVkdIYTFUdEg1eENfVzhjUEs5bkRPYk90ZTJaSFRTTDFpSGhGc1NJaGt2T3BxbEhMajZvNFlWWHAwTC1NcE1PcFRvcU1JNW1UQUV3OExfbEFzeXpaaFVqbFdienRTUHlMT2JwRGpfWTlUSHNXOVVSVGFOQ05XcjgzOURXZ3NaWVNqb2FPZlE9PQ==
+.file-select-dropzone {
+  border: 2px dashed grey;
+  padding: 10px;
+  margin-bottom: 1rem;
+}
+
+.file-select-dropzone.disabled {
+  color: #b7b7b7;
+  border-color: #808080;
+  background-color: #fafafa;
+}
+
+.file-input {
+  min-width: 0;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  color: transparent;
+}
+
+section {
+  border: 2px solid;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}

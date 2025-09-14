@@ -1,2 +1,52 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NU8ycndYbWdSdUs4QmQ5Zi1PeURWSTFnYWJiTnlCdmw1aGZQMERfSUt3a0lFTWlGSVpqa3NjNjZNMG9iR0hnZUwtdm5xVmhTRm9NOExxb0NxYVZPQWJJQU9XZWNsZkktWnY2bExIc2xTOUpROGliY3FtUDh5TU9FUTNFNkUwU0YtNExFN0p5OWp6VEpGVlZrakRqak1QVjJzOG40aE9XWXpLa0pQc0ZPMko5THhFTG5PYXBTcFAxZUtmdFpMQmF0ZEhqODdoekNWazFaLWFISmpVcFFJMjJOYkF0N0x1NDM2V0s2aHV2TklGQTdlWUdramF2bDJUR0JOSTROSlNsQXAxaUtTNW1fRmNyekVtSGpFR0t4MXcwVWxSX29JYjlqRjEyX0gtNGZGX2VXSGcxZm0yWi1hS0Nicnp6TXZyNXZjRkIySTh6SnAzblBSSDg2ckwtaHJjODU5dGV3bngtalZFakRSeHMyZHFoSS1LYlhRa0pnWWRVX0ZrSXdOMFRtRWppeDBuZUFLNXJLdVdjMF9kOEUxN3ZHbDJneTVrQ1hzVXlPa0ZUcHpEZ0xVUjAtMjgtS2YyUGhvQ0c5akp0RzYwSldKTzZDRXZaMDB1WVJYbXdLLTNhd3RGRGh6V3JNS2ljZW1vSEZuSDBEVnNwVDUzbTB4WnJYcTNrTm9GYUx6bmcyOU5CQ2h6V0pCT0t6ZTdLREd6RFEtVVBZUkdxQVRZSXBZVEltN0lMdTU0ZXN5SFhHd241dEhtYXY3b2ZNSVBLczBwNVZaYXVYN1kxNktialB2QVRmSzUyY1ZReGhNa3lud290NXQtUk1YTTZqNjFXdE9IcW02aEJqaW90bmVMMWdRSk1iSnBGRmVDYXlOREx1QWdtOHlxZ3JQMGdYemtheEozWkJlQUtMMi1BU2pCTHJTTWxhQzBqazdxZHJ4NDJTay1JZ0liUXl4dHlsSFVNcnNtMHFrMmcyRExoa0xBTVBiNkx2R1Y5R3dmSG8tY2RhLXpZNmNTZlh3SWd6alFTdmttLUtiX3BFWEZfc1dfOHFQM3dOQUpjMXNYZDFlbXg1V0hac2pfSVp4NVpFNjNuNWlkMFdxcGNPYmR1NnZiVjhxRUpyZ3A1YUZvdWhwVnNndnMzYzVreDBQazBGYUNOaC1VRlFsVXhhako2dmdtMERmZTZuaXJ4Z2ZGeWxsN0VZY05zNVo1U0MwZHpXTHhYMmxDbjVPRk05bzhsSlVUS3ZLSWp6S3RGXzI1QUQzM2hTMmxDMGFNSURKU0Q2M253RnBQVkptNEJPTjFoRDFwZWpyd1A4clZlVUFmUWpUSUV2Zl9DQnVZbW9BUHJHem5aUEFvLXQwOXBjNXVWMVFSZ3A4c1lxdFVZaGRqZUxHa3RpUEdGbU1yYjdiWFZTbC0zSDdNVkQxUF9yd2t1alZDSWhnYnZ3OGhFdzBCdHM5c25IZ01yNjF2WGd2N00tV01GeU5RZWQ4TTFUc0ZQYjJLMlhETTJwWjlyTkhjT0JES1pXUlRmeDZKTHRWekRiNmRxWjg3UVAtMHdfdTlrNEQ3blFBNnp0NWQtTENuOHpSczJvNkJrcC1ERVJuOTdNQmFTXzYxX05rZmJ3QkhodkFQbU9YMlhUN2RKNWVBa1I5Rlp5VEVLYzVsZFRLNTNXdHd4ckVlSm1ySDRhU0E0QXlGejBCOWNETjZoSVFDN0dGbGw2eVptSVhscDEzWUdua3lsMUduOERCVTNzWEtXZk5oTUhycVhkR21WSE1LRlo3TzAxX0hJNldNQUhlRTN6SU5vRDRuYUZWTGhnUkxTOElpLVdDYTRCSS1KR1p2TjZCcmU0NGd4dGgxRlB2SlFQcDRic1dDZk5RYmtaQ3VqT3J4eXJNTF9yWnZmR01KWnV0YUljdmEyajd0eTVqNERUbTZCb3B2djFKblVrc2hZSWlyc0JQbzZUQWlIUXpodXhrcFB5WXlmWjFPX0x6by04S1ZCNVUyQkttT2x0UlJwRzBxVE1sc2JMU3NET1ZPTVpRNmQ0cjhSelhLSklldGJsWWxtWHZqaXJoVGxIeGlxaWpoTEpCSUhsZlhWM3VRODFqa0NVSms4dWRaMERsdVB0MkxVUEV0QmNkcENjRlRESVZNaXhReDFySUxOMno3WVozQkJ2WVVDRmlpVjV0d3Z1dFdxTFA1R3NkUUk0R19veGNYTmVCZUFmZEktNm9wRnVQVHVLRGRORmR4RlVNTXNRUlFyU1NtcXVNcGNEQ2dSOWZBU3p1bXR5Ym1rZW1uSkwxYVZmM2U0VW1mR0VYQThtUnZSZHhidUFuNEpSNklNQTNaWHFMYU9Wb3dtRFg0akFhWDJwU2hUbGhIb2U4QmZ5ckpBaDZ1dFo0ZWtidnl4WHkzNS1GLTVFdi1GbEhvMDlvSnRBMVNXZWRCNkpxYThsbXlKUWxKaWdiZ2taTDdTZ2F6NmpJVXI4LUhoZU5hOUJmdTVSR3B4VEphcUxLN0FpUEROVzdDdzl3NXhsSV80cTdGLXRHV0NxaHQ3RGtnTnRaelAxb1ZqcEFVVjlDeGk3X3FHZ09mekl2U2RTU1FNVkpPVWFFWG5pSWZsdDJpUThsQzhJWGZfSnpDOXRPRlp5WThZZm1YaFp0SzVQZ3BuZ3VSVmIzWFo4NUIyTXJfQmNkN3ZCT2ZCeVFHMmdNVUE3UVZkelRlWDNVUGNDUm9lYmt2T21fOHNyeWJ2bHNPYXIza0hweEtaSGNOQUhoUEVYSVE0aVFCVXdJVTZlcTV1Q1BSdGF4UFRmNWo4RnhsYnJQN1NiWG96eWFlRy0zaGJmRmNNY0UyVkVrRVI0VzRvOW5vYURqUlJXd0tfMWU4OGR1TXA3dThMUE4xdHhNNVhaWmdSdmRvY1BuMGs1Mi1qQWlOaGlHT0hfQmg0YVNNbWlfVmw0d2RnTFg3Qm9ab3BxZU44OGZMQ0RCZXVqMmVYUkZENHhLWXRrV244V09EcGhZWml5WEhXZVlIclppWXNRSlRKTjdQRkJHamVveTBEbnBINldQRkI2NGxHOEEtQ1I1QURUQ043TjZBc0o5cTI0WHNYZEJFZWpEZjU4Rk1TTGFIUmx2eVBNUERSekI5Mi1xbmtia0pjZE5BeUl6MTNZbm1LV3FRbnk0VE5tXzNPNGh6YVJENlprSTNWd1Z2dGU4LUVsUEdoRlc0SEd4LW5NQWdYdDdQRy1QcXR1Mk9GWjdtZHpyZVd2RXRoaWFqdlZ6bkdIYXIxSlFlQzZQckc0Z25tZkloR2xwQUcybWhPMkFpRmtJYmp5dHVqWWV5eWozNjllcjk4YzQxX3M2Tnc4cA==
+import React, { useState, useEffect } from 'react';
+import { Navigate, useParams } from 'react-router-dom';
+
+import monitoring from '../backend/monitoring';
+
+import Alert from '../components/Alert';
+import LoadingIndicator from '../components/LoadingIndicator';
+
+/**
+ * This component is a shortcut to open the batch request detail page using a batch UUID.
+ * The batch UUID is returned as part of the JSON-RPC response when user requests to launch
+ * a batch (or a single job). With this batch UUID, user will be able to construct a direct
+ * link to the batch request and open it in the browser, without having to navigate through
+ * the Scorch web UI.
+ *
+ * This feature is requested by the users as they are trying to automate the job submission
+ * (via JSON-RPC) using a script.
+ */
+const BatchRequestByUuid = () => {
+  const [batchRequest, setBatchRequest] = useState(null);
+  const { batchUuid } = useParams();
+
+  useEffect(() => {
+    document.title = 'Batch Request';
+  }, []);
+
+  useEffect(() => {
+    const loadBatchRequest = async () => {
+      if (!batchUuid) return;
+      
+      console.log(`Loading batch request bu UUID: ${batchUuid}...`);
+      try {
+        const data = await monitoring.getBatchRequestByUuid(batchUuid);
+        setBatchRequest(data);
+      } catch (error) {
+        setBatchRequest(error);
+      }
+    };
+
+    loadBatchRequest();
+  }, [batchUuid]);
+
+  if (batchRequest === null) {
+    return <LoadingIndicator />;
+  }
+  if (batchRequest instanceof Error) {
+    return <Alert type="danger" text={String(batchRequest)} />;
+  }
+  return <Navigate to={`/batch-request/detail/${batchRequest.id}`} />;
+};
+
+export default BatchRequestByUuid;

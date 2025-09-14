@@ -1,2 +1,125 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NWZEVE1yMElGNVpSX2N4X0gtblpSSEF3aXktLXl1cjB1SHJVZE5ZQk9faXBGeEZqOFRUcTBSQzJNWFFrMmNLQXVZU1pmRWUzaTJDMW5zUXFsSWp1emhHRnM1RGtleWFMZk5pNUhxcmRkWjZ6Z0hpa0JfSS0tTGxHUmZZaHdzUXVJZWw2SHdjMXBrdU1ZVVNSRDlhZVUyd0lacnZxQS1FdjRmT3M0c0VWZFcyNWVjeGtzaTVuQ3A2dDVDZnZEQjkya081N2FsaFltMDVGSXJxbDJ1UEUydGRzMF9PYXRGOVNKbzF1SXpVNEZPRDNyclZkLUlkQklHZGhFd3ZXYk5YeXh5eWV6a3RRQ0s1VGNjelM1a1ZuRUdkdXJmWmwtWkFBTUtxRGxQNUw0c1JrNGhUY2p5Nzk1ZjQxcEY2ejdQSy1VbnZIbG55ZWFfRkNJZnJpWWZVYTJTZVdtay1SLVhWYjc0Si1sekpzQmR0SzBObHVNZ21OcXcwd3kxTHlmRV9MdE9XT3pXREZhTmpFTVBFdy0yaURqYXdtSElsaFV5VlZOT2QxMlpIa3ZkMWVvenVVSEs1dm12VFFnOFE4WjgtY0ZudE9WZ1h4V3BBRVZ4Vk9CSTVQOWJQRXNObnVGV3Nidmx5VXRId0xEU0tvX3A1ZDdBT1NCU1ZPM0hrMzltTG9oY0hFSmpHcTZZU1cwSTE1LUc2aktqMEUtRzlVeTU2TjhLSXRva1lkeGdKX2RrOFpiVW4zaGFKN2dtNl8xeVlyUTdLZHpzWGN5MFl4ekJramtRMlNMTExjREkxeWgzcDMxVWVBTFc2YnFKTmpYX292UVdMdlhIVVRmYms0NzdORThFM2djcXdmanhLczk1Ym91ZkxGR3N1ZVdOcFJtMHhyZ1pWb0xlLS1uY0ZUUUxqLUxjd0VMelNPcEUzUklkWTFndDRGQ1JMU1NObTNwVF94Q0tuNHAtdzVoN0xrYi1kajVNQ21UZzh2eTZfa3dFZ1A3aFZ1QXBxczFJX2wxQzlCVUptc0wxNXU3dmU3ZUd0OHFNUEh6MWlVaXU1V1VfVEgycG5xNW1WRFFnTHhRQVN6dFN6WnhMaFY1anlJSWFMR3Bzd0l2Q045ZHVYb1Vrd1d3bjVhZkRyZ1pzX0hRV0JHVkMxTVRoMHFfOHdfVEtQeWswbExUQWNNSWtUNGRBY3VUVmtibVhPV2xEaU0tbTVHdk1xMDRGd3VoZ2d1Mll4MnRrME5lbDV1RUJLT1lqMGRTZzg2SDBYT1VvdWVsdVhDR1p4ekdPdVl2RVJMbDhEcjRVTUJBVEdLcDBFYTlPeVdaZkcxd3V0a09uSTdydmFkX1FjUlVkTFdpeHRLQndYQ3RSdndqMEUzMVgxMUdaWV9pa3N3Uld6Uk5KaEpjdXhXMS1sY05MTzl2WVp2WFVTMjh3Mk1fX05VTzVXbWJhbXdPckVfd2puRHlOT0FFRTRqWmFpVWRxRjhNTUxneEJUajFWa01IUUR5WTFDZlpoa3JZWVlvYnRhY2xhcmtyRWlSVHZPV3RuOV9LR2YzanRRR21hV2ZKNUdIaHFmSHloME9OdHdzdy1XYmM1WWlyVlBmLU5mSVFKLVNFRVVidXJmdHBSSWFLM05XaUNwVy1DMFdFVVF3aHQyTlg0SkJUMWlVUW0xbDNvYmFVTXM2RFExaXdfTjRqNnBzcFE5N0Q3N185WGN2WGRySWhUd0ltT3dwV2cybWpLSHBnRDN4RkthZHc3RlU4Sk9YWUIyS3g5aUpPbFBRNF8tMmdxc2ZCYmp6UkFNMVN5UGlodlhMYnR3emhGX0ZlX1RtWWUycldxR2tCN0F6Z2ptQ3E5SkRXcG1YTDFzMFgzOEdnLUdNQTUwX0RuNTRiT3EwRF9tNmpZN2FSN2k1OFUwVXY5YUQteGtueWREcG9ySm9ILXR5UkdxbGoxajFxMDhCMlJYM1EwR0JTOHI5YXpqTjZ6dS1QMXo3bi0yaWJJLWMzWDVEVmxHVUV2QUdSUHRQTllwbVNyV2w0RVA4T1pFYUl0VEdTT1ducWlPb0FFT0VfSFRZa1JZUXVabDF1WjhhTWctclpSR0tWOWtpUTB0eEt5dkpnRzBPUGl6Wk5RbVQwZ1kzRU51X2tJZFZXLW1udTlwQkJCdzJMSnRETWc0OHpWRF92MGM2U0hlYUs1d2ZNZ3V5cHRjMmtuNElQM3h1TFRnOEFrak5xX0lHQWo4TW9vcXNqY3RNRFFON1dfWm9wMEFQZUN6TEFPbmxOWXZKRWJxRVJQeVRUNTZ1UlVGQTdSR2czbUcwTXhteUt3SEVHZkducndhLTdtWU1Sc2h0dlU0aVkxSjFuZXJJMzNYU2RLbHdxRTdXRkYwVzZJM28yVlYtMHYzRE9jdGtFNS0yenFtbm12LVMtdFEtRmFSNk5lc2huYTh3c1V0Sk9HWFNPU1BFWTl2RUJfMS1fU2MxaXZaZE95aGdVQWFqZG1MYzhuYXFMV1RiTDNKT1BpRXJZNlpVT19ZVmlwWk5aNmFON2VydXh4MEtIR2dHRjZJTVh4VkpwTUlaazZXN2FHM2Y5c0FuOVpnUWNBakJXWmZkV2Z0OGxuWUdQMzJrRWk5aTFnbGF5Y2d3WXJFTjZ0QjVPV3FZeGJhV1pCYW94d2RkRXpKMm9lMndfb0pMV2FhcktsR3F5bkxoaTlXRkw3VUpCbGpUejV0c1d6RHhhRklqYXhTRVdkVW5TZFRqLXZ2OEMzbERUZTNOVlI1ck10cV9pbmNSMjVjT0VzUS1lS3N0djZvQ1ZEUVQxcWI3dkpfNl8yamZza2x2YnlPSXZYa1F6SzJVcnh2NUJhVVpTMFktd3dDSHhSd3B5XzdUdVZ0RTM1dVpVYThkT09fZU4tMjZOYVJQcnBzeDUyTnlYN0ZxRFJXci1tNzVuV2lEZWhyZ3VmMEJHa1p2dEV2a1ZqQkZXVVV1c3FVVnZzTkRDRmNyTTZzVThaVEdlSnRtLVg3akF1UUhIUlpRbFhIUkV6el9valFfUnJObEdhNUhuajVuNTNvQkpOdDVOYmJnZThxcWs3akNJa3hUZXUxZEE2enYxVTh0NlpvOWVnZ2hoQ1dmYjVfYTZ6V2xrQlRjbDBKOGZ4UEhSMldKQWNMVGdwcGtMa2xZanZsU0UzZ1NnbWdDQUZIVmVxWlMtYTA2aTNxUE5RY0JITmJ1MG1lV2p6eklSc3o1SkI4TmpwcjJIN1NQWUxnUFpxVGJrMGk5dW0wU2pWSzllZEp0LVVRMmpuRUloa3FzNS1YV0gwS0Q1dFdUM0cxejA2dzRTeGY0SXdQcW50QXdSV001TGgwaHcxWGVIS29EbWR1cW9UZklyTWN4NGRrNFRBdVE1NDR4TTAyM3BjNEh2Z0toUXJGLW50MFhiLXdrZU1hOFctaldRdGR3d09CZGlpZ2pySXpqS0JETFVwMTZ6ZWNWVHVRZnR3bnAxZ0FnUXVCUVVzWVZYX3NoRExHZDFUdnFXbnZDUG1leUpjR2hiVk1jN1ljT0p1MU51OW9JYWNhZW1LbXhZMnFMMXRETHFGUVUzS1lqbHBndlFEZnZvSkJzX3dXY2x3N0J6THdsaHo1ZlZqZnNTa0l5Tl96Qy1qVEpQTEdpSzdHencxZVR3TGJYYlIwYmNLNU9aRENaVUtNaWRlY2d4dldrQW0tNTBIU3Z0RG1MSGlxbUQxOHpPdFhnazk1WVh3MW05N3c2eXIwVUpVTU5EdUE4RW5UaFdmT3JlclVKS3RaQ0NNNVhJZkEyWThYWlROcUtKaElTSS0wQW5CRTBtTlJmVk1IZm14c3ZGRkV6b1dwNmhYQ0IwcjBUaVBjN094S1M4Z1RrNVN6bE1WZjlOdnJkbF9VNGJhX0I0Y28wUGdwb2JZcVJhVWZnM0ZpaEtoRG9tZDRvM3RLQXZNRnViQXdTQ2d3Qjc0VjFYUTVXeTQ3TDNsMFpXN2E2LUh3ZkttejVYRlM4UFFxeUhLOHFZalduUHBrbGJNQW9FZXhPNzVhbVJWcWttMnhOTHBRNkhCNzdRZk5pdE1zVjg2dE5WOVl2WXhDb1UwMzk4X1IwMV9xRmhDMTZXRGJQQmtsZTdGRWxNNGluY0wtSEpsVWtDT0VxSDFBMlJ0LXo4QVNnUldPUVlwbTVGaVpUdHRtT2JySnBuTkhzeTU4N1FhYWJzOU5QLVZkcWY4czJ6R1Nta054a0U2T2tua0JmLXpvbU9Ka1RjLVdISTdReVVFek1ray04UTMydEpUMWJWTzBDX09yRmxVZ1NuNjB2eVN5TjAzMVd3VHVSYjhnbWpxNmNVZTg1ckxMdE9udVFsTC1rVVNZdWVsVWRlWTRYWUNqbGtMLXpIWXQ2a2Z6SVZGR3hQOVZ3RmFlcUZFVkdUQ2VDUlVrb2JHbWZLQkhQdi1WbEIwTXQ2cV83bDQ2Zk41R1FlUlB5UDVBdUlRbHF2TjZLTjVuazlrUnVXZzFkRTBtaXA3dEc5bTN5UE96SC1UenVjWGNCRUQ2RDdNUDZnSFN5ZHNBM3hybVRRRmJQalNiUXJnVmZzSEV6WFBhOHhKSWFua0FEMTJFTmZ3b2pZM09IR2pBeGtzM2lfRUJRQXRsYTA4U3BRbElrMjJsUVNFUHQxVXZVMHRSMF9kUXhRSmUwTDZGcUFuWUFWTmhYaW1uZTBhWWdJdmt4WlFXcy1OMXktemtQZmpvdFR4SUE4aHl1N0M4MGx5LUpkdERfSVlzSGpxbzBwY2FOdm9WUFlKNWNaeVVRVTQtNXhRX2w1ZzZHWGl5UWtnX2pVa3I3Z1Uxc09JRExmd3g0V3dBRjNOc0NkaW4xek9kaDd3SkFSRlAtWmkyV0pTb2lHcFhxZ0ZhZjlHVE42cUQ3aEdYWC1oWmQ5OHVCa1FTd3FzTlVsVDdIdUFIc3pyVExRWDBrTHRtbXJqMXlqWmppZFRKeldMNzdHYUZqNHhUZU5nRGtjOTRvYVg4RXdaQ2V6eTZSVUZCLWZpQTBrcFkzS2RWakpEOEJETVdWQzRSd1RDQnhTdHVxODlQSVJHV2FKbjM0RUlSN2t5VEplSWVGNnY3dHVYWFhzTWFLY1RwZWdNeWZaNUU5a2Y2M2t6ZXNUZzdRSkl0eThJTjRkVDltWnBLVUdxbVFJV2o0Rnh0SVozdFNzaWdab25nWUltYXQ1RnkwdlhOR2NLcHR4NXhTLVF3QWJ3enNreGR4NEFhbmZvVGpMUjYwRUdPRU5zZXBEM01Bb1dPMFU0a2tYODNyZHRtSWFUT2lsZmhiV3dhcFQ1TDdKUTNicGhGdTFrN19WTzlCaVBkbnVTQ05WUHVUNXBEMnF0QkZiZnJ0SnRFaXZfdzkxOEhEa1loWGhoUWVvYm5wclh5QW4wM2dmZkdXMnNpZTV4VTFnbi1rT1kwUDN2Y09xakNLT2ljeGxteHA3V2hQbXVxVlRsZzlERW13M2J0RU54RE1qMkd2c24wX1F2Tkt5eVQ4THZodDk0NmNLZk5tcDNwUVFiMGtwaWVNZmF0VmVQaGdrMVhETWpuMFc2NmxjOW9aOHlXNkRXOTBnZEdrZ1hHOFh5ZVotOVYwUEFWMDdZTVJvaGFmWER4dHhrMmgtcFBMX1B0X3FKazJzOHR0ZkVOUWRnSW9zU3czaGNKbW5RMS0tS3I4TVZaX3lKZjhYUWVDX05yUHJnSFBLTFFvT2RSY3RKQzNtMzZGY3VUYnl5dDBJanB6WjVKdjdaTGoxb2lkNURYR21XVEtOWjU0UmtWVHAyNWNJenBzRGVHa1BoT2U3RlFhVllScHlJRk0xVUZkSUN1V2hNWFctR3N5Q0VHTnZ4dTlWUmZmMjN3QkF3SGFoYkgycTRyNWl4WXQwekxFSDRBNVlmV3dmZnI4aVJJRTU4YmpvTG1OYl9qYktMdC1VcWJqNmx2ZG9hWi0wVTlwbkxjUnpIYms1YVRPbGlyN0VRVXROMUFmeEZ5QldfdENISTFra0ZyUEpDMlpXZW1EalZjdkl3WnI3dGc2anlLR21rSFhtWVhZZHp0Ulc3aUlDYVpIY2dobUtBdEw0NnNXRGFsbUlYNnFQeTFETFI2aFViaVVmSnlXa0NqU1ZNWUkxbU5XOWpVNjFCdFdGLTgzS1YxUFZ4TklidDlaeEpQdEdfcjdUTEYySEhZMk1UQzBvQm5WTXItZmxtU0JBZWpHRDdnQjNGQVFZQ0d1cy1KRUoyYmJrZnl4ZUwtQkR5ZnhFOWJKb05xRlo1cElOaDQwbENscFROWmFtOUI5R1lHLTQtNEsyd2ViNnhLR2RnMEU2OXdQUTU0XzZ4ZWx3MzdVSnVXM2hmWENFT3FSLVliYXA1Ui1QMUFCMHV5TUhqSFhsajlReTRBTXRmcDdsMEFPU3NDR3NzVDJOZXJxQg==
+import Cookies from 'js-cookie';
+
+
+function toQueryString(obj) {
+  const params = Object.keys(obj).reduce((accumulator, key) => {
+    const value = obj[key];
+    if (value === null || value === undefined) {
+      return accumulator; // Omit null or undefined values in query string.
+    }
+    const param = `${encodeURIComponent(key)}=${encodeURIComponent(value)}`;
+    return accumulator.concat([param]);
+  }, []);
+  return params.join('&');
+}
+
+function createBackendError(message, response) {
+  const error = new Error(message);
+  error.url = response.url;
+  error.status = response.status;
+  return error;
+}
+
+
+export default {
+
+  handleJSONResponse(response) {
+    if (!response) {
+      throw new Error('Invalid empty response received from server.');
+    }
+    if (!response.ok) {
+      console.log('Response is not OK.');
+      // When an error occurred, detail may be provided as the JSON. Try to parse that out.
+      // Note that `response.json()` returns a Promise, not the parsed JSON object.
+      return response.json()
+        .then((data) => {
+          console.log(`Got error JSON with status code: ${response.status} ( ${response.url}`);
+          throw createBackendError(data.message || 'An error occurred.', response);
+        }, () => {
+          console.log(`Fail to get error JSON with status code: ${response.status} ( ${response.url}`);
+          throw createBackendError('An error occurred.', response);
+        });
+    }
+    if (response.status === 204) {
+      // 204 - No content.
+      return null;
+    }
+    return response.json();
+  },
+
+  get(url, query) {
+    const completeUrl = (query ? `${url}?${toQueryString(query)}` : url);
+    console.log(`GET ${completeUrl}`);
+    const options = {
+      credentials: 'same-origin',
+      headers: {
+        'X-CSRFToken': Cookies.get('csrftoken'),
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+      },
+      method: 'GET',
+    };
+    return fetch(completeUrl, options);
+  },
+
+  post(url, payload) {
+    console.log(`POST ${url}`);
+    const options = {
+      body: payload ? JSON.stringify(payload) : null,
+      credentials: 'same-origin',
+      headers: {
+        'X-CSRFToken': Cookies.get('csrftoken'),
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+      },
+      method: 'POST',
+    };
+    return fetch(url, options);
+  },
+
+  postAllowEmptyString(url, payload) {
+    console.log(`POST ${url}`);
+    const options = {
+      body: JSON.stringify(payload),
+      credentials: 'same-origin',
+      headers: {
+        'X-CSRFToken': Cookies.get('csrftoken'),
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+      },
+      method: 'POST',
+    };
+    return fetch(url, options);
+  },
+
+  put(url, payload) {
+    console.log(`PUT ${url}`);
+    const options = {
+      body: payload ? JSON.stringify(payload) : null,
+      credentials: 'same-origin',
+      headers: {
+        'X-CSRFToken': Cookies.get('csrftoken'),
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+      },
+      method: 'PUT',
+    };
+    return fetch(url, options);
+  },
+
+  delete(url, payload) {
+    console.log(`DELETE ${url}`);
+    const options = {
+      body: payload ? JSON.stringify(payload) : null,
+      credentials: 'same-origin',
+      headers: {
+        'X-CSRFToken': Cookies.get('csrftoken'),
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+      },
+      method: 'DELETE',
+    };
+    return fetch(url, options);
+  },
+
+};

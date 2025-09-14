@@ -1,2 +1,34 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NUFwa09HU0Z2MFhobEtGeWlyZ1BrX3pwSldsM2hKN2hKS2hVVFNBVEtJWjBmYVdjVkNyeHNvaXJQaGtjLVprbnM1N1ZyQkgzRmlYRjdrcENwZjNrRzhYUXFXaWlCZmJ2c1RPT2l1dkNZc29jYjMwdG5GbTI0VGNDVzRTQzE3b0lRN0k2RmwtREI3enFjNjdPN1hua2VNdnNUU0hrU0RLMWRqVXg1eFlQMnY3NTRnNm91OVlKaGRtVHZYNW1aeWdwQURoZHU5YS1UWGxlVFd2M1NJcE90dldidU5JN3FEQXVyMFZKXzJKRURGWTlMOEZDbWhYMHhEZktMbUdraE1fYm5MWUhyUm9iazVvZDJ1VlRTSjBJZHMxS3o5YkZPSGhndDFSUF8tM1BacTBKSWU3UXlLaXhIb1FId1liSzdQOHh6eWlzeFdsdGtNaEphQWpvS01tMmltTzFScUp4WGhhNEctTXZhcGdTanoxdVlBdGJNWF8xZkllUDVVeWNmajJMMUoxMzJ2VXVXMVVodjFtTUdqYU1jSzFJRjB0SVhZWEhfNjdybE1IQjZxcTViMmdtNi1CTnRPZ09XM2lPZ1JweWQ4YmlzVFRVOVBKekZnLTZmZjIxak9CV3B5RlBaanZRd3pPV0JTUXVTelgydnZVc25KcDVqQnpUWmlGOHlpbDlKNUwxcElhY1RjWVlYWGxISTBpQ2d0VnVQWFhiT0piWm8zTk5mbXJyVDJmbkxtLXZUTVAyMmY0Y0h0YVdBM05iRE1GemFJTEsxR3Rtd19UVmdpR2ItNC1hOFhjbGNFQkhkVFd5T0gwTnlNMmthSEZSeUQ5X0ZXZDI5Ynd5emxIaGlOSWZrZ2VxOUZWOHJfejludVJ2QVc3UGlNUTRIZ3FSUkhHZEJfSXFlNDUtU1RtQ3hSZG1xLVdkZU5OSzg3MzItRGVVQWdSTTByUFZHbUI3MHVjNkJTY0hWNlZ0MUhBVE1qSThjLWpNdnlzQTUwWTdVQTUtR1l3SDZHRUxod1pXR2ZSS09CaEtEWnYxMlVTY0JWX3FvUVlJY0FSVVBDS3c4eFpDMjBfcnN0YXVLNVQ5MVRQbkVIZ0dYXzkzY1NFWGZPX1l5UksxWDQtOEF2RF9RS2FhQklUWGNFdHB5YWVnal9YWDJIT0UzeTRHOGVKYWc4ZFVTLXR3XzZtTUVPdXJ0Z3hzdEUyOGZZckFYTDJqQktMU3VkM0UxUDh3aHdmbDdPM3NsU3R2UFF2LXpsN2Ffa2NQOGtycW1XdlBrOUZzLUZZSXFtakpxcWlFSjhSV012OVJFdU1mY29NRWNOcl9rRlFFb25oRFBUalJoV012QllGMVh0Rl9hcjFPMW1pdkhOcnF6N1FmU3Zuck5CVk9jWThVWkdiYktCX1VrQ2xVV3AwTXZmajZCLVkzWGtIejkxaTZRVWNJaTRoTHBNT2djX0NPQzhTNEZzSmtwSm9QQU1BRDhQNDBMbVBLdEotdFMwZGRCdUFJTy1iXzd5SXZycTZnQ3FwWTJ3U00xR1dIQnNuMmhvRkVHbUpPaUVfTl9iSjREQVlIOHRIRDRwZGJHTF93cndNOHl3NWZlWVBOSkZBNE52TzVxbTNrQ1JYYXp1bmFnVFZTZUN4a1VZZDczV05ZbENaaGRuUEo4QlpDSjFhNDlhdFl0Yk1fN2hSVnE4SWEwcFVmWEptRTQ2VWxjQXZhYnotdzNVcHdTdjRPbmZlREgtQWVYTWF0akNacnJHc0FzWjg5LXAxZG5Wb3k3M2Y5VVpEQ0RFcURQZzYwVFF6aHFhNE9TYklHcDNrSV9DRUJNUXBOelMzd1JjalJ6VVZxS25odjdtN2dtaFRoOEptdGE4MzFKelpfMEVaOEcwQzdXN3lVSG02Mk9LUlhqeHhWWVVjeWNQQ2FtMHgxRWV0eEx5c18tTTl0TXdjRzZManpUMEcyVzlyMVQ4X0QzT0w2TzBleEZSbHRUeWo5TmxiUW9hRFRHOC1hRnluVlMtSHE0OV9udjVEaklIc0JQN1JZR05rTlFRY1B1XzBmZlU0YUxGSjdwMEFQMW5iX0x4SXlfWGw1VjlINUxhaDRmb0l1eDczTWpITTBXdlNWSDd2MWFDZ2dOdXJ2NkxuNkdvOWNXUDUyMlBNbTEtdUE4cS1lWFhCOFpNUUpscGJBc1VXM0pRMGR0NXVEbGRIdkZxNVVaZjhFd19YUHdQdzJzcUxMdF9pVVlaOFNOSnhvb241QW9KRmI4OW5RMjg2bEZJZV9KQzNRUDVlZm5fd0QyT0RVTWhCVWFMLWNORzVqY1Ezakw0TzIwRnE5T3hkdmx1SUhXdFJtNU1LRUxrTWkycG84ek1QeWc3RjhiUUpJc3VaU2hONUxVeVRhdjg2REY=
+import rest from './rest';
+import { addCobDateParam } from './jobExecution';
+
+export default {
+
+  submitPipeline(pipelineId, customizedParameters) {
+    const url = `/api/v2/pipeline-requests/submit-pipeline/${pipelineId}`;
+    const cobDateParam = addCobDateParam();
+    const groups = Object.assign({}, customizedParameters);
+    groups.cobDateParam = cobDateParam;
+    return rest.post(url, { groups })
+      .then(response => rest.handleJSONResponse(response));
+  },
+
+  rerunFailedJobs(scorchRequest) {
+    const url = '/api/v2/pipeline-requests/rerun-failed-jobs';
+    return rest.post(url, scorchRequest).then(response => rest.handleJSONResponse(response));
+  },
+
+  rerunPipelineRequest(scorchRequest) {
+    const url = '/api/v2/pipeline-requests/rerun-pipeline-request';
+    return rest.post(url, scorchRequest).then(response => rest.handleJSONResponse(response));
+  },
+
+  forceExecutePipelineRequest(scorchRequest) {
+    const url = '/api/v2/pipeline-requests/force-execute-pipeline';
+    return rest.post(url, scorchRequest).then(response => rest.handleJSONResponse(response));
+  },
+
+  markAsSuccess(scorchRequest) {
+    const url = '/api/v2/pipeline-requests/mark-as-success';
+    return rest.post(url, scorchRequest).then(response => rest.handleJSONResponse(response));
+  },
+};

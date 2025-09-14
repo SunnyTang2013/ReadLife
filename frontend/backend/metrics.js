@@ -1,2 +1,59 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NWJ2VTVHWkpoWUN5LWJSSm1VWmdsNS0zcDFScjBkX3N4QVoxYVJuTlZyRXBXNVMwNUxPOUJmalptcGVGLW9ZSnpRa09YdDBockc1MW1RNW9tT2lfdWZUVkZIX25jZHNRZFpVcXp1aDBfQmQxc3BYaFJMeVR3QzJJQUZSQ2gyVWhBQ2NZbk1IVlc4VHBUTWctVEdVbWNURjJLWXQ2cjVBS3RNdXprMHFYQUtOaFNCUGN5M0ExVHdfYmRqdXcyU1QxOXpHSjVpOGN2emtSM2lWYXZpRnlKVXNhaTV6RWN6SkNZaXk4SnJIVkhsbmNMTVNfekhZN3o0bkhIcjY3WG1idmh5RkNDaElvRF9yOXR5czI3a25Ba09uRjMtTGF3dUlIZFJyYWQ5REZqVUp0Y3ZxcDVrTkRVaXJFSTBKWU1MTXF5NndYdTgtV3lGWF9yMmw5ZmpGU1FDaVktQ0lKS05WZnJfcHBRbzRuWEFFX0Zqb2hraC0xazR5S3k2YTJsMGRDX2R2SWV0YWFrSjFKVTRnUmRDQlJXZUJxbW9INDZOUm1ZbUttejBBclJRMzltN1pWVFY0RXlqUS1DdGM4aTZua2o5clRaX2lkQ1lxRmM0S1VTNzFKNTkyQ3pRMmZORGpPSGZwellueng3TFRfQjBxUzJscFBMdWR2VWVPNlM0UHJxVXhxLWFLeDVGYXZPMTFwUmwzWmFRRkZkWXhfS2tWNDc2bE40T3FtbmlKSEZKV2xTWG04NjkwMFlGMFVPeHNONmxMRFoyXy1RTDBPYVkwNUZreWVCX2ctVkg1UFM0WUNvUmVYYy1vQjBUT0gzdDk4TkctVEtpUUtMUWFNX2wzTTVHV0xvYm9VLWREUlNZbmtDRU9HbDJfZEtZbnBuckxPaGd1TUtfbGtJUUtVaXBNMVNxeEZ6YWdMZTI5ZUJDOE9CcmkzZHhFNHJCUlhkeVJEeDRPWmVjMzNxNVVVUGJOQ3pFWThkZXFvSlJlSjlwTjRyN2MtM3I3NTZoUVY1eGVHZnBiQ2ZjY1kwZkVyUHozOTBMQmxzenpNS05SenAzZWpuQk5XckhPdURTeldvbmpTYTA0M0tvRnBNTUVBYWd0cktXdEUxYlU2aV9kTGxwU29kN01iT0FINENfRlNVWFZzQWFqOXhpRE1hcHpHdFJpdkdhZkZJXzk4eEtZTjdiT2Yzamptc0JvZXZFbnkxb1U4bUw0b3FpaVFWYzFCbGd1M2I3QURaUUpvR29iWUZMaXkxcjlQWERBeE44azhEaWJrV3BQeDUzZEk5a3ptQUNpcEJUMVdCaUNRYzRqaFlmV1V0MEt3eW5rU21QWnpNdk1uSm51OE5GWnRENXVPWU5ha3VHRXlPdm9WcU5XZjdlVFhucEl3dFpBZURuWkxhYmVCMzhnZlRGaUw1a2hVbjlTc1YyS1JTVUxrQklIZUk2SjlHM3FzR0NuVF9POFAyNWJyM1AxanRYaEhTRGtubTU5N19ONDBwWDdFdDctYURLT3VKQzE1ZEljZHR0amdhU3lha1RoYWpEckxmcnNJTGE1RDhuRHpBN2hOVzQ4VUI5akZmSnE4eHR5V3ByajEyVTMtcW9meHJGcEkwd3RrWG1GREhqWTdyMW0xaFRsUm42OXNUQnZadGR4Mk5XT2R2M01Qc1JaUFRKVzRsYWRJWDl2bC0wTDJjZ3JzUk9fRkstTWpEVkV3eC1wSTVfYTMyRnRtVzhpOUYxRVJmdG9sSDlsMHpVUGNCZHZ3Tm80TTl1dmxIQUtRSXZhNXVRenpheFBUY2xMWk5XMkZjYVZBUjdRa0ZQZm5xNjVkMHZpbGxZTTYzRkg3M3J5a3lpMTVBNzhPcDA4VmJuRWkwYXpRcVZadWRGQ3R0UUtpbWM3UDE5STc4bXNQZGI5dzlpSFpFTXFvUUlDZjN4aTFVS1NsYWlaM19hZlFCaUlTMXB1SkIzQThRdmgyU0RNNDNwalB3dDB3TUdLMHJVOU1adWJUek9pbUhBZWg2amRqSzZDbUU2a2U1VVJJdVJkR01wVTZZYnlPRVNuRkVRdTlpdElZeVFuRC1nMUxwQ0J0QXJkbWlMY2pCS3Bnd1c0bUlCS2gyNjc0bGp6eU42WXhUMVpEdzJvbmZ1bFp0WUxfWVRESnBZand0R3JLM0RiYmJrY0twVk1sQTNTdTdVSnlOVFYxajBwUXA5SGlwa0Z0SVQ4Vkh0VnBCNVZqdE5TYXhlaDVoU3lFajlFSy13SGYxUGZteTRwNDhSUXhsa3dDa3BhRW5pNmk3N2UtanZfVm1oMTZ6V3kxZFNJblpaX3VOcENUeVNuMmdqZGFqdDFQTERwbDQwM3RUUW5vZ1ZJYkNFUHpNUW41clFOdVRmVjJUNXdKU2haVHpqWnBGVVdZMEYzWDE4LXF3OTQxQW5ueGgwdjh5REh3X2l5ZlhTNjF1MV9LZXNaQnBWakpjdVdKdTBwaDBsU1BxSlo3QTFrQnlNOFNqZW1neWNHa0lseHhIb1lfT3lJdDNMb29pR28yem5aZVVjalEtRWNpSnVCSXBrRnlSb2YxMjRsT1NvWWRBbUxyYjZWYk5qeWF5cENkZWRHTnowdHhHT1pYWjNvUVR3SUdQSHN6dDFFUkstUWNUS3JPX0p5ZVVfSGd2dGdaeWNIVVZZc2ZvR2lZQ1dYaEVzWXh5ekhxTEl4SUc0RVUyZUFBYXRldnJyRHlQbkZmYUJhb0hHa0VqejZEbEt0RmxsT01RZHhDenlKQ19lTGdiVmV4d2liMUMtd3VDYkl2aTY0QlFScEF2Y1Q4ZmdwX0FtaUJfR0Z4bkRaR1hjbHlTLXVkUDNjZldWeVMtMWFRTE5YeDFYMHlkajQ0dTdwREtDMGhZRnh6X29vSDlDLUIzWGxIVXZ5dk1BekxaX0hGUmhSaFhYM1pYcjdlaEVoOUZVWF9hbTVjSEF5OWNNbTBnSVJ4T0R3akpkQldjdWlfQlhIeHgyb2NCYTRhSU9sRjVzZG5HV29RdGpCZVFlMmpoRWJNQmljQ1FUNGFnR1hwLTlnSGxNZDF3TVU2UFR3c3ZGazZocV8wYUI3TnBYWXJfZUI5alpIeFczSFRvbGFqM3dRSFhxZi16NHBaZkthUkhGMlBEaFM1b1dfWDdwYkRmeFliYV9ZQ2VYQkZlSDRxMXhSQ0k5ZVlRalhWMEg0S2pmVndqVnV4VFVpbXNuMEw1YzdFQjFPUlNDV3B2ZGg4Y1ZLUlV3NXpoYmhtT2NHSnZWN01lTWFvd0FUeWNVclNoLXhteHVUNFMwZTF4V0xmdlNQUXlWVW5KUkVydFBTTkQ5WnBLT1BHYkNHSWtMdlpmV1R0VmlGaVMzc0h0b2hOWllYSk5nTGFvdkJ3M1pJcEdxU0ZxSTIweFcxSUZxUXdVUjZ6dUh4czhyQ3RQcVh5alI0QVdrWnh4VzFjSVRuYXBNaVVaMlZJd1FGWU9EME0tZTRhV0hfYWlRczB0N05zb0kxdU50bUozUnJjNUNWVTBFZms2WmEwcXpjSXdncHp6eWRHOHlKMXlHNjVHVlhlSVFidTRtck5vT0N3OGlvSGUyTzVOdnJISVlTb01TRTVRWXBWQklha3NSVGtWS0djTE5tQkN5M2N4RUVBTHg3RDVvZUhOYTBrdTIwMjMxTFJwUjdqTmxQUHI=
+import rest from './rest';
+
+export default {
+
+  getMetricBySearchID(query) {
+    const url = `/api/v2/metrics/list-by-id/${query}`;
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  getMetricByJobRef(query) {
+    const url = `/api/v2/metrics/list-by-jobid/${query}`;
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  getMetricByPandoraBuildKeyRef(query, testType) {
+    const url = `/api/v2/metrics/list-by-pandora-b-k/${query}/${testType}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getTradeErrorMetrics(query, testType) {
+    const url = `/api/v2/metrics/tradeerrormetrics/${query}/${testType}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getMetricQtfPipelinesList(query) {
+    const url = '/api/v2/metrics/qtf-list';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  getMetricBubblePipelinesList(query) {
+    const url = '/api/v2/metrics/bubble';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  getMetricPipelineNotes(query) {
+    const url = '/api/v2/metrics/qtf-list-notes';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  getMetricRerunListJobs(query) {
+    const url = '/api/v2/metrics/rerun-list-jobs';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+
+  getMetricRerun(query) {
+    const url = '/api/v2/metrics/rerun';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  getQtfHandoverResult(query) {
+    const url = '/api/v2/metrics/qtfhandover';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+  handoverNotify(request) {
+    const url = '/api/v2/metrics/qtf-handover-notify';
+    return rest.post(url, request).then(response => rest.handleJSONResponse(response));
+  },
+};

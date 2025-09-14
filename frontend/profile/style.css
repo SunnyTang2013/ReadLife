@@ -1,2 +1,65 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NWxUT2ptOWVEem5LSlV1ZkdickF3Q0NIR19BS3VTVUh5cG5SeXdCYlFta3BVU0tkUFc5TTIzRXZ0V05PTnphcjU3MUN1dERjY1lrX2IwNS15Zkh1aHVRUEZ6NDhZaThoanAyWnpFbEN5NGlaR0NuNjVqbWpPVnZORDRIdUhrczVZenlqSkhKZkVfLTQ2QWpyVjRJUk1XWUg1S25NZGMtOGlJcll0WVYtUl81bmNwc01acHAyS2J0aEo3OWtwUGJaMTRjVWtfbzQxMWVBZDh4N2s3aXZRT19ZSFItdU5meVZsaDE3MHNlVkxzb3hSTnFVVHdFMDMxOXFhMngzWm1PQVlkdUNuZEM5ZjRxUGhrOHlVT05wb3RzaFhpdjQycVRndEFSYVItbFMwWlNQTHFwSGNwSkktRHFBVGVKQzNyZzgtY3ZNbEsxOEFla0dsWDJ0RGlYRHdZWHJ1ak5icDhxckhWZ052bFAxeHN3TndzSHpLbkgtUVQwZV81YUFBajZtclNuTGU5TDFiYWJGMF9QNy1Ca09Jbm5uS2RkUy1xNURldzl4WU1ybU1pLTNYaHNNUXRvNmpuRGJ6NVNKalJuTy1GOE9GU1BKTGwwSlhObmsxWUMxcDhwYTYyRnpGeUVDTVBSaFVfa19INllIZXM2U0dZX1h2UmxyS05aX3A1c3pnYWlLTDRtMldkUV9NcFltZlVGYWtsSmdPeHVyeTJOVDhiaWtzNzJqaUFRSm1zU0FvX3A3dDE2bGJKYXVGR2o5dmZZemNjRnUzYjZqYk9VSThOeC1jdklOc19LS0RSUjVpekstSm5wQ0hERE8yRU9aYkVSUk1iVVUxSEJVWlB3RlhVTVg4YXFLVUpKNkw2NTN1R1ZPYTJlUzRmYUVSTUhlOTh2UV9kRHVkWWJHVTFsdENXZHVuOTdZT0hqTWJIMnd5OUo5WWIzTlB0R0xPc2tHMzhxc0pBSXRUazduUjl4RENIQWhnT2ZJQVNOR0sxckVWV2tvUzN0V1ZlaUFDYzI0aFBuZVh3ZjEzX20wU1NFRWdUQ1c4TUVkNHFjZldpVjhCSzFFYXBOc3dORkdVME1COE1VaHV6OWQ3cWlnVjctZWI2X3Rla2RGcjY0X0FUSzBhRGNKczN4NFNWbDhpYi1reDF0N2FuOWdFYXFqY0pDS3hkdnVnNFBZTlZXbURRZ1NpNjJGMURFa3FfMy1NWS1SaXMxYXdfS2lXb1hjeXRKR0RWMThzSUEyUExITE9obzRJUnRqUFRpOFA0Z21JYlE4a050ZDc0TlR5dVR0dFU3ckVhZHVPMklLSFFSQ1h4UFdLa3p1dE5QZTNfSGNSS1JUVGZ3MFNoVmtJUnpSODZlVTNqcFhoQWhvQjUxWEZyNWxlQW1xYU55aFpzNGhWRXNHRnVxMGpwUm55SlJqdnJKZGJVQVliZGRMNXNCLU8yY0lUSjNWNUVfMndpYmhDRldLb0dNc3ZpdDczYTRseFREeVhpM29nYnJ1MDV5R19fUkhaSjViRl9NRWRpTElsbHFBLUljcFN2WEZqT0tZVzF5czluUFdRc2pMVjEzU0NJREZWY1FFWngxUC1ORUh4U1pwTmFGZWlzNGtaZjluZmRyMjVnVU1qQmNFeHZBYUtRWHFYMnJZMkRhS3Fhcl90Wk94QXBoT1JGVXYxWV81ZUtEYzI0ejV3YnZsYWJacE9TTE1vNlg1U3pEVURTX3ZsQVdPb3hVTFZOZ2pWdjN4cFVFZXpCYlowY1JrRVliQjk3dDJpODhtR21VT1NSMXZJLThSZ0s1RmVTdVRwcEF5SW12dzNBQ1BxbnlzVFZaVEpRSFZLU29LNjN1ZV9HVVp1ZlM3bEtxcllTYmlhTzNTbmNtQk83d01WaXdoVkxocWZ3LTdMbVdNZ00yQlBTX1FUbDlMa2FjVDlaUlNmMHJ0cTRlOUJ1aXZuTF9EM01oa3Rrc3RVVTJ3NnVqbEJjQ0p5UmtZRS16cGE0QUlkRFVZSl9tcHZvTkVzcVhaMHBNbHE1c1FXQkh0MENVTGUzOUU3ZWs5cnlRZHV3ZkpPbE9IN3RNOEM0TUdITl8xQ0NFLU03eTdmSVY3a0g0M3NGUFJsQU0xemt0ZThvTkhheHNYc2Y0cks=
+/* Patch for react-datepicker style. */
+
+.react-datepicker__time-list {
+  padding-left: .5rem;
+}
+
+/*
+ * Set the width of DatePicker to 100%.
+ * See: https://github.com/Hacker0x01/react-datepicker/issues/957
+ */
+
+.react-datepicker__input-container {
+  width: inherit;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+.sticky-sidebar{
+  top: 5.3125rem;
+}
+
+
+.modal.right .modal-dialog {
+  position: fixed;
+  margin: auto;
+  width: 500px;
+  height: 100%;
+  right: 0;
+}
+
+.modal.fade .modal-dialog{
+  -webkit-transition:-webkit-transform 0.3s ease-out;
+  transition:-webkit-transform 0.3s ease-out;
+  transition:transform 0.3s ease-out;
+  transition:transform 0.3s ease-out, -webkit-transform 0.3s ease-out;
+  -webkit-transform:translate(500px, 0);
+  transform:translate(500px, 0)
+}
+
+.modal.show .modal-dialog {
+  -webkit-transform: none;
+  transform: none;
+}
+
+.modal .modal-content {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.modal.right .modal-body {
+  padding: 15px 15px 80px;
+}
+
+/* ----- MODAL STYLE ----- */
+.right .modal-content {
+  border-radius: 0;
+  border: none;
+}
+
+.modal-header {
+  border-bottom-color: #EEEEEE;
+  background-color: #FAFAFA;
+}

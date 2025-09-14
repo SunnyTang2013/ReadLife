@@ -1,2 +1,20 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NUFYMmZEYkI3eUZmNzN3QXA4NjV4enRUX3E2RWVscTNwekJCWU1VclE5ZVFLWVhla2JWUmZ5cWxnRUhxR0dGS2ZPQzBOUkoyMXN5cklRU2Q5S2NFUDBWbHI1eWtPOHIzZlpyYk1FUXVXeDBteXR4d01oaGhjX3JBTUEzdzY0SjZNX1FvRkp0S082MXdoZEhpVTRWRUFENnZLYUp4TTB6enp3Yzg2SUMxWUU1OGNjUXZma2wzTlNZTXFrWXVIMGowSTVDRVhHUU5oOEE3YUZmMnNTWnc2UC1jVzdUTWx4OTNCUTZpN3p1ZDRFUkFZSVFPM050Q24tZFZjaVBHcUgyOEVKdTl1YTc4eGlpbGJLQmR4TEZleEg3dGpwYVRpYnZOeHBIWklHVGloaVVYZzhTYm9iRjJ1Q3FVOGQ5bllFV1E5T0s3ODAzcXNSaTlEd1ozR1BGeEZoQzhQUE5yV08zSFEwWXNWUXVGU0p6dDVOMjFXQ2Q5UDNBaktaM3MwbXJwYjllUVExcVd3cW1ldElVMXYtQ3BZTGtVX1hOSFAzLUduczdZSE1fZ3N4M2hoSUtBT3h4YmFQUm1qTUpJV2JJZU9GVjJJZGc0bnRRd0ZaR3RYSnZWRXhDQWNnNGVmc3cxeE1kRFp6ODFNcEdpZC1wSlRwWnlTQm1vQ1htcnRDV1dXTEZjdlNYU0RVeEN5a0NlZmVIX1NTZEhGbEtKUGI0YVMwOU1NWTJ1cm43TUszODVsV0ZaU0RDdmU2QXhCNzRpN1Vvd3R5YUkwQ0s5a21qalpwby1iZVpDTjhIMXhXc3hQbVhEcEFrb0lxdkNlSThIQVA0SmJPNnFaUnhDV1RwMWt6VVplRDFXRVJGSS1PM080TlRaVWxaZ0VnX1JaT2RLVEFLcWZwT1VueUlndnRRM2lKdzJnYU1XOVVPZHY0SU9rZDFhNnhXbzFucUtKSFBUYnJSbk5HMXU5cVVMU3M5MkNKTFJFa05MbWw1cnpxZkdBVThtZzJTVnlsRU9HenBQa3k2ZDN4cjJvVXV1WU9OOGtuVkttekhUZHZnTVZUZlpubG82aWl2UjAtenhIS2YwS3V1RXdQZXo0aEdwa0RfaVQySWlVMjJBWnFqNmlEN2ZGbkhqd3VDSkJkNktuY05VdFQ1dGhDdjJZaDRYa0c4djYwRF9nM3Nxc3JnWEY5WDYy
+import rest from './rest';
+
+export default {
+
+  delJobCheck(jobId) {
+    const url = `/api/v1/delete-check/jobs-delete-check/${jobId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  delJobGroupCheck(hierarchyId) {
+    const url = `/api/v1/delete-check/hierarchy-delete-check/${hierarchyId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  delJobContextCheck(contextId) {
+    const url = `/api/v1/delete-check/context-delete-check/${contextId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+};

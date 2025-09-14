@@ -1,2 +1,55 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NTg3cDVEeDd3a2drRmFWclhXZTVVME9GWXhKNlYzMVpBV1hBSGJkcGVnckttR1JZN3pjZGlqVS1RbDR2dXdlcjJfLWJVaDV6bHhpb0pGeV9rMmhpVDZ4QTA0UzJ0QWM2dkVUN3U5NGhhb0JKazJiT1BvWjA5ck9PMkU0VXg2bzlJN1JHMHkwYzlkYTNTMmNwYmt3eW9iQ18yaVktWnhvVEdic1NoamxYV3FKelJSZDUzQzUtT3U0V3d3M2xyRmNKMTNvYkNwUGRYU2RmdWQ1SzZhRTFSTThGYWU1aWVOSlB4SmZYX2Z3LXo2aWdDQUQyTlFvNDgzYXd0N0tlcTM4cXY4bW5nV1dIQzZsMUdSakJmQWFYQUJyU0lrLWctaVlVM1p4WllKeVVCWE1VRU1aMkNwZ2hMbVIyQ3c0MFJ3Qlp4TVFodHJKREJlZU5qOTEyZUtxZ1o0cE1IeGJXOTZXYlhvT0JFOHRJcFNNMGEwN0dRZEtTXzlWSjNhVzVsdmxxWHNyREQwcXllRE1tWUlVbko0OEJhVWlVd0JybXhlRnE5c1F1SUNKdkFvdFFvSkNUVThFVUp3aUpqdEwycDVsQWpHcVlyUkJXWlIyYUxNMWNZc0ZCaG15RWxUVFFOZnNMak1TOXNXX2h6RnVrYkw5WXowMGVoM05SbDA2Q2JDdVAyc0ZHSzhDenNqT2FZaU02dVMtd211LTk1LWhZSWFsYW9CNHlRS1N0Y08tWXhXSGdtYnU0WUdVQWZmSHlHMF9DVXE1TnRCMUtmZVNHVFE2NzZRV0FLMmp3LUpIM2ZCa00yUGZrbl9MNWRxMHlUWVFWVjhzaUY2RDhldGkyeTh0dGdOOWF2WEhHRmFsYU5tSFhPNi1uakVsRHN3WW9Qa2pjMTlQazFLbXVjZ1pVc1hGOWxlLVFtczJDVW8xMUp2RnhUTUZ3ZkY2NnNMVmhKUXR1dXVEM0tfNzkzS3F0MEl2blFqRnItNEdPVy1LYzk0Wmt4QVlaM093eFE3c0hJV3huQzFFNDVyWDJGMXVVUXY0bHVFX1RQa3hJeklNQ1ZqYmR5aFVvLVFjUU9hbFNjOEdOQzczQTh5Vkc2TGtnX0xoVzE4cFNxR1kxR0syWXoxb2k0eTZGVDFIbnB1SG03VVM2V09jR3J1RFNrckpMMWpYNHVXNERtVEs0UmxzbEFnQ3l4T2hyV25KbkcxajNreW5vMG9lc2dzMmdzOXJrUGpFakt1UGJIOHB1NU1ZUk9OOEhHTjhrZXY3LXZHeXlqelZtREhEck1OWXVhRVp1eXFydnRMcFVmRWo2Snpxb3c0ZUJRRnZfQ3hRMGRqTWNsYV9ULUxZS054MUR2bm5LLUM1Q25rS0Z2bmY5MzZlWHpjYk5tbG5WVXpDYWJPbVdFV193WnBQN1pyVlNETTdmTFk5QVd2cS1QVThLWFVyNWlwaUhHNWlhWWN3OTFGdEhObkwycnZ4VUxUY2cyNHN6QndXRFNMVVE2dHZYZTRBMjI3SHFjaWtXQ3lFMDA3S0hCdjF5T1VMNVBwUjRmX3REUllUdG1IeDhJTUtmWVlRLWpYZ3JxQ0VPS2N4ZXBzcUhUeDFFTWJrRENmWGJOb095N2toaFdvSC1BMHRjdk5sbTlGd01iY0lWRXdLMDdwWXZ0cXA2Mk5OZWhaUkV6dW9FSnIycWpWTUVZMV91V2xHTXlBaHBKYi1RSWlSbzhHZlAyTnctbVdrTnBhVHZBTUJlRmpJVUxfQ0lzc0d6azI5aHVEZGtnX2NGRGdOaXB1amg2NzFOU2JDcWJfdFNQX3FYcHhqQzJGMzJKNWpESTBpcXctSWhma3lkQV9oeG14aFNiWnFzbGx2ek5UZlozSzZ2a0lFbVNXbk9Memp1UDBNMzQ3VlFZRXFBdklVNXoxUlFKM1VPTm9jcjlNX193ZmZsX09INXpRUnMxN3dVUW1hV0ZRdHlUOHc1TkRwN1JDX1lnRGFNWVRqVGNWM3dScGJKSkthcXBnbm9YYmFkNHo1cE1fa0RNZG0xMlh5RFQ2WmNEcmhlXzh5UFlqdjFlWWpEb01kUnhQTGdBV1JlREM4NjRSUVVic1JBVWZWVVBQU2hvSlR6ZXpXa1o0U29XRDdvVmFWZ0NOS3ZiZlhvdkJ5ZUt0aVlhUmczU2tIeGlJRm40aFhrbU5hRHhicHVWRHE2V1lCUmxtYnJJMXJFXzdwQ04zWTZKcFRNZjlSY1F4M2JQNHo4bWxWcTFVSUtxaER4d3BQeVRGWThmVm5QTk9lQTZUTDRMNWVZYUFqamRzWHBmWk5xNFExUUVJRVJhVUVsNVBKTFh5VkgxYVNJcXVRV1JGNEdobTNHN01sbWpsZWZ1YTBxMWdkZkdqWU50a1JCaHdCT0ZPZVJueXZRMTY0bmtOZms4TlVZb2RTN3dIaDkxRzhrMnU0SVQta1k1S2hQZjVPRHMtalpNQUdHZXppLUF6RjYzRGVXc1dhUTRKcDlNNzV0akwwVkZheGgzQkpZaUJyYW5Rc1JvbUltdnRqOVQ5Y2NXUE5KMDZNTlUwd3EzUU9pZTRpbHpkZEViTFpsVU9BMEROSzFqcVdxcXRHX3ZwT29qaERSNWpwb1NhdE5IdFhBSkg3WS1vbGd5T0NabnlhUWJnYWlMV05rMVliRVpUT0tNeFA5WXFTU2VPZnFWVkhwb3hRX3poV2ZpOURnYWZST3EzOC16UXljaWl4S3F0X3U5S3VYckFieEwzNmRGS0Q0aVlxMmw0RERjbXA4dExTcnJkVW1EOTZhbmRSRlUxMjFQelZ3NjBnQ3d5czJpbFZoOGdPRzZadDd3bnYzQmxpV281a2JlMkJuMHNoaTdlalVmc1NHbVhCdWNuZTdoaUtmdG9DYWQwM2lSc19zU29veWVCd1lQR2VTZVdYVW5ZOWtXMnl5VE5rN082UG1xNDl6SkVDMTNXZ1BRQmYyMllhelRNZk1NUWtxc0RuV3BYanF3Vk04OWMtZnBQN2VDcHNTa014X1NMdGd2dnJYak56M0xqWFdsNDBSa1hPNmRkUmV6RG9wd1hiR2I3WEVoeV9idUo5OWdabHJWeGxyc19IWVo5QmEzRGpHUEJFQ1dtb3hPNEE4bW03U1FRNFZaUEt3R0c2YmhHRU56bFFBbTdCU0RTbkI1S2VnWEV0ZEJkeFdYaVBwb0ZfWGc0emhGb1JWdmZXUFJLQjFMMWdNUnBpVzdVT2F3SkpHa2wzbFpmNHRhMUZzTmdKZ19aRXNYTUtJdFV4NkZSNlFpM2VQdDhnaXVKUzZOWXVzT0V6dmI2eGhmVEVkbkM5dkxmMERnRUNtandOYTY5blBJZnpqNEh0aHJZWE1HRzhlQTFMa1JiUVI1WE4ybjctQ1BPV25iWlRjOE9vVXJkeUZvSmV5d0dzOTM=
+import rest from './rest';
+
+export default {
+
+  getJobContextList() {
+    const url = '/api/v2/job-context/list';
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobContextDTOList() {
+    const url = '/api/v2/job-context/dto-list-size';
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobContextDetailList(query) {
+    const url = '/api/v2/job-context/detail-list';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  createJobContext(jobContext) {
+    const url = '/api/v2/job-context/list';
+    return rest.post(url, jobContext).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobContext(jobContextId) {
+    const url = `/api/v2/job-context/detail/${jobContextId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateJobContext(jobContext) {
+    const url = `/api/v2/job-context/detail/${jobContext.id}`;
+    return rest.put(url, jobContext).then(response => rest.handleJSONResponse(response));
+  },
+
+  synchronizeContextGroupCounters(jobContextId) {
+    const url = `/api/v2/job-context/synchronize-counters/${jobContextId}`;
+    return rest.post(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  deleteJobContextList(ids) {
+    const url = '/api/v2/job-context/list/delete';
+    return rest.delete(url, { ids })
+      .then(response => rest.handleJSONResponse(response));
+  },
+
+  deleteJobContext(jobContextId) {
+    const url = `/api/v2/job-context/delete/${jobContextId}`;
+    return rest.delete(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  synchronizeContextListCounters(ids) {
+    const url = '/api/v2/job-context/list/synchronize-counters';
+    return rest.post(url, { ids }).then(response => rest.handleJSONResponse(response));
+  },
+};

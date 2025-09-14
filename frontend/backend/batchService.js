@@ -1,2 +1,93 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NXZhNWJBR0Y5eG90WGRFTFlTeTgwYUlTTGNVR0ZaT3BIeXZJVWNXdTdZUUFkeFlBdVVqRElwM241akduWUhLdFpXNTRSMEp1X01uUmZkV0NWNU1XYTFlUnpFM2EzNXpHS01ra0ZVeGVna2Vrb1lkbk0tVExYZGNSaFViQTNxRUV6c0x2dExXWVhSRUUyekQ5aDFrd0wyZ0k2VHRQR0pSUTN0dklTRGg3MEU4WnE1RzFsaGlYaTRoRF8tRHZ0Q1BzVlRWYmRHcXZ5Qy1tTmtmMDNhUFpUUkZIRUpfOGZ6TXZvNlJLMnA3cTJTeEVDendlTHBzZ0JnM2R5VG4wRU53VC1yWUd6TmdnSUp5QVEtZEZ4cGQ1NjQyXy04bVdYeUZQOHhDVzNwcDRWaWNoTTZlRjNjZEV3N2F4YmN6aGJyWEotZHN3aGNnR1NZMld4YWVXQWt5U2xYd2NYd0tudERLazVudW5fd2poT1EyMGVTVk0zRTJWekNDZUxmRFdYSHJLWWpITDlwang1d2tHSFNLeGlLZmN6SXBVdzlyQ082enhFZ0NqaVhpdml4TV9nZ2RPank2cnZoSUdQQnhNZzllOHZQVk5MWWJWUlhZbDJNUkxyWi1MTTZIMTUxeEFCZ0lNX0ZSb1R3Wm8tU081dUZNQndRbTQ1a1NCSktKM2pjTVViZ2pHUjNnOU5nWlU2ZWpQZ1d6VVpfQlFoMEI4Wlp1RzBGRHB0UklTVDBOY21oLTRBbU84cWtoSTVSTzZ1ODVsSkJ4THZtQVZQWGRjTF9XLTkwLUZNajJ3MDM1Y3cweTlHZG91NEdCZ2FNNnByOUM3WXNRTWZIN1RXSGlZUWdGUXFjT0hCdmQ3WHJ2Ymk2V1hFbDZQWU1OSXRSdVNsbk9Vd2kxdnk5bENsWDZtbzVab1ZxSk9xdTE1M3g2QlAwT1h3Y2Zybktpc20xVTJJd2Q3VzlOb1h6WFFjMXBUMVNCOWNPY21UYlhDMDZTMUIwU2xkQ0xsZGd3a0RlSXdEc1NLSS1xZUFYMDlobFNpVEJwcko4eTdtMEY5SEVBQktDcko0aWMtTlNrRTRZb05saEJiQzRyQ3ktMmRBbk43c0EzMDFhMEZmbWRqT1hWUVBOMEE3cFd1Y1dFYl9wUkF2TzVaNDJ6Q0xnOUd2b1BOOG1uZzlKVWlVRWdYY1NERHBPTjVZd0dXM3J5QmVhVnpjcDB4RGoxcW0ydVN1SzhwajlEZUxOUGZGQkc0NUl6eGgyMEZnZzExSERENnhzSDZwS3dQSloyREpjSW9zM1U3eHQxQVRYTzl2eTluTExjQmQwbnJSS0xZVFBPeXJZM1Juc1lDVE02S3Q5dlNyQW5WbXFpRUFuLWc2Ml95VEZWdEpoUTBNSDlWakVJRWVPcXQ4eGpWb0pFTDZTRktCMkthMnJ6dDVMMU1VYWNUZFlsRkhoYU4zNzhpb3pBUkVzMlJhZkpiUklJVFk2NlVHQnZxRlpMNHB3ZHBHVUlwbmRCbjZSSVRzTDNvb3VMUEZKVzZMSzBCX2lsdEdEN2poLXF4eUxLWk00MXM3eERaeGcyYlV5dmhMdWF4WERLLUxLY1ZtM0F3ZDg1cGRBV2Y3YkM0c1dZbDh1dHhDaEpUOXgzRWNPSFdwUkNzRDQtQy1DVDFuRmR4ZnVkVl91bFowR0RvY3A2MFdNUGhKX3EtSXNJWUNSdk0xYTEweEZmUks5NE41a21fNGZha2E5Tzc4YndYTjlzSFhxRDAyME0teUhhWmZlblBwQ2lXUDBkUHBub3oxNmo4ZUNuRmZwLVNaTnFYS01rejJyRURUby05U3hZelIwdEVOTFBoU01HT0JCTHpwUjg4a2VSSDU3ZGNxZ3VQdXFIRmI3NEpqUU9TUmo1VWVFZzRRU2pFS24yM2dDWW55WE9OcG1lYmtOUndGNDBVQ2c0WnNZT2JENHNsdTE2dFEwdWljMXRod0VNTk9semRuY2NNVXNjLUdWWUlKSXgySDgyNTV3NDlXNmM0N3ZyMlI3SU9zQnpPc2UtSkxkbVdiX2VWbHBaUGI4bkNGSHAwU3FFdnFkYmo3cmpDbG94bng4T3dXWmVEa0xnU1lXSG15U1VrOWVlQ29WV1hfTGJIUTB0XzJfZy14MDJ5b0Q2VVlXMm04blN6eF9BWEt3SHhjSVVlQ2VmZk81X2RmQk11M0FUME51MTdOOVNsMFJfRV9peU4yd2tHQWJMMUxwcUlUaFBwaVZ4dXZmNjA5SFFaYVlCS25qTllvbEUtTXpiSXZtTERYNlhWcmk5SzVjU3R1aTlvbURIOEhmd1Nxc3NXTU8tYXVFbWViVFlVaEZBMEN6Ul9uWWpWMTNoaDdpZGxSTUg0SVpxZW1PUnRCY1FjbzhpODdjalR2WjJ4UDhPMktwdi1lc29pZW4wQjRqeElabTNPclE3WVE0bkxvbzVGbUpRekx6RmJNc1hoLWk5TWZzaE5xbWFDZ2R5dHNPT01xOUQ3V211UG9vclB6bmZaYVA0b2FmVW1xZHVoWmppb3h5OVJXQkhYY2pQa3BXYmdIQ1JRS0oza1hNd0FFM1FWT0NvUkJDQW5TODlkRDBDTjNIX1VhOVE2MExyLVRfNDk3MTlEQ2MzbFlpdlV5WEJFUUp1V3JfNFV5OVNmcnBhNlVOSDNBQ2wwMmlaQzdaeXlENnY3QmRMRmw2ZmdOd3B2VVBEVTIwYzRQRzhqRWF3RnpXc3MwWV83R1hMcGdvcWxkWkN3RnM1cVpSeU5VMV9UOHE1Vk1udXZVWS1ucFY3QlJBUXBUYkdNQ042elFqTzFPd2xOaDlWMl94QnI2N3h6OEZiNWdNc1NoeU1rTmUxVTdjclNZSDZPVm5nNzhGQjQ4UXl1YzU5UUR0OHVrSFVhckJKcDFqbXI5NktFV0k2SjBtekNsdDltUUlfRGZvNG10SFFKU2NsZTRmNWplVURiSFRGQVJtOTV2T05IbUthelZtenNfeVhQS1RneWRKWVMwbkI3SFc3V0NJd1poNTV0N21GWGJuVmRTaXR2NU91T3AtbEZoQlRHR2VzWklJcGJCRzgwd2N1WEdQS2haeVlhakJlMU9EV3h6V0pCczNISjhLX24tV0k0YjVrdTM5QnJIMmhPQXNWMVhRX3NRbFVIZm1Ob0xObk5LUlZYZHpzY0RSVE40OTN3bXpaMm9mVW1TT3NoRFkzWVk1TE9qOWIyVW5nMEs4d3pGV2l4N3JaN3VWaHFEYXlfam91UU9mMXIyaExCNl9mR1FWRVRBVDdYOEVOWTVmX2p1QzFrbTNfbmswY19KTXQyVUZIb3hTY0QwU0FlcFQ4Wk9zZ3ZUcFUtSDkxOWhKdzF0dTZfREJ6VTVVY3h1cXdBSDN2ZE5KQll3dzlQVXZlQU02eHRwS01vTXRnVm5BOG92SWxUNlp0NnplY2Fvd0ZCZk8xRXJ5eUtRNlZlZWZfdFNOc2V5b2o4SzZQOHZXeHVQcE1SdnhJN0VKYmtwX0tVakpLTGh6cHNGSGgxT3JIVEotcWlWS2dKZnBtbDJMQVlIRjVGaWlQRUV4NlRianNRYUVfU21wUHJOcFBEWjF0cUFURVFoblJsclhPRk1rcFVKZzdLODM4amRKOW10WWRmSjZ5SldEa1pEbUdpdzJseXFYVHBIc2h1Y0U1RjFXYkVyRExXc09YZGdoZDlKSlpxZVdNcV9MVkN3aEZDbDNaUUFuVlc4QVZBeDFNY0tLVTQ0MDhwMV81TndwcWtWZEFyelB3ZG1xWUJYZElzMHUwMHR3SGdXT1ZDVzVBaGxHdlljSEc2UXBlNERWY3NEMlhBSlJkdG90RG9oY3F0RWtrVDFhZkItZzc0YWhNdU9mcV94bmhKb3ZOQUVqRDRvQlhMSl9GdnFrT0hPMmZPOFE1UmdBMXpDSGZERDU5TTFReTl5c1VuMjE2UnBZNUdqWnhSZ3lQR3l0V015WEFqMkttLWtaejZ1bG9UcS1Ral9JcXZfSklscF84OFdrd0JWTlJTSWl4WTJacEtMYUlRekpRdGZoZEFlUUd4ZEhWTnNDWktOUDI1N3BTZjZxUk5TNjB0clpsbGZpT1hZN0c3ekNTRjBaSTBWX2dWYzE2SVVGWE1tang0eUdxWDk3STNzOExWU1YzOFJ0UWhLLW9lX2RIYl9Fd2hqdE9OeTBiaGJ0SUd6NGdZU2dfQl9tTTIyb2QtbU13OFBfNVFNc2xpZFpPRFpBR0dvU2dSdkpmbmR0M0l0czlHbEk2Smd1WmEtMmphVWkwMGEyemo2RURIMGRRS1hKS3FvNVJlX1hfNTd2LWhYR0xtTHVrYUJxV0c5emhCcDQ1RkI0QzlfZE1pUklpVGoyMVczbmJrNDhPOUlMVjB3V3pxSVZBR1otVVQ5WTJoVlZsZ0R0eFRiRDliREF5Wms4MVV2bTFYdmZVcERXcEtYdEFvVVlqeEVXMmdTdHdaVGMtSVFsRzI4SzlRNUZtNk9zMk1PUk1ENVdTcDNPR1N3VnJBa0RoRXQtdWxYejg3QUN4V2RRb0w1WUUybWMxbGFGRWVXS0h2Q3RsVklvZUlnSVR2VUtSUThQSTBQb3lzVk5WcTAwdGM5VWZpUWxDbUlsMmF6QlF0a25aZEV4SEp5b09FeUhQZmV5Qk9oWm5zTGs0cU5fc3dkTDJNbV9td2RVNHVrVDJNOTBsZklYS3hLc2pBbWV6clVzclktU2VucnhXZUxna2JpckRQNGdZOGJXc1NLSUk1V1NIRkNVZGpQTGRqRUxkRUFJdnJfbkQyalBhWkc0NXBwWlNMOHlPZlZOZldocmtHVWp0OVFjNTA2ZDAyRkFsd1JCOFhXUzBWek5lNjFLQXJTbTBiMUZKMFRMMHdpSVZOMWY3cndWWEdzSjM1Q29nNG9lUDhsZ2pEYU41c3FqbWtBeU9wUHEtdnItVWE4WlFselN6WElBQ2VIYkRvOEU3d2V2UXNqOEloN2dmRTdvZk82MVQzQ2tJaEF3czE0Qk02YnFFeno5R0N2a05DTVgxM3JSNUhkWE93SC1KUm9Sb1JFdnVKVEFaRm9CcXBKNHZwMjh2S05jSWNpb2lqVEFhR1d2V1dLTllPb1JMTVlMUnFCUl8wWW5tSVBPbjQ5UjFTazhRZndVZnJpOHNxN1NVdFVzUHZlY1hhM0VZYVk1RWhtZDhnLU1nUXVMclhlM2RBd0VXRkFEMEZESUs2STF4bFZwRTlJWlRkLTBQSVhjc0dxUlpqRFlpMWtFMEdOUy16Mzc5UkJmaEZCazl0bUZHbTJXNzBhMmQ0M1JHZTVURzg5MXNYdFV5eTFMMmVNNVdoeWNuNFJkLWFMRGM4SlA5Sk5kcEFBLWE3eS11b05aelMtZE12QTJjZi1HcjNNbEg0QjdTcHc0MkJqN1VXeWkteWM4RlBxci0tWlNQWDJiNGFuX09LMUdkQS14TmNYSVRjZEdEYXF3RnlucUcxM05xMThrY1l4QTFvNkpLbjBVeno2UnVRMGJQT2paOHV3UF9XTTZMcHRJSk82RXl6Qm1wX0ozUmJWdUVTWkpsSHFaVTdLZzV1MHNWQzBqMkc5NFhrdGQzUFhhaHNqZGhDWkhIN0EwTmhleGktRlgtRmxUME50T3JHYw==
+import Cookies from 'js-cookie';
+import rest from './rest';
+import { addCobDateParam } from './jobExecution';
+
+export default {
+
+  createBatch(batch) {
+    const url = '/api/v2/batch/create-batch';
+    return rest.post(url, batch).then(response => rest.handleJSONResponse(response));
+  },
+
+  findJobGroupList(type, keyword) {
+    const url = `/api/v2/batch/find/${type}`;
+    return rest.get(url, { keyword }).then(response => rest.handleJSONResponse(response));
+  },
+
+  findBatchesByKeywords(query) {
+    const url = '/api/v2/batch/list';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+  findBatchesByKeyword(keyword) {
+    const url = '/api/v2/batch/findByKeyword';
+    return rest.get(url, { keyword }).then(response => rest.handleJSONResponse(response));
+  },
+
+  getBatchDetail(batchId) {
+    const url = `/api/v2/batch/summary/${batchId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateBatch(batch) {
+    const url = '/api/v2/batch/update-batch';
+    return rest.post(url, batch).then(response => rest.handleJSONResponse(response));
+  },
+
+  synchronizeBatchCounters(configGroupId) {
+    const url = `/api/v2/job-config-group/synchronize-counters/${configGroupId}`;
+    return rest.post(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  deleteBatchDetail(batchId) {
+    const url = `/api/v2/batch/delete/${batchId}`;
+    return rest.delete(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  submitBatch(batchId) {
+    const url = `/api/v2/batch/submit-batch/${batchId}`;
+    return rest.post(url, addCobDateParam())
+      .then(response => rest.handleJSONResponse(response));
+  },
+
+  customizeBatch(batchId, customizedParameters) {
+    const url = `/api/v2/batch/submit-batch/${batchId}`;
+    return rest.post(url, addCobDateParam(customizedParameters))
+      .then(response => rest.handleJSONResponse(response));
+  },
+
+  findJobsByScope(query) {
+    const url = '/api/v2/jobs/order-list';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  importConfigToDb(formData) {
+    const url = '/api/falcon/batch/config-parameters/csv';
+    return fetch(url, {
+      body: formData,
+      credentials: 'same-origin',
+      headers: {
+        'X-CSRFToken': Cookies.get('csrftoken'),
+        'Accept': 'application/json',
+      },
+      method: 'POST',
+    });
+  },
+
+  exportConfigFromDb() {
+    const configParamsUrl = '/api/falcon/batch/config-parameters/csv/config-params';
+    const configDefinitionsUrl = '/api/falcon/batch/config-parameters/csv/definition-params';
+    const configParamsResult = rest
+      .get(configParamsUrl)
+      .then(response => rest.handleJSONResponse(response));
+    const configParamsDefinition = rest
+      .get(configDefinitionsUrl)
+      .then(response => rest.handleJSONResponse(response));
+
+    return Promise.all([configParamsResult, configParamsDefinition]);
+  },
+
+  refreshData() {
+    const url = '/api/falcon/command';
+    return rest.post(url, { commands: ['IMPORT_PARAMETERS', 'IMPORT_BATCH_SUMMARIES'] });
+  },
+};

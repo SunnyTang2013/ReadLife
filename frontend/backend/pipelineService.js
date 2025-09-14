@@ -1,2 +1,59 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NUEtZ01lVzJSWUp5cC1NbEF1d3VXQTdBc0U4enpleERzRVhFbUxKM0lYcGktLXBQRnFiMEFiaUlrZWo4NHFIXzcxdTZMZWlLM0lXWS12VTVUZVpmT1E3d1pPcEZRSW85UmMzOUJwcjBoUk4tN3FWbFJfZkhVTWhxVjBFQjZHQ0haNUdZTHZRTTBBTlZGdmRkaGdFTlJRNWtkV3pUbUdNQnF2UlRrVkV4MzZ4bzJoNDA5Y1dxaFZ6X3A5WTFBem9ZVWRXb3YzWkJSOGlzNWNuZkxTM21MS0dBNGJIU3pLMS1fY2dRZ2dGay01UkNHbno0TGVFUzlsTGpFeGEwMm9GbERHTGJKRjlGMEtNckNrTXNNdHhsYkliYW94X2UtQ1VMTWh0UmRsaHlVdFIwQ1dVUUtCTjVMbzJwQzJuR3BJeS1pc0NFeHp2T3NDZzQ4QXJ5U1VjNnlFN2RLTHc2V2VPckdPSTVqTDh0ODFLWTRPVk91VEtoeXpPOVIxX1JXMXhCci00T2swaWQ2QzVWTDZzQlZfcTZmY0I4XzFGdXlvSFFIc1dScG1lY0pxM1lYd0pyT3hObWlSMHM4T0lrQmV6cXJUaWQ3QUFkNEg0aXh1WmxkRUU0VUxhTFlWYnk4eWtQdWhPNFVoZDFDdUNSWl9DRGNsR2FNTjRZUkxZcF9oNFlFQ2VZVGpKSXh4OFluTmpIQUVkWk1VenJHXzFGSFZjUkhLcWNqLUtmQmxOT2EyU2lkSTdkQjVENlVJTHQ1RU96T2g1d1g4ODg4RWdrZ1NsOXBsMm5STEdzc2RnaUpiNDlFSEtSdjF1ejJ5UktZdUp4OWZzT1BQODdJQXNUSU9LSmtOLTg3WkpONi1fLXBrOWlWblB6VVROSG1GNmFpaHI5Z3dYaG14M3o1NHJiS0x6c1M4azNNb0tPLWR3eGpkMS0xQmFRTk55RkhjSWZCdGRvS1pPU3BELWtUNlJWeEw3YkJCSUJEZVdDVmpsMldmLWlNZEU3dFA3Ti0xM080UjVKbEZtem5mRlNOSFI5bV8wYVlpd1ZRUGRqbHgtSWNCRWlJUnU1VEtwVy0ydmlubE5ncmplUjhJeUVFdXlMRk5GM25xb2d1ZnZabTlySVZlVDJtWWN1YXVGTmpFYktpT0J6MG5QdEhRRURiMGxWaGJFNkZwZkNMSkpzWXlIS0JxY0tIZjZkZVJzOGFtQmtPZWgxSjdsd0ZzUU5CdFlVNFM2NUo5ODZfTGpDLXctRkhhLXVrZEhMLWotT0JzSlVHbWg2Wl9YLTZRUDlVbHpYX3dHVEw1NExXaDVXZGdkQzN3ZHRlWVowR2E2cjhuSk5lTEtVejdBUlB1Sy03RVlpa3ZOYUZkRTYwRGpRYU1pbGVLRWJTQkVuRFV0M1pjLVk0NGpqQkY3ODBGbW9zd2pkb3l0OU5VVmg1cWRVcEpGN2JHN3BzLVlwR0hiMzBndE12M2ItdXBTUDY1MTBRV21OeHN5Y0RJNFJVLTFnM2hmeWVVbWtKRmowaHJCem9NWUhmOEl1aHpwN25XVVhvQTBrWmVEMEMwb2FtMnRUeWNPWEhpRW1ZMVlQWW8yNVdUZGNLclBJeklLQS1yZC1nVzd1OVRESVBMVkpzYlZDbVNfaEM3TXU0RTNqUzdxOERIRlpQSmhWSUJPOG0xTkRab2NNMTVYUjJKLWFVZkVmcEdham9vajMzc21ra1gtYUMtb2dQekNCZ1lKWXhEeEh5RUZzUjJiSFJDVUxrUkYtUlZCT0Vvc2V5RGQ2WmlxanROenRteDJsVWtianFmcmwyOTlFTVlfZXRVb0JBenhEdUhPcU50enhkdHZjUEtxN3ZuWEZOUFloZkF5SG9LVm81UVZNMTJnX0Z2RUxBVUFHU0g0OWxhV1JPajIzd0dzVXdXbWthLWN3Sm5WNlpOanhLeHJVcG9FSjBaUloxUkxsX3ZDeE5zb3RYV0FHaXJCRnBSVHJNSFhTLTZodlZZVEZBNVNxeUpmX2dkYWhzYkhCUjM4XzN3NnZKMjE0enBuWGFMeXJxS1dWdkZvcjhISXl4cHI0UHZ5Vy1OQ0lvQzVVVnBZN1V2SlMwUUw1LWV4VDlMTGlmc2FibDBlOFVmZEc0clVoRE1tOTJLZVpzUjc5TTQ3U3Y3UE5tbmNpR1dqSmxjcFR5SGktRHVpZEQyMXNaM0lYT3hGVU5Fb1BOX2hQS3ZMamgtYy1PMjBaRDlOWDhBZmluSU5sZkZ0aWVFU0tUUVo3VzBKVlN4UFNiaFRhVjlVc1dob3NILUF3amhSSE1lLS1oZVBVZmZ3WDk1Ykg4elFxSEdCVzlhZm9xTS1oU1hrVWVGWFJTZ2xCUzZyckZibTVJRFBTNFFJalg2dVBYTEM3RGw4WE14RXdxTXREYVNqXzE5MG4zV3BIWGU3VzZEbVVXVWp2YUhEWHZGajhYM01PZ05PVnBPTmdiLWFIQWU5NGN3M2N3ZTZ6RDNNSVJReXJ1OWhxaWh2cU5OUGNwSXFISXlMeEdhdDU1NWtJaHd6R2M4Z0NYeTRSd01US0NzbENkUFA1enJoM1Y0NDdOcXo1ZnA2WThaSnBZNmRnVHFsaHRMNHA4Z21lbGVBcmw0MHdJNHhGZWRILXF0Q1NDMFpJcHBHWTBTSmpWdWNjVjNFTG9mUkpmdTM2b1lXcVlndEtZTmM0cWF2blVCMDAzZmw4X0VnR083ZFJYY3lSVW9MODdnUGV3WERPNlFUbDlKeVBURlE2dUdsN3U3eHNxOHJ3SVF2ZU11eG83NEp0X2docmFmZXFPX1JMY0RGcExQN2pfUzV6WDRFaUNGMEpDVmdkUy0xQVBjR1NpbTU0VHJYSHhUNi1MUzhLZDF2N1AwYV9NYkh1UHVOaThvb0NnWkRGNkVYbTJicUVGWndKYmU3dXllbHJobHB2WFg2aExlRFVqdXlJOXR0bzRnX3FzUVczRVBEMmNRQkNLSDhNUFNxR19QYzdENmNUMmNod1lfdGZmQlRGcmp0Nk1UbXRyek9YYldfTmk0UElqei12UngzWk9sVi1jbzhLQXBaRm1OQ0pMUnNsak1XWV8tTkFEeGhTSEU1aVRDb2REUjF5NFRlRllsT3kyWFNpdVpFWkR0MTNTUmF1dnJSUDg1WnFLRE56c3RtNWZYZnozYjNOcFFzaW43M1dpbUdlYXRaYWlaU1dyMkxWdjJ5RXJyenZjRzJlUHpvMTI1Q2owZHd4eXBkMkJIaGhVVTFlbEhwcTZsU2RwbnY4SUZHNGVjVm1QM3ZJSnZEbDhLSFczX084by1VNEJSejVoM3Jjc19FZC1UYVpldUltb3Y5SlYwTEhibkdhV1h4a01BWExyR0s1NjZWOXFOanBCdTFfc2VYWGlqOWlYWkxDUVlUQmZQZmlaX3l2S3VsSGlKRDFoMTFDczF4RVV1LV9yNHZLQjNiR3A3eEN3VlNOTXlUUnc3Y2YwU3Zjb3cxMVh3NlZtR3ZrMU1yZ3l1Vldnbm0wdHNyelBiM1BXMU5Sakg0dzd5MDYwaWF0V1NTbnBHNVRDV09xb0ZxOFZUQkNkb2NaX0hYUExwSDluUjM3MkJnYkVYQmEtLWo5NG16Y29scllldlV3ODN0YlpZeS1IZFZ4eVVualpOQmc9
+import rest from './rest';
+
+export default {
+
+  findBatchList(keyword) {
+    const url = '/api/v2/batch/findByKeyword';
+    return rest.get(url, { keyword }).then(response => rest.handleJSONResponse(response));
+  },
+
+  createPipeline(pipeline) {
+    const url = '/api/v2/pipeline/create-pipeline';
+    return rest.post(url, pipeline).then(response => rest.handleJSONResponse(response));
+  },
+
+  getPipelineDetail(pipelineId) {
+    const url = `/api/v2/pipeline/summary/${pipelineId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getPipelineList(query) {
+    const url = '/api/v2/pipeline/list';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  updatePipeline(pipeline) {
+    const url = '/api/v2/pipeline/update-pipeline';
+    return rest.put(url, pipeline).then(response => rest.handleJSONResponse(response));
+  },
+
+  deletePipeline(pipelineId) {
+    const url = `/api/v2/pipeline/delete-pipeline/${pipelineId}`;
+    return rest.delete(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  findPipelineList(keyword) {
+    const url = '/api/v2/pipeline/findByKeyword';
+    return rest.get(url, { keyword }).then(response => rest.handleJSONResponse(response));
+  },
+
+  getNoticeDetail(pipelineId) {
+    const url = `/api/v2/notice/summary-by-type-id/${pipelineId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  editNotice(runNotice) {
+    const url = '/api/v2/notice/update-notice';
+    return rest.put(url, runNotice).then(response => rest.handleJSONResponse(response));
+  },
+
+  deleteNotice(noticeId) {
+    const url = `/api/v2/notice/delete-notice/${noticeId}`;
+    return rest.delete(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  checkPipelineDeadLoop(parentId, childId) {
+    const url = `/api/v2/pipeline/checkDeadLoop/${parentId}/${childId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+};

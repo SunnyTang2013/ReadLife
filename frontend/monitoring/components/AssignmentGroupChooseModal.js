@@ -1,2 +1,114 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NTRSNEdPWEJrWlp6M1l4czNVUkxld1gzQTFYMG9pMHdYUF8xV0xLQWRZZFRVclN5QlcwUEtxU0FsSDZ5SHVUbDhlWVRDbTVPLUk4U3FHS0xNa0xHYXBBaFlValBfa1NQSzZjWjl0cldPTmUxMFl3QmZwREZRTEhJQTRIdjdtVnBPRkJIcXo2YUViT3ZRMmpMdnpmTnY5SXRnTFEwS1lFTUhyTjJEX21jX0Jwcm1PeF9ZcGZGNkdmeFhsdUtESWpjRVlWMmxoMDdQdDhnaVNhZzRDcVg5VFl4U1d4dkRhTFkwVWNQQ2lHQmRYbGFqS3dYb01TMTJLc1BENDBYUmNEQlE3ZWQzTW9YdlhNTXdzRGNKREhEUEhnVEJmUHczUDdfSkhoc2NSR3ZNaGVCTm01WjQtRzduRUUtTUdvZ3lMMURzRl9maU9jZ2tQc2FXNlJubEhwX2tqT1BwXzAwcndPOUQ0TllLWEIwdXF3bko0UlA4eG1XeWlUY3d5dFhRZkpTOGd6ZTRXY1FuQVZ5WDJEU0p5OW1sMHBBck0xRnhidjB2WkRnQ3c1TjllMnlDRzRoSVBBSWhvNnppcHRqTm9RMDV1djJLd0tKNVJnVU8tUGkySXk2WWdWejlza2U3YUpzRXNfT0VWby02MkZEZm5RdjlYckpBMzlUaFM5bmJsZWFZaExLRlZOem8zZ2ZtaWdndTBubE5OcFFnY0d3S2xodlpjYXFZUFlPTndFajV1MnVwTkpPTzVnNXR2WUFFcWdwSHZ3YUdoTy1VbHhaVUVhd21peTFPUEtHcklLZE5PZ0FhSjNVT2NMbThsUUJGaWh2Q3JhMkVCZWpaX3NhOGFXdl9zX3lvR2lxMjVTTnExSm0wTHo4ZkpadUllZ1NHYVp4bjZic0p3Z3lsRTRQYXN6YWM3MmVWVV90T0dObUdzbTgxR1RxVjFod0dFbVlLa2dfRUpsNnppQ1ZhNHpVZkppU1luVnRodTM3R3BSQ0M2OHUzaFh2RlpEZVhqMHRGc3YwUEdVSDdlR09ZMlI5ZHJFazdXVzdhTlMtREE2UE9iQWhrTmNhTXpTSVlxdjRxaEFPZkJPd0lIeGRNWWxrUmFHdFM5OUtRVUgtTlVYWmk3dlZWekdNZnJSQjhwR0lFWVhBZkNWNlA0QWwzNjh0bEVSaXF4VEdkWEZfckZXeXllNllPUGQ3Q3pjWGFpUjFvQ2V3bGh1a0JrbFplSVE2T081NEtMSVFKVGR4SG91S2dLWlFEZGhlMkdoRDc2ZHQ3bzdPTDBtZFhCd2p2OE1nMndBVXZaNFE1a2UxT3dpdEVaODZhSWZ5TVdmRGtLWWw3TDVfQURJaHNlMG8zN3FqVDdSUlFoTEtqaE9raGNMakREaDYzMG9TRG9lZGV1VHRya3ZvVWlRc2xobXpHMUI1MU82VmpROUxXMHpQTTJRVV91YzZtZFg2aVJ3OGVUMXExYmdhZ19GUEJDYktqWXFrMUxzcmk2TGhmelJTaDRGMzB2RHlocFZqOU5HTU94OHpSdHA0SzlDYTl4elk2c3dNM2lKbWNkZFoyMGNjQkRHcWUtcGdrbEdIb0RHSEEzYzlWQUNzVm9VUlpaSE9Ud0owbUt1T282NjM1cF9Wc1RTNk14U1BFcjh3ell6eDJHQVZEc3psRkRmQ1I0czVtbWEtaFRqUkhXUUluQTFoRVhPX2JEMWNPV2FUQUwzeW5fRWZ3c2dEbm84RjJDTVh5NGp2YzkzbndOeFIyQXVGSE1PSHpnSlZadXVlVk5TaUxvcUhRNlJvclBtM0U1azZzTlV3b29xbzRsUVJEdXFkWnVOeVl0THBoU2s0UTgzNFQxcnZieHowN1RnQTcyTjdMU2Z5dk5iLUZjNHV2X2hYa2lvb2FtTC1RUEdnS1hIR1VGay1YMU9qMTk1emluVUZCZFhSeVNzWnNENGRDeVFHY3o2dEJlM19ZWW1CS2thNnp5UU9Zc0RIYUtRSHV4TC1nZlg3N3hEdHJFSkJLNWZSSm9KbWtPZUUwVDhqREJwT18tdmRHVFh6enpINnk2VXlxOGo4OURORkZFMlZ3SGhhNkVNZnBObW1GX2l1Y0NIUlIwcHA1YzRyZUFwRDRpWVpQTk9wNmdwTGJYQjdjRDlYMWJWTGQ2M2hhTjBKcXJabTQzczlrY1FPeEg5T1Z2SVlvZm82ZkhDcUJJeHQxUEtvSnZFaXF2eENyLXhnMkZQWC1jbjU1VHlZYUJiTnE3OGVLVDQ5N2RIQVFKNUtHcXB5N1ZLd3d4RkdTNkwwVFBKV1UwTV80ZTV1djJCTmNYYXR5aUR1TjRqRmhOUlF2Ym1yU0JDMVZ3eXlod3dEWl9xZ251OU9tMklvREFOc1oyMEtBN2Q2V2wtYnljdFFCdHBRM0taM3M1VXBHcDhXOGZEU0wxTGNLMXBXckhkNzEtRWZTdUEyNG9HRXhTTWgzQXBqdkwwZzJUY0xUNk83bjA0TjEtaWNHOGNzZUhaTExUclEzcWJLVEVIeExWQlI0YUY0RkdBR2RPZnNRTTJpUEhQellEUDdaZ1VPUC1HN3VXcW5HU0hlajFSY2pmbVFEQ1hfdExlQl80dzdWRHQ0VTQ2bEJIeVF0V0ZaemdnZWxtczJBR01YdktUai1EVXJ2Z2dycW9tdXlyeS11NGxEajFOR0lNdS15OVFSN2NBMjZTZmxVWTBoY2locEFucFZMb2xwYi1NMkQ0V1Y0QjYxelgxcEhCX3lSOEhJMlVUN0l6OU1MblVKanVsbWZEZ0F1ZEt3MTEzTkxWZlREaXl0Sm0yRmxkdkZETmRTZkF2Y05iWkd6cEotaU9zU2xNQVdMTVRGajVoWXNKLXFyM2p1ZTZyY29GZjBPcjZJOWtNVEhmRHhVekV5UW04RDI0ZjRwY0dDMFdyWGpwa2V2T3FxQWh4eVFmM1JHVmtnNVk2bDl3V1ZXcEFGblAtNkFWMkx5cjR0WGVMWGVqRlZkYTdyUjRWRjZDcXNiUGRIX2NLR1RXN0FnRzdSVDRSV3ppcWlyOEp6U1BqX1UzeS13WVhpSExGek9MQlBjSlJRRmIzY2VrWUwzcnZabVFlWVdRUXkwM1luVDEwTmp6LUtxRmh1TF9GUTdEaF9yckN6bDhWMk93VDd2bGZqc1hhNVFSOTZaMjZyUURqdlpiV0lVeDd0U09NSUU0djBsQlNtb05KQ19EZ19NRGN5Tk5VTlpzbjhyVU9lQ3hNMDBkX3l6Nm5nVXhaMjZLbnFJSFNuc2lObjg3OEhVZWJULTFJUkhEYkNObGcwTl90anN0WXBoMjJJdlpYaTQyUGZJQi1hTjlQN0RGVkZyQ2d0SE5jY3AzQVRYSWJoekpISzVZZzQ2NDlzSUVORXo3TmMxQTdfV0szQTc5ZjJ5N2ZwdzRoVUg1NEhrbDRpa1pCLVlfQTBYblZUSHpoOTRwY05KbjBobTJoREtLelAza2psdnlEM1VUSjlyYkRCQmV2WXJTS2VzNlRJTmdvaDJMQUVIalJBX2RUaTYzUm5FU2FtdEJVdVljcGphR0RZTEpXQml3ZmtVTzhLVjlXTjVncWF1UXM2NFNhVzJIcWtBcTdMbzJ1bGNoMVlqOTltdHY2dUVyR0ZpN244aklrME5DcXFlLXNSdGtkcWg4WkhDdEV3RzhCZjYwWWl3ZlVyeEhtcThBVnE0UzA2N1NUdThlSF9HUDZzZkQweTgzOVl2WGE5VnF4Tk5kSDVGWldHeEJwdndJOUE0ZzY4a2xjdjVfZGxOLXcyLXVYenBIbEt6UE95bC1hMlh5T2lpNC05LUtOUGdkM3JZTG41X3Fjby1IT2gxS3R2U19SaGNKOEc5aVRpenlDLWpGcmpITUQ4TkhxNjRPRzcyaExkYy1XWG9ZZnBrU3VZSzh5Vk5aTU41WkFJZ21ZaEhyQWFjYnN6ZlAyVVdER2tHY0pJYmtNblNiaDFTQklpZWN4MmtJUE5FQ2hmZGctTFVSdDBmZDNRRldmbjdYcGRRc0czbk8zLVdZRlpqQ1RkZkk2SU9xbkg5NS1lQ0FqUGV1aDlNZFRUVVRTU3QyTHVqR1o2eGxnR3VOLUxnM2RDeS1WQnNsdjB3YXdwTERXbmt1V211YlQ1MTdBTWlrNmFQTi1WUnJkV1FMcUd1c3pqZEd3bTc1SThhMEdHY3NPc0NWR2pOWWlQSE5uVkh6dHc3OExSQmFGbGctV2lsbE5yaEZiUWU1OHhfakRmSHNCaElzTUR6VXhIcFhYcGYtNlRxbnc1ZWo2aTYzaTZLeUlGQXM0RFZ5VVh6LU5rR0hSR244U3RYaFdBNjFxU0FhMHhKcUl1RURtOUoxaXlJa2FoeUJEbXJEbm9fSDAwVmRZUXkzdzBNQ09UUmttYms5V0FVdzlZcG5EbjQ3Z3paUEdETGRobDBEZ0R4RTFQOHlrOS1nZV9uTGk2a1RXcldvbGo4RzZDd3BuUnNncmRhcHFJYWZQYVBHczM2b1psTEx5TWUyc0NLdkZKWmlxeWx2Sm91czNVRkVxeF9hdVM5Mk81Tld0NGVPVEZaenRaWVd3TTZGVUxOeUhzU2dva1pIeDNnZEY1VlV2cEtYVjdTclF6aW1rdXh6bWc4aFBIclc4T1BhMHdpRWtYdE1VUmRoZ0c2SmRNalVWWFhKaklueUEzU3FOT0dEMGppV2pGM256LUt2TV9Ddk9vdXh2TUkxS1o5OTI5Y0ExVTdXclpYYmI2VjFsMVA5UDVFQWZ0czBnU1BCX2dzSzJhWHNkR3hCZVB5aEFOOFBmS1FRd1J1NzZlNGZPRl96QXQ1aEoxc3VPaUl4alFMeUM0cVhSMmVzLUJGSHpSeDAteUg2RkxISEl5YjB4ak1mSHB3dTEyLWhOVjFFWXdxNUh1WklIZ0o0clpjWGdkbUt1eG5lb0Vhc280T3ZyaGRPLVVLRVJkSHA4ZFZOTnNPQ1BDU1g2THZEdlJOUUg2UnVmVFNBUU9jVEJmS0gxZTF2ZGRTZzMzZjlqSTIxUi1IeFVOalFvbjk4cnZaZWNLUllTREtVelR1SXlYT3laRHVya3cyc2Nlc2ZiNWhhejZ5QlpuQkR3Nk9KbVhxTXVQWVJYUWw2MWJMcGptRkV2MmpxSnlSTGhiVEplMmFDMGNldVE9PQ==
+import React from 'react';
+import PropTypes from 'prop-types';
+
+import ErrorAlert from '../../components/ErrorAlert';
+import StaticModal from '../../components/StaticModal';
+import { getAssignmentGroupFromLocalStorage } from '../../utils/utilities';
+
+
+export default class AssignmentGroupChooseModal extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      isModalOpen: true,
+      assignmentGroupOnScorchRequest: 'GDM',
+      error: null,
+    };
+    this.onClose = this.onClose.bind(this);
+    this.onGdm = this.onGdm.bind(this);
+    this.onMkty = this.onMkty.bind(this);
+  }
+
+  componentDidMount() {
+    this._groupCheck();
+  }
+
+  onClose() {
+    const { assignmentGroupOnScorchRequest } = this.state;
+    if (!assignmentGroupOnScorchRequest || assignmentGroupOnScorchRequest === '') {
+      localStorage.setItem('assignmentGroupOnScorchRequest', 'GDM');
+    } else {
+      localStorage.setItem('assignmentGroupOnScorchRequest', assignmentGroupOnScorchRequest);
+    }
+    this.setState({ isModalOpen: false }, () => this.props.onClose(false));
+  }
+
+  onGdm() {
+    this.setState({ assignmentGroupOnScorchRequest: 'GDM' });
+  }
+
+  onMkty() {
+    this.setState({ assignmentGroupOnScorchRequest: 'MKTY' });
+  }
+
+  _groupCheck() {
+    let assignmentGroupOnScorchRequest = getAssignmentGroupFromLocalStorage();
+    if (assignmentGroupOnScorchRequest !== 'MKTY') {
+      assignmentGroupOnScorchRequest = 'GDM';
+    }
+    this.setState({ assignmentGroupOnScorchRequest });
+  }
+
+
+  render() {
+    const {
+      isModalOpen,
+      assignmentGroupOnScorchRequest,
+      error,
+    } = this.state;
+
+    const badge = (
+      <span className="badge badge-success ml-2">
+        <i className="fa fa-check-circle-o fa-2x" />
+      </span>
+    );
+
+
+    const $content = (
+      <div>
+        <button 
+          type="button"
+          className="btn btn-lg btn-primary position-relative mr-2"
+          onClick={this.onGdm}
+        >
+          GDM
+          {assignmentGroupOnScorchRequest === 'GDM' && badge}
+        </button>
+        <button 
+          type="button" 
+          className="btn btn-lg btn-primary position-relative mr-2" 
+          onClick={this.onMkty}
+        >
+          MKTY
+          {assignmentGroupOnScorchRequest === 'MKTY' && badge}
+        </button>
+      </div>
+    );
+
+    return (
+      <StaticModal isOpen={isModalOpen}>
+        <h2 className="lighter">Choose Your Monitoring Group</h2>
+        <ErrorAlert error={error} />
+        {$content}
+        <hr />
+        <p>
+          You can choose it at anytime in <strong>Filtering Options</strong>.
+        </p>
+        <div className="form-group pull-right">
+          <button 
+            className="btn btn-default"
+            type="button"
+            onClick={this.onClose}
+          >
+            Done
+          </button>
+        </div>
+      </StaticModal>
+    );
+  }
+}
+
+
+AssignmentGroupChooseModal.propTypes = {
+  onClose: PropTypes.func.isRequired,
+};

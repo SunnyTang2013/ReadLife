@@ -1,2 +1,21 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NURiZ2RzZVUwSkR1RGxMMmlMZl9jMUpSdDAzR0FTZVBRTVJnUDZ0ZFhJa19NZmZZZ0hydXFnVEd0V210U3I3Q1JTUTcyNmYtTnVsLTl6a2ZkdTd3aW1KemNFa1VXTUFpekM2VGR1VDZZdlpucXBPUndNdlRJVWF4MVVaZWdfQUR4eER2V1lRTnNJcmY4V1JBd29pbndwbTItcG4teXd3a1ExVWJnUHA1UEhmaGZhaWFWSjkzVExSM0VhUHJIVjJqeHBDWjVGUzFZMk1FOEtScjVXX0dxM2lKWThtUjMwTUtPNUpoa3lsSUpIRkY2eGlITEwzRmZpMjJOWDQ0cjBCREhpXzBkN3VXdmJaNGFMeS03cmpMRXR5eEZya3BKTUdzaTI0SURfMmoydlZjczVFNFFNNmt6elhSVFNkSVJZVWxqZ2FnMVpEc1pyTkhjNGJlQjlkSGdXTW1MSTNyU2F0ZUZlTVNseV9mbzZWaS1UQlQtLVd5b1k3ZGJBRHFMT21tZ3h5WXUzdGE3cWhNN2M1QWVUVllUYW9YZXpWRUNfbVM5aDNsOHp0dWg4MUJjNDgtbEQxZ0RVa0dEajBMRl9pcGcwS2E2a2hITmxjUXp1bHhPTTFvVUJsNjZ6Q3BwXzhhTEhKNC1UaVpnbzBWYmJ6enI3cXo4RlhzM3BlX2RBT2Jsa1MwVUQ2TDNFd2hmM05UY01JRmVnQXdBd3R1Q2x0VlhFSDg1Sk10QzMwaWhISGZjYlFNRnNRMTZfT0l2SzRnNW45dWd3TDMwbVFpZ2g0N2pQY0VFNFJadXh6aDgtSDZsLUJXa1VFZ3ZsQlR0d0d6MndlWmsteW82UFlsSEFEMFdTNi1iNGloRkozS2JPRGlGTXVVZUZTYW5sajhJZVFqYnl0R3lkNER5ek1PMHNtbVFHb2YycGJmNWZMdTdOQ0F1OGc0elNfclZtazZkUGU0NC1EbHluOEFXbkN2djBScTdiZDJSdDk3Q244LS01eUZSWXluMllpbktiTXlKY3QtdnV5RUQ2TmlzZ0FtbGJMdUg1RlZCVmozSTNGZUMyaGR0b2Q1VVUzTWJMWDUyNUNERE5KVDF0bjJjSUlGNEpZSDFlTE5EMEVkU3NDTElwM1pGYm5aNE9FZm5vQVVDSXExUkg5NjJvSEhHWVhNPQ==
+export function getBatchRequestProgress(batchRequest) {
+  if (batchRequest.totalCount <= 0) {
+    return '0';
+  }
+  const doneCount = batchRequest.successCount
+    + batchRequest.failureCount + batchRequest.ignoreCount;
+  const percentage = (doneCount * 100) / batchRequest.totalCount;
+  if (percentage >= 100) {
+    return '100';
+  }
+  // If it's below 100%, set an upper bound of 95%. This will make the progress bar visually clear
+  // that it is not yet complete.
+  if (percentage >= 95) {
+    return '95';
+  }
+  return `${Math.floor(percentage)}`;
+}
+
+export default {
+  getBatchRequestProgress,
+};

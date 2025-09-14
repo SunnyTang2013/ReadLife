@@ -1,2 +1,60 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NlBlY09jZEdwNnhkdmZ2UkxYZ0JaZkE2RTR6WjFVcGw1MjFweGpqYU1YbzNkaHh2NmVkNVpHSUNFUUhaelVLZTVpMGw0bksxODdWUWIwbnpBaklTME9FbTY4RXJtWEJhWGFEeG1rVXR3RHhmZzh3Q0dqeEFfcXR2M3ZjUFNFejc5ZjdueHJIOTY5VERnMzJnZm1malVmMkk3TTl5MzdITHl2aElJbzNWOFVuOGR1MGNfdHJTZFczN3hvN1JaNlNlNjhPa1FrU1B2b3FjRktMVFd3WTBtRzFBZ0kzVG94RWtJNWoxUl82WkNTekE3bVdsdGtydy1OYnR1U2NNSlRCVXpGUGlDOEZrRDVKdDB5LVhYa0txazhHdjRRWDJjcE94UGJBMTlyMTg0cG5kVWxjdTM4VVNMR09oODh3ZWprY3VlUFFZUmU2blNoUmdKczVPWFo1Mm5tZk9tckI4XzNDRUxKTm5QdDQ2bHd0V2hxMVBrX3ozZTFUZ0ZCVzUwTE5RRGlGSldLRm1VUHBFUmQ0THU4QUdFQ2tDWU0tNkh2aXRiOHRiMWFDcWhkc2xqTXJCdE9NczVmTmFTMHBYYVVteXNicjd3MTRZdlA5cU5EbU82Rm92eTZPX21LcWxXQWFGZm9melF0UFQwcGhXeExxbEN4OENydkMxLWY5Mld5Z3RvZWN6aDMybTVfcGRLMlBYOGxUdWlYbmVYRENmUDhGdVFKQ1ZyWGttZVQxZkJHUVhnY19teDdPS2FIMlJwSHk3Yi05b1BKUkJJMWUtVjdhTE14WnVSTmhqeVZkZi1PemZIU1ZCSngtWnljczdHZ1laTG1oWG1LcWswdndyMGdQUzdXOE9pS3dPdHllbVJUYl9SYW1QaTYxcjV4VGZLN2NORVM2STR4LWx5aGVod3hQcU8tM1VBekVFN0JXcjdZUlIxMHJ4SnZqUHFKUzZ5Um4xYm8tY0ZWcTBRSlRHTTI1VlNLMDRfOFNxdGRuTDNFTUV4WjFwUzN2Y2tWLW5ZOWt3eTF2MHBqQXgyTDBlUF9YTGV4a1FKU0xOeDMtOHVxRjBqN0lxYmNxc1pmZ1Z5WUdsREtwNmV4WHRoZ21PX2d3bl9hRENJX3RfREFyNXlPc2xmQ0tQV0VhRks1NllkcWhJQjBfN1NuNU16M2NibkZVSHJ3dWNsZVNCS3ZXU3p2bVRYa1VtZzhCWWdZZW4wdkxYaWR3WjJlQll2ZWw1MG9ETS1UOHMycThOclVORkU5NTU0b0JMWHRrOWoxcFBFQ0hpcFpTWm01dTJTZTFzakN1akNqZFFsaTBfTUJaWExOeFhQRnFNSGNrQ09PMG5MejhEUjhHRkpHMERXUWttZ29QYmhRQ1JlME9pWGpFdEx0NUdnc0pfUWhHS3R0X1gyU1pCYnV5bDl6NUM3RnVuY3I0dVJIWWZjdFgyV2pzYUJJNHJLQ3lMWmM3MkJvdHlhb2M1ZTdkazJRX1hzdE9tTGQzaUtsekhCUTNrQ3RmMG1qellEdnZuMDVlSDRCVlVaZm9LTElHZUpxeW1ENWZZbVQxTU1Xc0xkQUw0REZvc2t6Q1ZTa3ZtdXhZWGg4Smw4VVAzYk1MUkVmZE1Qcy0xVnBwQWVESzIzMjdjc19BdVRaOHplSlRjWjlPQnZobnR5N1FNSldobkVjS3VsWEVVNFVfR29EWUhFVm9KazhxblFuMV9fVVFQSURwcHpINGdpOFpGRG5MVkFWLURoS3N6MUtMUUVvY1BIMXlQTHFnb1dsZDBuZjBrU0VUbW9leE1YX1BXSA==
+.spacer-top {
+  margin-top: 30px;
+}
+
+.diff-tools input {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.diff-tools label {
+  margin-bottom: 0;
+}
+
+.diff-tools .red {
+  color: red;
+}
+
+.entire-pipeline-diff {
+  background-color: white;
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: 10px;
+  padding: 10px;
+  transition: 5s;
+}
+
+.entire-pipeline-diff .x {
+  color: crimson;
+  font-size: 4em;
+}
+
+.entire-pipeline-diff summary {
+  font-size: 1.5em;
+}
+
+.entire-pipeline-diff > h1:first-child {
+  text-align: center;
+}
+
+.entire-pipeline-diff .two-pipelines-list {
+  display: flex;
+  margin-left: 100px;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.entire-pipeline-diff .two-pipelines-list button:active {
+  background-color: darkgrey;
+  box-shadow: 0 5px black;
+  transform: translateY(4px);
+}
+
+.entire-pipeline-diff .two-pipelines-list .row {
+  font-size: 1.5vw;
+  display: flex;
+  justify-content: center;
+}

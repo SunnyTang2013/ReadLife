@@ -1,2 +1,24 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NW4yRk5CQkh3SW1FWUZtcEg3SUdJSktFQ1lzVk5xeEwxNlo1ZWRZbDFhYTB5OUZjbTd3WUpqcnB6U2Q4T2tZR2V0b2JjT1ZxdzlnNUptdjFwMXJBV1ladzVKZ3V2LUhyUElULXg0c1dFbldZUjdManZGeThQLUZrZFFFdGVPU19JQ3F5eEhXUG5XZTlBR2M3RVFPM2NDUnhacGs0VW1Wb0ZLbVM1eXFZeThicEdCUE1qRDBmb2Jja3R2RGlsMGQyb2hNeGttTDdaYVBZUThuY1gwWHZubFFaekc1Zk14WVh2cHVPVnRwZ29nallpcE9aLVJNa2RpcFlYUlZVNzJrUlBhcm9NQjZaaS1EUExzbnJLTnhZdFItQ2NmYVNKSlJza1MtajRERVdPZy1mNkhnNzNQYXI3ekVacDZtaWI1ODNkbUNkYVRpZEJENFdNb3VUU2lLbmdfTzA3SE9vYTY0VDc2R0IzakpDTXpIbURDRm5sRlFtaS12dzZ0ZlBWWXN5d3p2Zk9hd2o5ckZuUFBxQ2VpQTdfSzh4NGE2YjYxeXJaUlU2c3U1aWJGMVYxMnAtUXpnN1BMeHF2MXRqdkVsa1RZeVBQZzdNNlIwZkdaZGJRdXdodlZ0eFlKRTBOM3hiel9FZ2NjWFFsTV9kNlJvYXlWak9sY08tMFlHSl9XZ01zeWd5UmhHYUNkTnZqSzJvLTh1SkZtdmRKYXd2aHZudDRjSHJWQzNDblA5RjdTQnlHT3c0ZktwbGNxTzZRa1E3MWphNGJCWXZnR014QWVkbmJOV1lnVXdrWFpDZ3ZlRm1iWW5zclBuVlJ6bzAtbHFrOWxKUm03X2xYQnFXZldERW9TejZkdnlEVDJtNDN3QXFpeFFKNmxCSEhhNEF5TzQtSFVsZU1wcEtxYVRFSUdZTllkc0c1NzNCM2ZoNVNtS2daY2VSR3NNa1FDVjdNcl9XWGFrdEN0dmswZEtCdTBXanRnNFJzMnRoZW9xZUF0R2lFcTBPLWhMMV9Wb0lyTmFLdXdEZHZ1YTVrVWxtYlliSnFhblZZNkZNcTVxbXpwYWFZa09PQllrVmNFN2ZZRlh4d1cyazNfU1dkTTlKNVFfblBwQTdKRFZkejMzdWdsdVQ3dUNFWFRlRWhIY2N6V0pwRmFmb0xYVVVwMmRpd3BCRFN3S0pVV1hwa0FkdUtoV2hqWVByTDl0SmtzUVkxTFFHaUxCOHdjMmVnYzMtMUdFaTJxWlU4WFpPUmM4d1VITU5ZMFdQQ0l4X0R6azdTN3RycFNCZkZuUk0tWlZoY19DRDgwc1I5d3B2Z2VKT3Q5d0ZLaXljS21VSko4UVJsbEVsYnd0dE5OX0NMMTZtRDBUTGQ=
+import rest from './rest';
+
+export default {
+
+  getCurrentUser() {
+    const url = '/user';
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getUserPreferences(user) {
+    const url = `/api/v2/user/preferences/${user.username}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateUserPreferences(user, preferences) {
+    const url = `/api/v2/user/preferences/${user.username}`;
+    return rest.put(url, preferences).then(response => rest.handleJSONResponse(response));
+  },
+
+  regenerateRpcToken() {
+    const url = '/api/v2/user/regenerate-rpc-token';
+    return rest.post(url).then(response => rest.handleJSONResponse(response));
+  },
+};

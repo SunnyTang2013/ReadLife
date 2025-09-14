@@ -1,2 +1,49 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NUlyZEtFSWY5dm9yVU5jQ0hWRG0yLVc1ZEl4T0MyeHRjOEg3NTdhcDZjdHhUVW5DSHhBSWsyZlU0NlJaU1BfaE1OMkxrU1YxT1FtdlhkYXVuakhBRnphMF9xRmRXbDlvemxXQllXV0N3OGVMRzM1cmo4ekJDU0xzVzNUMmFobG1zZ1lhWlNVcG90VTdnY0lVUER0Qm1XU2gzZC03MEhydlpBR3FsY0RyTGtRR0h4c3dDbkNWMzJPdWwyTm1qdHJOaV9CRERmNy1Vc0k3Y1JYbzN1Z0t4aHNuZ3d3RlUtWUZMUmk2WHJDRUtGNE9sa3RVcGZDb21GMzNWOXp2VHZTWWRCZE9pNkZoX3QyNHZSd2lVQWlvdWlWcjMtc2tGeG83bEpHMkhEXzVKd1Q2YVprMDlIajlBYUF1MkhGVXM2LVY3X3RlTGlNVlBsQUl1c2NjcjJHRjZSZi1qZHZMb1MxaXg5d29wVmd0ZVYwa25BbGt5LWk4LW1yWEVRVjZrd2F5MkFKRmRTa011T0hkR1pxZGVfS19malVoUS1zaEs0Vm1TRTlNWFBJdmd5RnpKNE0wUmhyQkRFa0liOXIyNkwwQmFnNkRMN2g3WkVnSW1TOVJYSDFISnNRNm5LVF9RbUNXOC15WHJhQmVaMzlGQzhGTjN3Sl93QllkSHY4Zk53ZDEtS3Zob1FqTnlveF9Uekh4bFo5U2FkMmtELTVBa2VOaXNQSHE3Z3JDYm5wWm92Z3ZSMWJuaXRUOXZWQVdpZ2tfV193eHlxc2EyaWRzUEV5ekt3Vmh0aXZtckJVV095eVRMZnY5Z1ExaUs1YkloMmFtZXYxNzFGOUFOZnVPTFgxQ05pWjJCSUloN2liaGtEYVBuTmk4WFAzR1hpcVRvVUI4aGd5dnNYNHE0d3pTQlcwaU9yUmJuZ2I0VWZ2S3dNb3k3NEJSNHdLWUNBWHp4cTNtMzlLMlYwd0JlMEZkb0FKUEw5VWRwczRDbERXY2hSbjZVbVBwSlRsemxXZnlGVWFPeXRDdFU4R3IwWmFWYXFPdE1Zc0dNQVlUOGNhczNJSVFtLUtLaGw5TjFfLUFYUmwwREtvZXEyVDRmekdnUHM4eFltZzhNaERwRzhKeHJqQW1uTGk1bGU4UTltdXZnWmZFUHlMQ2lhN3lJTF9yeDJ3SzIxaWx0VUdYWDVBaDF2NGNJNWR6dUlyUE83TVNpODV6c2luMjBlS3pIcWZVNUUyc2JpZS1LaXZRRFE2Z0tkaHhraHZFeEpxbWJzcFZsM0hneG93OWJCaGpHZ3VFVWJid19Zd2YwVFVMZ2hrMXQ2TWdtcGRfazd4NGNkeG5JTDVYMTVldFVCV29fb1RHZ1Q5VFFta0NhTnZTTUtlbVh6Yi1abUlYUW42aF8wRjVpV2FnQ1plME1XMEYyTmZIN1lBSk4xdEp4bkNDSWNmLTNHUjhoZVloNTZhXzRibWRiZFZnNmZGQ1dFcjAzc0E5NU9ZSzhpZXhrQVNia3pIQVNUaWlLYkFpUEZmM3VKckNfMHBJZFRLUXVWdWk1QUtfcXZ1TnNGMlRmX1g0cXR1a0JfQVk2cmFnZGpWYXJMbS1JUWNmeW1tOTBnVXJLeTQydjNOTEhYRWtkOUpmVl9MNDRCWWZtdWI1c0pNVU1YSlk5cmZQRDNmOEtjTWhQNmp5TzE1YUwzLWJIMHQ3NUptdnZ5cFItczRQdktXUnEwWGllNmJId2JDanI0Zm9rOUZueXVjYnp0ZTA2NzNpMTd4Mng0WHlWYUhjdmF4Wno3Y3Y2ZlFpa09xaDBFYlBWZ1hBekh4QjFXc3pQclVRRTFUMFR6N1dTSno3Z0FGb0cwMWpEZ3BkUlJ0SEs1ci0xT3RPeEJ2MnVJU2ZIZ3B2bU9uMnJvNXRMUkZEQnYwWXkwenZGaG52OHdZR2dRWllfeWRKTUI4cEdUZmhNcjIyZnRGT1F4OUJtOHBJOTZESGVjRU1FZmd0SVZVTEh0WXNpeXRLcjUyX2VYYWNIQmpkU2g2ZHE0Nzc1b1pqSUctU1VsYzBxaGo2NHo2M2VtTks2d3J6X0tVem9FcVVxSWFNcV9aOWtET2xYMkNrN19KZXBHMS1VRHZwMlVRb294Qk13bHVlSDc2QXVLTXNYSi1sZVJTb2dhRTdETU5lNWFWZ3JCNEkxVHFHVk1jRzNqUUFqWlk3Ny1uT1V1NHBEQUJWS09LMmpTN2s1OHJydHlBSVVDZms0MDAyYm9kN2hzdnZVOTR0NDRVaWdZalIyWmZNWGhFS3lndm4wNFB6V3ZsN0hNNlF6OGVmY21YOTJ4OE0yS3NsTlVJT0FpVzJhTFNPR004UXo5QjhQWk4xM2lFWngzRzBoSG9mLXJyeDBlMHNJWk5MRkx4U1Z4UEdWVENlZjlhM1d3bktXYklHenp6Y2xwLWV1UDVEU0ZBSVJPVUFRWVVZMS1RZW5VNTFYQ3VKSHdtb05paURESmFpSHNURlJzZkVqVXJHaDV0cTA0WXFmdVVXWDFqdnhTcE9ndnBEbm1LU1Rnd05qeFIzS0V4eEZiUkJDbDE2Zlp5LWoxOGV0M2VBMFJ6cTgtLUdQT2JjalVPTFkwU1RJOTcxYjVldm8xVnI4SHVqS2Q5UHZ4MTFJRnVUeVdkVFpfWVpYX09YUndBNnI0S08zTE9VajJXQUpRS0tDa3VjVEZWbUZyeFREVWV3N0xDYV9ldDlGczFaNlZmWTVYQ0diemNIVHRlUTI5bE1ySktCVlJCVG5XbUJkZm51cmRUTjVFeDU1S2ZBSjhqMWoweXdHSnpUbzRZVVlKakU0R29EZUxEOWM0djlScFhvZ0dzNGNPSktSRjlFcXVTMlpvWVF1RDFfN2R4VGNwTkVkcDR4dWZwZmN5V2tabXdqMTQxQmhZZVRTcmRqT2dQN1B0UGVaR2JoeGpjMU1remEyb3lFVUFDU2dPMmpBNDJVN1NXSkRSaEVmUzVmNjBSWC0tX0pIdGNtSG41WnY5WDhVTXliR1M4WHRkVUF1UHVWZXo4US1JUUxpV1JCSUkyTThnckhpUmU0RTd3VWh0Y1JEVWhhb0Y4d3IzcWJpQjIxZmJjcjV1WlBqSjRHNVV5LU1HSXNTLUFkMVFVdTlJb1o5dkxZMmJ2TTNSWkxuVEYzbUhOLVViSTdlNHNZbXpaT3ByNHB0Vk5JM3M5dFJyLVgxX3Z4azRuaWh5RFNUMlA1dlZUR0JXMHN3bWhmSWtrY1VCaUtJYXJrTXNsQVViNDRXb3hQSGUwTElselllTHQ0eUZiN0hOMmJsQ3B6T3NVNjA4ZExlSkIwSE5ZcGdYU0NCZ1Y0WW9HYUN5X3lpcUtxNVp1MWtqNlpFMGNRak0zNHZNRWEwYTBBNnBBQzJ0YmxwdG8xRzlYdU5TWkkwOGx6TWZaa0doWDAxbDRVdFNWc1ZCbHl0WVZBODZ1YzJ1dzBLTDBfZ1NqN3Fmb3FObGpOVzZ1c2ZKVFZWbnZSRXZVNHJSZUp2dExIaVlQOG5wbGhWaE5ZZE44aDM5ZGc2NHNzN2JUSGR5Snl2RTFHdGlMZWp2SmpINjNkWmE4R0N5ekNTRDM2cXFVYU1BMnRCQVBRbVRRLTFoS3BLMHc9PQ==
+import rest from './rest';
+
+export default {
+
+  getOneExecutionSystemCurve(executionSystemId, type, query) {
+    const url = `/api/v2/dashboard/request-count/listByType/${executionSystemId}/${type}`;
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  getGanttData(type, days, names) {
+    const url = `/api/v2/dashboard/request-count/getGantt/${type}/${days}`;
+    return rest.post(url, { names }).then(response => rest.handleJSONResponse(response));
+  },
+
+  getBatchRequestPage(query) {
+    const url = '/api/v2/dashboard/batch-request-page';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  createExecutionSystem(executionSystem) {
+    const url = '/api/v2/global-config/execution-system/list';
+    return rest.post(url, executionSystem).then(response => rest.handleJSONResponse(response));
+  },
+
+  getExecutionSystem(executionSystemId) {
+    const url = `/api/v2/global-config/execution-system/detail/${executionSystemId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateExecutionSystem(executionSystem) {
+    const url = `/api/v2/global-config/execution-system/detail/${executionSystem.id}`;
+    return rest.put(url, executionSystem).then(response => rest.handleJSONResponse(response));
+  },
+
+  queryVSDetail(executionSystemId) {
+    const url = `/api/v2/global-config/execution-system/detail/${executionSystemId}/vs-detail`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  deleteExecutionSystem(executionSystemId) {
+    const url = `/api/v2/global-config/execution-system/${executionSystemId}`;
+    return rest.delete(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getExecutionSystemStatusByRequestId(jobRequestId) {
+    const url = `/api/v2/global-config/execution-system/status/${jobRequestId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+};

@@ -1,2 +1,39 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NXZWVnA3aGxnOXBKZlRua3Z4YjBsc1hENjhURGlDZGQ3ZFVjcjlrVkpjckNZWTNJN3N0VHRqZXV2cVhxZTdGRTBhVGRnYTFzdDByYzFHbmRIdmhVY2Z1dGt4d2h2dHhScXNmR2R0ZC1mTDE5RmFOcHZwQ3BsODU2TVdXVUVTVGVVN2U3bV85M0xsYm5JZGFaSEJVWHF2R3BIOFNVc2dCU1VwUURWeEl5d1RzUFk3Qkh6c2lvVkxzTTlvaWY5b1I1LU5VRlYyVFBNbHE4TWpLUzJpekJJeHBTUkFPTWhFT0xzYU1CZGtqYmV6TE8zcnAtUmNuVUswSW03eGtMazdGc01KbFR5TG1LV0tsVVkxd2ZyamdyMTFGVlhjSUtkSXBCdHdZMk5nMlQ4eVFNYnBHVGs5ejlWc05NOHlkZFp1a1RQbjlDSFl3UnJkWmE2NVFBM2dXUG1Pd2pjMlZxM24yX3pnZG43MjhlTkI3cXRIcUFqejJPek1lc0Q1amwtV2sxcy1xTGhTSzJ5Z2ZFTzQ2TFZjemdYdVE0aHBsUHFyeU5hZElTdVFyY3I3aHJ3NnV0eTVJNk1aSGg2Qkthcmo5eDh1RGplVGtfa0ZEVHphZndmcVRXVzNaV1FUb2FETnFsSElBU083RFFjTU9RM3ZmVXZqWHdYeHdYeVp5cDFkM0RTZ0Z5SVhZZXFPbGZULTJKSHgxdzZXbVFwSVVaZUJWWWpDYmFPWmVHSlFobkhWblZPcW5PNm44SGtRYnYtODl5ZGVlR2RVZnJOQ1VUeFgtU0ZQOGRYSDFjYVFUXzRIZTRLZTlMVEFKdXB6OENjYTBzY1VNY1VqcG5HM096QkF4bDB5Yms0UGhzd1VTUkZzLVBHMUdlamtTWE5naEVkRWtpZTlTRnhRWEVzUy05ZFJqY2lzeFBSbE9aV0piTVdYNHVZYno4bGptZjQ5aXRONGxYTzZMaXFocjRwX282X2kzTlRDVkc2YzVMSmE1enRSRTlONkQxcEJOVHp0d2tPbFlIT01jUXB1Tzdhc01NQXJkV09UYnNadGJ2SUt6Y0tqS1prVjRqbnpjNGlJdXItMXpsMjFsQm1mTEpiRGlwbGZCQ1dzNUJ1a0Y1dXdLNGg0Y2gyS2dtV1BJWkE4Z056ZFN6SzRsUlJVSFRIVVFGSGhiNDNpUFludnhvZmVJUWtfejZWR3BnN2tDYXFLNUo0US1BcGtoOThqM1FNUHRuY2VfU2dETXFqQVFBemUtOXE2VmtwZzYtbDN4WFVFQVVZcDRfZV9NMEkwWWpnWExQaWE1a1JnS0VXaGZ6NzE4YWVpYXNRZ3JxM2R4bGg2RUJFOWVlMzJwLXZ2ajdTci11U2ZaRi11MlFJcDluSVhmMWhRTC11MmRxZkR5Zl8wUUVqVlV1Vl9CeEZRRks3MmozX0pVWFRVRTBFckJRU1FsNnU1bWp6VEo5T0Ntd3dhVk5lYnlRNGNpbGpnRU1FcGpjRUtlemZZVU13dGo0VzBPNmNpejZaOFRpQjRjYXE3aGp0OXRXRg==
+import PropTypes from 'prop-types';
+
+// This file provides prop types for properties from the react-router-dom.
+
+/**
+ * Returns a PropType of router's `history` property.
+ */
+function history() {
+  return PropTypes.shape({
+    goBack: PropTypes.func.isRequired,
+    push: PropTypes.func.isRequired,
+    replace: PropTypes.func.isRequired,
+  });
+}
+
+function location() {
+  return PropTypes.shape({
+    pathname: PropTypes.string.isRequired,
+    search: PropTypes.string,
+    state: PropTypes.object,
+  });
+}
+
+/**
+ * Returns a PropType of router's `match` property.
+ * @param paramsShape  The expected shape of properties inside `match.params`.
+ */
+function match(paramsShape) {
+  return PropTypes.shape({
+    params: PropTypes.shape(paramsShape),
+  });
+}
+
+
+export default {
+  history,
+  location,
+  match,
+};

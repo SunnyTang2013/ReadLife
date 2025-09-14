@@ -1,2 +1,30 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NXBfQmtsN240UXRZWVJ3VEdBMzBkTTgxV01UZHBINjFFQWltTUhkdkJlMG9fTjZaLUlaZDVJUVdFSEJhamdtcjhCQzFhY0VWMWpYc3VOVFJhRE9aazhFZDhHWUhtUDZTS1UyZEROMjhzVzBDRUViVlZmSGVRbE5sUHJPSXE1eVhjdVRzS3NPdmtGRlNQZzR0bUwzYk9tVXA0VmllcnQ2Z3Z3Nk5SeVFYMkdMZUxmazFlaWlHQjV5V1haeE1pcEFnQnRVMmN6ZHBmMzFhaV81UndYV1FOYnVGZlZsQUdRQ2E3bG9yQ0hiTEo5ZUo5QXU4LTRlZzlkd2JRMnBvMy1XNzMwYldXak1RNXJENjNjNHFhZmFQMUZCdVM3RHl6aEwtU0RSbmQtaUc3VG41bFV6ejJBVndJMEpFMk1OZ01tZDNWNUpnVy1JSENZRUtxVkQxS202RFRyT1hvQnMtSHI2WGNHWDE0d3VVc3FMME9vQm00V1lHUldSbDJrRG85SzRDU0xwNlA5QTQ0YTRDM0Z6OW9VYzhwQktvb194QmZYOUFMVU9zc3U2T3c2RUFQc0JzaGdkc0J2ai1VU2Q3ZTBSVWhWeHhBM1J3amRBaDVDUVhSVTlMR3lwcFZMMXhmcXJFNXJBMWNWYUVZbll1bGJpQ0psV1FxU2hDT1p6UnlnYVlVNDhheFQzUFh1eXJrNkhaSjFUcnhLd2g4M0o4Z3ZaeXpmX2tIMHlhMEQ5RW5LVm9wd2pjVXZIYlRjMU5GN3FpYkJKSUo1bEFsNXRDb3pkUTlhNGhKaTNUeU9SSkxfc0RYanF3X0FCWWJscUJGRDFKOXBvOVNoTm5BdXBoMC1LTFRBazVjaTlsek5UTDZSR0RVTHVGeWtpQ1lwLW9XMWJwcnBFVDBWM1RCbUlJWFZRZkh6TG5BQ2dKZ2o1NklEWUp6ZjhtdnN1ZGFaeFQ0OGwza1k3RWN1QWMwdzBjaVpNRmJLSUVTNWxnZmR2ekc2NXNNQ0xRZG9iemg1bEtIeGxnWjh2bnV5Snk1eXNrOGtFQlptaks4TWdXQjhpbzZyak1HOTZjcmowSi1tcXBrVXJMTlkwNlRSdFIta0Z5aFhVREgtZjVTb2lBVFBfbkJRRjJVRlZLSE45MkdzZng2MDBLWkd5LWFzLVV3ZUJ2QkxCRXFGS29WblBiai1ZRHRuOFNSZk1OQzlDS0lXVDhTU1BZRVY5MEVycVlKS3huZXdqX2lkWGoxZWJZcHlEMD0=
+const webpack = require('webpack');
+const { merge } = require('webpack-merge');
+const TerserPlugin = require('terser-webpack-plugin');
+
+const common = require('./webpack.common.js');
+
+
+module.exports = merge(common, {
+  mode: 'production',
+  devtool: 'source-map',
+  optimization: {
+    minimizer: [
+      new TerserPlugin({
+        terserOptions: {
+          compress: { 
+            drop_console: true,
+            drop_debugger: true 
+          },
+          format: {
+            comments: false,
+          },
+        },
+        extractComments: false,
+        parallel: true,
+      }),
+    ],
+    usedExports: true,
+    sideEffects: false,
+  },
+});

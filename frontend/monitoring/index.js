@@ -1,2 +1,111 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NTRVdlVsenJ4bjNKOVNHNHpVRkZuNGgyaGJUNmpsWU5DT2lubllXWXFMcDBYM1VLMUQ0am9VYW5PQWdBSW5mb0J5N25zU1pXekVFMHZ4ak50aXNMb2J1U1FESVhvYU9yMVRsbS1oSFRwTWg5OG1zMGhfc1JlOXJwZms0N0N3NlkySjFDcUt3WWczZ2tCSzBqbDdCU25oOG5ROThwaWVPZmlzRFBxSGRFUDd4VUhTMlRrRWlVVUxMdWlDX1hHa1NfVlI0WVpGdjNrRVZ4UnlxcDlHSTR4c1Nhb2dhYTJzRVdkdlphR1JSajJZSU5qbkkwNVpUb2hIVlc5WW1CU3NIT2FSVm9SU3JDR1RnTnN2cDVNMHdnNi02TU1sN1p0RmEyY1YwMHhCNV9nc0JpUXp4bDF3Vllzc0RzbDdaM3VSVTVPRE8yWm51bHp4ckhlZUd4N0daemkxRkR4a2duY0lSeXhjS3lOQlhUZlI1Vk13SkE1R0dqYXNZRVRIczN4cHQ4VjBrbjRIMW85R241NlJyVkhCRHdMUmFSc2dSRzYtRmRVWkl1MzllSkswQWNMYVhRaWVHVkx3LUw2TW9MNHRlZWdwb1F6d3FrcFdTS3gxSGNTdGlUN1dKSFNudjNXeDRVTm0yZncteTdpSDViWW9RanJ2OE80VTRfV3pCSUFjeExSWUtkLWhGTG5ad0xmbk9WblRpR1REX3A3TGxvS3Q0RDZXcHJXV0lZdWVVWlh0NUdibFlpOHJTem0xOGxqLXo3d0xxLVE2TjBadnpRNjhrNWJuVV90eTh4NE5BZXdZSGxSS0NtZnZUS0lQY1p5LTg0SVR0WFVkMlpxdGxINkhFZ3VqbWd0c2RyZk13MXJZOXJaazhqN09tT0tSWDV5Uk5Eai1ERDdDQndSaWtIZHlkNU1NaVhmVzhvWlZWMm8xUmZKaGdBdlFPaEp4VXFUMVNzeGFvQ2NCMDlnNU5DazhCWDljbVR4REpOOEFNNDB5NDBTa1d6N0h2RGlMRXBJbTV2dXJEVHB4bE94Z2V4djUtcmM3V2JCUDdSZWZfNHk2MnhETHdTRUc5cGpSXzdEWU5TSmk5VGQ3MUtUdFZna1YyZFpFSFI0UnRFQ1FfSTdvZndkNjFEd2NvMjhnYU00UFZEZWc4MTk1N1ZLeEotbVMyOGFISDk5T3A1RGJwZk5fOUdXeU1mUUdTVkhGdFd0NXMybVV5YTNmcU1XUWU2aDNwd1pHV21XOG1mTnp4NEMtdUhzY1pZSEVqcmJ6Yjl3c2ZKZWFvc2tfQm9PTWN0cmRvYlV6Z3h5U09MVFJ2d3RlSEZIU3VaRFFNc25QME42MDBfbVNQcExEekdmb0xQbXJCTnBLbDRxTVNoRjM1TUE5OFZpWFZTR0hVN3hFLV9iX09oSFNEazJRX1lyQ3BvdFNYVi1kVThQTXNBaDJvVnBkWUZUREdFOGU4YkNGTTlaUEhtVzN3bUVNTE5nYVJoS2VuQ0dockFjVlB5ekduSWhfZm1TQXJzUU1fMVEyMndZdndMSTc2OUtOWnhmRkw0dU5TaDlHVlEzYThudVVIQzdqTERvbkU4RDh3X3hzbVR3cDdQMzlPYjkzaHl0cGlQQ1EwTDd0Q1lIUUlVTXdPY1FIMnFMeW5WaDhRSldmcjIwRk5qUVhibmMtUFozNGR0Nzk2RkhORXZwOFNEUmNsNGhpMXMtRF85cmR5Uzd5S3g1ejRSMnE5LS1hckxFZlZXZkJ1eGgwYkFhSVlhS0wxOUhES2FGSVgzLW5IS3BZQ1ZjZTNvVFhFYnNOX0NEZDhkamtTdzF1X0FVYVpKTUU2LS1FMVd5MDNMOGszZmxkRGcwT2FKQm9KSk5ERDVRWGpHQWZRN19lR0NTazJoelJCNWxFbFBzQ3ZNcTdDN2ZpUlpfQU5ySktkeFAtZ3d2dE9tY1V4ZmV5QVlQY2RjUFBPV1phcm05OUQ1dmx0LWdadG5QdTV6NlFCQTA4X1RrX0hRQlQ4azRnYzE0cEkwNWtISjFxamY1Ymk3Rm1iNS1jaDhiUGFDMmtPQXl6Y1pTSGFKMmtaSHpfSlRubmpPellGMkZ4b253emo3dG9vcjF4TmI3M0pVcUxyaTJESmNsdVRCUDBBenprRXZ5cDhGUW1hNmhvOXd2X1kxeTU1cW5TUlMxNTl3bFdzQmtDWnZDNnZsVG5NREQtbVd4RXRIMG00ZjhETlhRQWxPTUk1OTRNWi1TZDB1V1dkdWYwMDZ0MDM0emlMRmp1djRlVDRESUQ4WGNSTWlqTkhudTAzMFR1TG5zRGRnWDBSN0lSR3U4RTRFd2Z3YkhsbmFOZzJKTW1KV0RJeXFGdnc4N3R2ckltVC14Y3Vlb0JoekNYV1JlWE9RY3VtbS1lYThPdHlyZHNnOVNnZUVudkxIdmU3bHItZzB2UEpWV2hsX0hlaTVoeU56S1duR0szV2ctd1lUOWFDdnY5VzNfdWU5ODEtUkhDZlRHMi1Bd3huTEpqQlBpelNxUmdhNzhsa3hrUXoyZTBPREI1SW85VUhYLTNOUHBUZnVFZGdqQjEwM081UmljaUE1ZlV3R0YwakRCTEZFMnJlWnFpUWo4WFlMeTExMGR4OF9sT050Yy05aVJUNkFKaDE0ei1EVE9DTXZtVnlKc3VoZGRkMFIzZUtRMEdFTDZEMzdGcE9FS1NrTmZMN0Rhd1BEU0dNamh4S01rTkIxblJhVVdocFZiUGtkcl91T3BBZ2paVEI3cHExR0NheXRYUVB3YXhoMmNaZ09iZ1lwTzZqamNWTUNHWFJVT3hsNWVCUF8wQmprbFJ5QXZVWEtxM0lFZkVoM3Q2bWFIbGhIc1JTejBhRHRnS3JDOWJ6dmZJOGZlc25ObVViQ1Q0eTdvU3Q5bUMwM1JmZTVhN19qU3VaRFFTMUx2WjJMMlMyMUhxaGNiclk5ZGFYWU10XzhyUkFQVS1iNElsTEJfYjQtUGF0TURvc3dXazdTcmpMTnJCcUlQNElqUWotRVNQSEU0SThQcHVaaURBU2RMYnk5VVBUVzVySnVBUFRkU0g2X054ZTE5NzNWZDg0dGFVa3dWT2EyaWpVT1dpa3FCQUV0RzZBVldCcHBrVEZuSjBxRWl4dkxKbTlReEc2ZHdTQllSQVh3V2RLVVpOcll6dVFUMENRSkExOW4xWHIwWFJxcC15MTd6NkY3aXFXNDhpTVU4bDJMOHRSTS1ZM1BSbFdMamotMXpEck9uc19ZQlhJWC1oSWhabXM4UGFBelFpSnNveWphcEUtcmZfUFI0ZmNad2I0Y2FQWjN3b1VRYXJXTWhLMmhvWTlNWWlGNkI3a2d4LU1fY1BGbVo2TkZYUVo1dm9hQW9ycjM4UUJBRjNydUpOSUxaTFdHajg2azB0WmwyQWtaOERzbzJwOEpZMkNyaXI3S0tlQ0dDM1RrRlVVV3NRekMwSFpXYi1iVU9RNHhsQUhFbVBPeGt4OFpnMGk5OUF2UkdhVTBIZnpUanZ5MzAwWm5BeHdNV1ZiZEdzQmpoTVducG1WemJhV0NMcmQ0eE1wSDY4ZHh1ejZiQTdzeHFfRGo4WnI4dzg1UnJQWk9kemFBaXJLSVkybVVmUjJuTXYxX25XWThvYkhSakp2X2YzNjVCZV9QSXRPdWpTSy1sZEFDX1UtSHhqQ3RiVWEtaDJDZy13Vjh3aVctUDluRVE0ZUtJV3oyYlNQekxURWYtSjVPblNsZXExcUZIdkx4aFE1MFpOZ0p1dXFRbGFBTXBnZnRyRU5nOVFlWHhySnJYTEJRVFhXeGRzem9WcE4zZWFmdFFkdnkyMUI4VkMxa3N2eFUySEJ2TjhZNFFidi1IZTNvamY5OG41SGNkM29FN09WMG1yWmx6ZndBLUhocFVEdjNTbXY1ZWVIYVVCcGdoY1dwdmRSemhmNndERkZDaVV6UmhUWmFSZHI5RzVESkxKSzNPVlBWUTlvdk01MkxtQ2dKTmhlRWYzUXJzLUwwT21FRTQzakw1VzRaRXNUUVM2dzZVTVRickRhbmJFMzhOWTRFMlY4QnY5VTJwOWs4bHhuWUF1T1F1T0ItQVUwMHhOanBvbG0xWDFpcGVZekxscWZaSFBMSGlwZkY1NjZfTjI2ZE1NTGd4ZXphUFRNZXlLTmZ0d1hrcDNfZm9vVVViUzFSdHFoV1U1UEZ3a1F3UlZVaHY5R20zU281Q2tULURGNHlYeUt5OUdNdl9QaTJ4UmdTdWpRdG9vYVpzSGpYajZaVEcwa2JJMWdkU0tVdkNvYlB2X21JYVRmYjJQX2Z2NXJBTVRNWDhDUDBZbVJGQ21KRU5EaHdBYmo1SFg4bVBaQ0thUkZJYVNUZWZHb3hRQmdjTENEQnF5Mkx1TkRTal9Jb19WSVZtMVVINExCa3YybFJoby1NTWoyNUNYU3BPRktLVzdxekhiS18ySWtBbE1xODVSUHZaQ2NCa0hYLWh4OGtZNWppN1RrUGZvSE90cDROdDVYV04xZXotU2xDUHJNYTkyazJWcC1zWlFsNWhsc1J3ZEV5VGdSTWpIQS1IXzlfN0phNDhJU0lGWHpoaWNha1BvN19iX1ZyUlNHTDFPb093bXZsa05tREk1clFrbDg2RVBqWmV3dEwxbVI0T2ZzZ0VrZ21RU3AzY3U5VGc1eVNSZGhSaGZoazFrdzZiUDl4VlVwSzQtZ0JYQm91ZUxEc3U0YUJ5d0RaV21adnNrRGxocHhWNDVxS21laERtRFpJM2k1NzZDVFp2S2p3Qkdrbmo2eHNaMjJFdkcyRUZwZU5PUk9LZVZSTHZnLTd4OGJ3U29STV9vUENBa1MxdVVfS2VfNEtMV1VnZmJTX2N2SmM5b2FvcjJTdWlQNXNGS0E3aGZmenpJbnJXdHlXRU5JY1p0TmZ3Zk82MFBvYUVMWTNybFoySlFGOC1mRllGU1RrV3VtRGpzVzNlREtHa3lCTnhmYVY0emlRcnlyRTVHS2phNV9QYkZrWjRidXBrVVE5SV9QNWNiUmM2M3JfUUZCazRTT3FiamVxbE1uMHMwU2V0a3JPcjFkVV94YjBoMmtEcjVVeDNCaGNFZFE4M1FmcmJzNFR3cUNvbXFDcEwwTlVSX3BUM3Z5OEtFZmdYVHZXNzN5dEYtbExmLVhac2RaNmMyelZ0RlV2OVl4aC1La3J6aGYxekVqS2thSVpkcXFMRl9xTHFQSDRaMkZxQXc5dlVpcEtCek14LTJfaTNGNWpIVGtwUlN4dk91ck5GTjJES0d6OXNxZFBfbVdDVkFWWkJJdFlqMnJSNWxJR1JRVmd2Rk1GRkdUeUxzalc1XzUweFo0VEdXVHBUakNIUDE4OEJDak94amVSLXFoZmsxSllCNzZsUlRkUjVZRFVKdXAxQ2JOTkZTTkN2RnIyOEJiQllIQWdmVTF2Tnk0VnFUWWtUaEo1M0NyTFQwb2xBR2g5b0xaUzJNQW4xTUthOWtua3BBa2NiMDA4VWJfZHFibUowY3VtNGZNRGZlU2VQWGx4TE0tMUZVMi05T2RLUnlvajlVMXFCZ3dySkFkSG1id3RTZVlmNFBuYmkzNmNMc1lzZm1OTEVtbmFwRlBhOGs2MUJlUWE5VWNUalZIQWpnUzNnV2ROOTBZcDRmMnBKdkpMVEh6cHJjZTZUeDVBNjM3M0FZdVV2eUd5TWFwS1daRlNEb0dZT3NuYmR5VFhWbG1WU0Vvd3NJc2pqX2FMa2V6WkhuQXpKTS1HV2c2SW1hT0t2eHRyYWcyM3ZHbjFPR0tqNDdscXJEeWpOcGxEdnhtM2gtNHFSU084TGRxMjRxTVZOSGtrcV9PYzJ0SXlzWEJRckk4cDNWOGF1SnE5c0pmOXN1dVI2Vk41VXpCOVZCT2N3NWVZN0QzTUJZeEt6SDhfSlluQXlNQkNNaWVGRWMwRVNtNlVyQ2VBVFlyQmZYQnl0NVhacUNsLUNJeVZSZDdUbjA4MmUwOHFrWXpSMmJwYm1CLVFRY2JhSkVkMGpvUFpMLVBaNzlYUGgtbGk5a3Jhck9JM0Y2LVowVVhxX2lkUkx3YjZDb2NKY08wRlpaODhHODJsRTBGeUtWYmJRZEhLaDR6aVlyajhUd015Q0JqMjh1ajV4cTBJZWYyOGxKc1kycW5fb0cwRERJQ25OS0E0MGUwVG9ucXJESGZsTjNrWTlVN0lvX3RtdU5zQU9scTdLd096Z0ZpbEhHMkpoYUZ0TG5xZ2sybGtrcjlWcktyMGtucXQya3A1TFMyejVlb3A5N0FnUUpkQzRERTJWa1o4Q1M5TUF2MHYydHJadmJXaHVCcEFLY0JISHg5cDF2dTBCMzFkNGJYbm9NT0hlSkxWa1I4OEFOTnNHa1NzSlJxUEVYX19xUS1vdm9xbzRhakkwUXk1dC1SUE9RblJ2alJJaU5pYXkxcVlBZThybDZ5ME5pc1oxTmFlUUtrNFA0VWpKUF9mMU5rMXl1UkpNdjJndk0tY0RISjliWWI2dmVPbGpLQVd4OWVPN0VxRmY1ZHlOOXpYbHNTMnhETF92b1llcGdZSy1NOXdQWmotd3hUWDdjMTM2bzlDTHp0OUNWSm15QjVEa1ZwbjJfaWlvaFpNSUFFRExSRnByVjBhVTJURDBDek5nX0JSQ3lxalJmNFNvVk5jN2s1WUd4cWR0ZElNRkxRTV9mcF9wdGx3aWVNRy1FaXJLM0NNQmpXMDVoVEhuUFJFbzZrUm13X3FCRWNlMTJ0WDJyd2laeVpSXzdJeUpMOERnSkpCczEyNWM4dVNyMURyMXBMQ2ZTRkNMRHR6QVZ0V0ZOb3ZlVHo2a1RxZVM4X19GbHZ0dFpVNDJ4MkJiSE9hTjFhMTFKU01aSS1KSU52Q0RaS3F2MHROSnJFaz0=
+import React, { useState, useEffect } from 'react';
+import { createRoot } from 'react-dom/client';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { ToastContainer } from 'react-toastify';
+
+import user from '../backend/user';
+import RemoteObject from '../utils/RemoteObject';
+
+import Topbar from '../components/Topbar';
+import Footer from '../components/Footer';
+
+import Alert from '../components/Alert';
+import LoadingIndicator from '../components/LoadingIndicator';
+import { CurrentUser, CurrentUserContext } from '../components/currentUser';
+
+import Home from './Home';
+
+import BatchRequestList from './BatchRequestList';
+import BatchRequestDetail from './BatchRequestDetail';
+import BatchRequestByUuid from './BatchRequestByUuid';
+
+import JobRequestList from './JobRequestList';
+import JobRequestListByJob from './JobRequestListByJob';
+import JobRequestDetail from './JobRequestDetail';
+
+import PipelineRequestList from './PipelineRequestList';
+import PipelineRequestDetail from './PipelineRequestDetail';
+import PipelineRequestByUuid from './PipelineRequestByUuid';
+import ExecutionSystemView from './ExecutionSystemView';
+
+import './style.css';
+
+function Index() {
+  const [currentUser, setCurrentUser] = useState(RemoteObject.notLoaded());
+
+  useEffect(() => {
+    document.title = 'Job Requests';
+    loadCurrentUser();
+  }, []);
+
+  const loadCurrentUser = async () => {
+    console.log('Loading current user...');
+    try {
+      const data = await user.getCurrentUser();
+      setCurrentUser(RemoteObject.loaded(new CurrentUser(data)));
+    } catch (error) {
+      console.log(`Fail to get current user (assume user is not authenticated): ${error}`);
+      setCurrentUser(RemoteObject.loaded(new CurrentUser()));
+    }
+  };
+
+  if (currentUser.isNotLoaded()) {
+    return (
+      <div className="container-fluid">
+        <LoadingIndicator />
+      </div>
+    );
+  }
+
+  if (currentUser.isFailed()) {
+    return (
+      <div className="container-fluid">
+        <Alert type="danger" text={currentUser.error} />
+      </div>
+    );
+  }
+
+  if (!currentUser.data.canRead) {
+    return (
+      <div className="container-fluid">
+        <Alert 
+          type="danger" 
+          text={`You (${currentUser.data.username}) do not have access to this page.`} 
+        />
+      </div>
+    );
+  }
+  
+  const routerBasename = window.routerBasename;
+  
+  return (
+    <CurrentUserContext.Provider value={currentUser.data}>
+      <Topbar current="monitoring" />
+      <BrowserRouter basename={routerBasename}>
+        <div className="container-fluid">
+          <Routes>
+            <Route exact path="/" element={<Home />} />
+            <Route exact path="/batch-request/list" element={<BatchRequestList />} />
+            <Route path="/batch-request/detail/:batchRequestId" element={<BatchRequestDetail />} />
+            <Route path="/batch-request/uuid/:batchUuid" element={<BatchRequestByUuid />} />
+            <Route exact path="/job-request/list" element={<JobRequestList />} />
+            <Route path="/job-request/detail/:jobRequestId" element={<JobRequestDetail />} />
+            <Route path="/job-request/by-job/:jobId" element={<JobRequestListByJob />} />
+            <Route path="/pipeline-request/list" element={<PipelineRequestList />} />
+            <Route path="/pipeline-request/detail/:pipelineRequestId" element={<PipelineRequestDetail />} />
+            <Route path="/pipeline-request/uuid/:pipelineRequestUUID" element={<PipelineRequestByUuid />} />
+            <Route path="/execution-system-view" element={<ExecutionSystemView />} />
+          </Routes>
+        </div>
+      </BrowserRouter>
+      <Footer />
+      <ToastContainer />
+    </CurrentUserContext.Provider>
+  );
+}
+
+
+const mountNode = document.getElementById('app');
+
+const root = createRoot(mountNode);
+root.render(<Index />);

@@ -1,2 +1,65 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NVRsREdZOXNxMldEcmNpNXViemlBdVdmWjZlUl9tUGxLMlNzQUMxWUJFS0l4LXp2QWlrNVNHbEdqa1ctLXdaU0pGY2UzR0xhNERXT3I3SFBSNVpPTWppMk0xSUEzc2NSTGpDcEl2TWVMalU3NU5wVGxocjAtSXJmM040UGFLWS1HNlZmRmRtZ3JBb1VNWHByZ2d6UUhlbXREM2N1MVA3MkptZ1B5bHdlNHZ5bzBrbGdQNThmcmRFVkV6VVVBRFY2MVcyTUxjVVVJQUN1V2h1TWo1VmdZajctdmJDejQwenR4MmpqRkJJdjFoQUVRY3hfbE5ZMFpuWlNFMDZkQmRKYXY5bFd2R2ZlcFFvRnNXUmZXZTl0bk1VcU84TFZ0VVIxZFQzNFBFMzhheHlpVWF2N1U5Rkp0SFZtN0M2bWd4b1RTQnF1N241bHFxT2JNbjdDVTFnRlB2MHR0a3c3amVpV0dXSWZQWWR6R1FpNmtvTGVEVGQ1dENQcWVhbGRrbzNoQVZqZUtXTWFMb0s2WDBnazNpd3RRQlhyMUQ3c0JTLTBtc3pIaE5LMEJkUEUyZGx5bVYxN1c0MzRmMENORHhLaDhFSU92dTY1bUtuX0xfNGd5UzQ1X2pKeU5GQjBxSnVxSk5KQmNJQmUzZ240MHVJWWZrSzhMVWFYbGtrcldRUk9YbzBBWUNWMTBhNjBRbEhpTkliR2VzNDd5NVphVUhud2cxYmpQS2kxWXNkX09SdHR0RUY4d0VxOXZBemxNcG8wTUZ5aV9qVV9GR3VmcWh3a1FQbmRTRGgxZ3N3ZkthUTJDTHhVWGs0alhIZnVpVEtSNllNY1B4ODZ0VDlUZWtQMDJlSHo5VkdHYWk4eTR3djRianpfOUU0UU9jOGFwWmxsREpUOERMU01Nb2Z2Rl9DQTNpYXVCWmlGdGY0Nm11SENKdHZfRWU3QS1zZHp1UVRSeEFZSzdCdGttaEFLM2JDdnpIMG5rbkxtQ05MaWNjWVo2YVhMOUdnMjdLRmlSckliMllodElCYzhQLXBBX28wMndtUEJ3ZlY1LWZUOHhhOWRuTF9xclJkOHBsckdUVDVaczRYczQ2Ty0tWEpha0RZajUtOE51OEp0N0hfYVFsQ2dLaTkwdHdjWWM0VWk0dFAxY3VhS3p1eTZLMkJIV1pINXNmQW5qNWM3dGhDa3dVRVAwVklyN09YSWltNmhMalRNbTNHYmtfdERreS03S3BQc0xndFJCNWVYRGplRG93RGdzRHIybmo2TGQxVWM1dmM2RUNPTGpERU1mNnVKcU1uWVlndl9GX0FHU0tQM2ZFWXFZb3g4Q2tYd1k3MXNVV0xpOXZjcTdsbG5MQlFkMmdfZHVsVjBtWVdOU2RwZjlHVV9GLWRnUUVKN1NaODlrNjczUl9RX25vZ2VEOTcySHFNSlY0NXN0UFlsWHo5NUZvRmtlMXlndEtGYlJQOWY4b3VKSGdYeHROZ1pLTW5WaWY3QlJvWWdpVTVPNzNOTGVsWENaNU9qY3kzejZGQ2czODlFWUdlbHZyTXQ1NW41N0haclJmZzZlQ0NDZzdtb3NDQjY4LUlfaWN4VU40cEg5SzJJVm9RVm9QNUtrN0ZlaTlsckwxTWc2WkdVdlVBY2tqbUFpbGRkT2FFdEFCTUJYQm9mRjhqTEZSdnpEVlJLSlhZdEpCel9rWHFTcHctLXZFb1dtU04wU0U1QzJUMG5RN3RqZHdRdXNKLW5mNnk0MWNaMXVscWl1eEZkMXo5c3lJZWVUQTRiQjAxWXR3RjZWTkZRT2J5SFlsdzhYLXpITm15anEySUFjR2Q1blh4Y3BPYldUZjg3elNTeVJfdGY4aFlUcGFULUhic3JwM19NeWRna1FpdWZpT19pOU8wa2dLV2xtcE5sOHpvTzlOekpXSl9fUjZ0NjJjRUp5bGk3cDRZRnZJcWVuX0dnZlVmdGFGaE9qbXl5SnJONDM3SlJaQjFseUZvWEN6YU90akNmbnl3VmM0eVhZa3NoSFlYWTJ6Ylg2Ul9XbFdtQndZZ09FR0ZQbkdwWXh4dXFxT29SdXBsbVI4cVE2QkFNWWJzR1F5Y0pVaDVVemVqV2tCcGhQRHplQUEwWnVVemJHaU8wQmJCZkRERWNVRkVHX1lPV3pWYlNyQVlMLW41ZTZjVTE2c09YU1Z4TEZPdnBlb3RUa2VVaGNwR001X2s0M1BfTFB2U2hkZ1NRTWNVbm9xSzlzeXZBc014YzJEem1lR0l1YWtUQ2xncmdzLV9janYzTFhpQ1I2UlJGeWZtTzdCNDdTbWlybmFBemtpa2dpM1M1LXB3b3R4LUw0c1dhMW9hMnN2cmdIOGRfNTAxejlsVzVXa3ZQNEVkSjFWamFxc2ZYa09QSFJaTkt5ak5oQTQ1UVZiSVRqTVFWMWE1UDVmRTFFNWNNamVjdnR0dXlWZDMyT0Nmek1QbWpsclRMYWlrUjFSWElvVGowdWhyQnRBcFRiVElfbDZOZzF0aE55SXZ2S0NmNEZKdl9IUFhOS0k4SmdERVAxYnV2eDZEQi1KNW9xeTdRNWpCZXp0YzZTLV9FVUMyNjQwTXRCODJBQ3JUV1dsR2JES2l3OHQzTlQ2cHdBRkN6bkRnTnhjYWtBeXFkS1B6cV80WmlzWXY0bTZHcGUxNFNPbUlkUUdPbi1JZUNobDBqQVM5ZWNoVGx6NHp3Smt5UlA4TlFGWjFYcmpQVFZrV3E4blBnRHRxS2N1UndLRHU0c0xidklFYzh3bkhtLThld1E2cUdCdHE3TkVUZlJQNzlKRjB0bGtUTGdRZ2wzTXdqQmxfdndNZHhqX2ZiLWhta0xJQ1AyelVPeGpYNUwxLTI1SS04QzdBLV85Nmp6akNvNU1DN0JXbjNYTk9qRkMyMFJIcGR4Q0JKRE9QVDNHbFVzc1ZrZmlOV3R0OFRwWU1UQjZTRDNlNG1KbnRIeXZPWXVUOHFOMWZ5RjBqT3JQd2w0aDBNdXl5REF6LXBEQlY1Q1RlMzJ4QmdEQVItS3pNMkpfamtRWEZWX0Qxdms4QzBDMGVod0JBTk4wRGU1SlEwTHY4ZUFQS3ktWGJ2bHZmODVwcFhZUWRtNlRHQnpKOXMzWVNlMWw3cHc0OWtRS092WTYyZUFudnVmNjBDNFp1aTdzRC1BSGRPV0pNd2g0Ulc0bHEycmI1WXRjRWFxQVdWTVlBd1A2R3Q5aHhIbmFpbjU2aktNeHlmT3lpOUFRemNqUVJfQ1JBcnN0M3d1SHdSNWg0Nnp3Ym9JWHkxdk9MU3pKNEZNdjh6cG9FdDZOMEU1VEkwN1V2alV2SUJmZDMwRkNodlRTakd4VzI0aFBseU16TmJCam9VME9MbXdTYkNMT0k1TjlySGxQRTZMbWNCSUllSDBGeDJDYjY1cy1WMHRWc2dRNFNPeGhOZ19pMDVTNlhtXzhHRldVSDJHb3hwVGhrSmxUUTRFMTFtWG12ZWFyUXhUNnRLY3k2VE81YXp0aGNBYnA2STF5MTdkRFZLUU1fQllGeEV6YzZBbXlhWjQtSG8zNjk1b2ZUVk02N19wNnJhTlhoeTh3Q1NnYXdaYnM0LXpfUjFDb0pjVlhlVWg4RnR3aXB6di1WbjNBVW1GWk4xNklzZS01dDVUaUlGdGEtTF9aZWlveXM2UF93RkdvLUVaT1l5S2hfVzFwa0lDS3M0Y2JHbGZSNl8ySmotaWk0Mk5peTMtX2ZwWXlUWERJY0Rfd295N3ZpZE9JSXRCY1BxSk5ST01CdWk3WGFibnF1NXVMUG95QmU2a1haajRyN0FydkgtRWZFRDNaR0JXTHRZeC1fdExfR2Z5c29ETFZoUDRraEZ5WnhObU5TYXpJREdpY3lMZW95MmxMUW5FUnRMQWlGRUQ0T0VhUTg5Yy1oWkJjZFBUc2h4NmJ1MWU=
+import rest from './rest';
+
+export default {
+
+  countJobs() {
+    const url = '/api/v2/jobs/count';
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  findJobs(query) {
+    const url = '/api/v2/jobs/list';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  findJobsByKeywords(query) {
+    const url = '/api/v2/jobs/list-by-keywords';
+    return rest.get(url, query).then(response => rest.handleJSONResponse(response));
+  },
+
+  createJob(job, parentJobGroupId) {
+    const url = `/api/v2/jobs/create/job-group/${parentJobGroupId}`;
+    return rest.post(url, job).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJob(jobId) {
+    const url = `/api/v2/jobs/detail/${jobId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobByName(jobName) {
+    const url = `/api/v2/jobs/job-detail/${jobName}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateJob(job) {
+    const url = `/api/v2/jobs/detail/${job.id}`;
+    return rest.put(url, job).then(response => rest.handleJSONResponse(response));
+  },
+
+  deleteJob(job) {
+    const url = `/api/v2/jobs/detail/${job.id}`;
+    return rest.delete(url).then(response => rest.handleJSONResponse(response));
+  },
+
+  addJobToJobGroup(jobId, jobGroupId) {
+    const url = `/api/v2/jobs/add-to-job-group/${jobId}/${jobGroupId}`;
+    return rest.post(url, null).then(response => rest.handleJSONResponse(response));
+  },
+
+  moveJobToJobGroup(jobId, fromJobGroupId, toJobGroupId) {
+    const url = `/api/v2/jobs/move-to-job-group/${jobId}/${fromJobGroupId}/${toJobGroupId}`;
+    return rest.post(url, null).then(response => rest.handleJSONResponse(response));
+  },
+
+  updateJobWithJobGroup(jobId, jobGroups) {
+    const url = `/api/v2/jobs/update-job-with-group/${jobId}`;
+    return rest.post(url, jobGroups).then(response => rest.handleJSONResponse(response));
+  },
+
+  getJobRelatedPipelines(jobId) {
+    const url = `/api/v2/jobs/list-job-pipeline/${jobId}`;
+    return rest.get(url).then(response => rest.handleJSONResponse(response));
+  },
+
+};

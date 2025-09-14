@@ -1,2 +1,47 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NWFqUkw1TU5QZEJCc2g0VmZQc1QxbkhfelhCWlBtRlNYRXM2c1NRbkRkaTNzVGtPMXNfS00zNEQ4cmpCSzhFZzY3RElqbUNraWNKdVhjWVVsN0FDOTVwNUZMakgzZ1Z1a3Z2d3M0MDc2RjZJSV9lWGFsMHd2aGlzaFpYVXF1S2xTa2VCVkhNa3ZNYjMwTEx3Q08tQXdjanluWnY0djh4WUd3N0dxUXhGS3VpSFotRnEwelFwZ2dVa21JNTZzTExiQ3dvUGVFRk81SVVQWXBvLXpzbFc5NnNabnl4RzJ6WS1Kcl9qcURYMGlsdjJZOXM4V1N3N3J4VVhvMWVlUDMtcURjNkxUNk4ydXpVeUNXRlhINEo1Y1owc212ZkZuU182eTYzeHQySGQxQnRjbmh6dzBlTEdSME51elNoLWoxTDNXVTNXRW1ERUVxdEJ3UlA4cjNxYzFvUldRQWtIczRqbzFCT3FUcVhZVVgyV0gwdUNiTnN1dVdieHo4MmhXODFsRWdtMXpxTFVwemJ5U0hZX2k3SkRPZlg1UC1yRjNaVkREVE9GM0RPTm1IYklqTHhSWG01dEJiZkM4SDJrbzZLTlNILXFnUDM3d3hrWml0bEN0cWhKSE1OTmNnT3NFbkI1bDhVWmNXdS02Yy1TWmJpdmotOWR3NnBtOTVEQ3NKZzhQcTFrUVpvMmJVLUFNWWVwOU12Z2NLOGhZUFF3cjVPSnB5SFYzMHktaGE3RDY0TnRKZHg5MkY4NTRjOVpMNllodFQ2ekJEbzdad0NzOGJ0VVYzdDdvQ2s5ckZRTF9VVFVxcUo0RnI4WEhKdnR0MWRObDNQaHhaa3dNOVlIN24wY1VZU3BNN3lLekhrNFQwdHJTMUdhSms0d3VoREE1MWp2SUgwTjlKSnpTdDA0a3ktNFRHMTRQLXJiMjc3UXo5M1BaREtaQnBGeEZ0VVJhUzlCbHFmV296Wk1IN2QzVDRRdUpUMlFpWXBiZnNkNVlqS2pWMlI3RlpJR2toT0tBa3ZFcXFhTVN0ckc2U0dsRVdkOTl1bEdjcTNpYWJBNWJUa1dSLTZnV2pmLXZub0xfT2tia3BBWFB1V05ZOXpCX2IyYmhieXRUdzdJMGNWaGl0X2Z4MjEtVWZZanhlck9LZHhtTnhaSnhtaGg4Y0laYnFZMW9MYTJBZWdKdGJfMEZaeV8yejM0amZjR2p1U1ZNVnJhbGdSbFNYemtvcUNHX2M5RjNEWE5HcXZlYVYzd1lLUEdCM1IteXQ4ZDFRa0ZvZE5QVFljWlpaUHBpNU9QUzFNQk5YQno0NkVvdTVNWjlxOVZlcmE0SWNUUUFSWDJNT0pIS2pVaTA3bGhRa1hRMnk3ZFNLYk00Vnl5NlE3RWhRMlNpRFZPQnhxX1NvSjdWQTlCWDFpMUQxZldaQndGQldLX0hfbVBzbTZuNHJpNDJ0UUNvbENJcldveVNRcHNWaGtXR2RnVnRFV3lPZGVMM3NyWXNVVE9uXzZBcjVKV1lLcGE2VzNIOEVKX0xMTDZYODVhaF93bC03VXI5QVRCMXpGNl9kd0ZHMmcxbm83QTBtSzFTd1EzSnk5UUVhTm1fY3NxQmJxNXRmRXN1aVdISFlXa2FvM1BwNXJTNXFyb0hXakdoOWMyeHo2Qk42eWV3dUtfRFJsZkRuTlV3QjZwbllzUzQta1JyZEQ0c2p5cDV6bTg1VlM0Y2MwdktsVnNXVHl3MlBDaWNkcXNpUlQxeUp3VV9Jemt5VWJuaENIZ3pmZEhLVUJiYnlXWW5BWDBRaGNOVU5INGFMc0VETEU3RlBfZG5oT0gwYjREaEFuT19XUUlvaFB6UU5XWFo3ZVhsYU1qTmdiM2FoaHZSTkc3dDM4S3hMZVczaUQ0WW1aVFhGT0xGOFpLQkM2d01LRU56YVNGWDZxSnFPYUlzRHFjWjRuaTVSa3duV3NsUnIybEJ4YzJYclN4cTNldEZYSzZYZ0I4SFIwNnhFRjQyVWNLU211R1d0a09WVHJsNlZZbGdCdHZNTjhXeUtYUlN4bkRVeUp0MVd3b0N4YnQwSWMxb2tfN3Q0cHluMmNwSmJwVDU3RjlnVnMwdGY2R01kcmpHRlhzUm5BUWpKTnhnRVI3T1Z4SlZkRUNqdExpSHQ4SGhJQk9aY3BwZGhvekhrUzJhVVBzNk44NFAzMjRsWXVUeUxMcTZBQ2VkNC1SYk5Edmx0TGdnb1RYM051amlaYkNrLXM1VlVHNngyWnB3bGJ5NVhIQ196bllKLUEwMWkwTWdva2RJWmNMSHdkMGQ3VHV1TnZtNG9aUmhOYWN1b19BMVdPS05pb1hxQko1RnI2LVVPSkxVOUFVWVBjTlJrMVh0cGpEdHdoVktZajVnTG5sRTdOMFExN0VCNWxseEoyREM3b0dzMHB0cFZKdnhrSkV2RmpJdm1SclI1MmR5UURZUDZLbVFzM3lOekpwNUpiS19HVnFlMF84ZDAxMjBkSnNaNWdHMHpLaUZVRXdEVzIwaWZFT3YwZDBiZkExV2dpYlkxTUhMVmRaMjdYck96QzJ4UUNEcGRNU1diY3pvdjJPYk9QUGxIY3o1elE9PQ==
+// To keep compatibility with IE, we should only use text format.
+const DRAG_PAYLOAD_FORMAT = 'text';
+
+export function populateDragData(event, effectAllowed, payload) {
+  const dataTransfer = event.dataTransfer;
+  dataTransfer.effectAllowed = effectAllowed;
+  dataTransfer.setData(DRAG_PAYLOAD_FORMAT, JSON.stringify(payload));
+}
+
+export function retrieveDragData(event) {
+  const payloadJson = event.dataTransfer.getData(DRAG_PAYLOAD_FORMAT);
+  try {
+    return JSON.parse(payloadJson);
+  } catch (err) {
+    console.log(`Fail to parse payload JSON from dataTransfer: ${payloadJson} (${err})`);
+    return null;
+  }
+}
+
+export function saveJobListByJobGroupOptions(jobGroupId, options) {
+  const key = `JobListByJobGroupOptions_${jobGroupId}`;
+  sessionStorage.setItem(key, JSON.stringify(options));
+  return options;
+}
+
+export function loadJobListByJobGroupOptions(jobGroupId, defaultValue) {
+  const key = `JobListByJobGroupOptions_${jobGroupId}`;
+  const textValue = sessionStorage.getItem(key);
+  if (!textValue) {
+    return defaultValue;
+  }
+  try {
+    return JSON.parse(textValue) || {};
+  } catch (err) {
+    console.log(`Fail to parse JSON text in session storage (${key}): ${textValue}`);
+    sessionStorage.removeItem(key);
+    return defaultValue;
+  }
+}
+
+
+export default {
+  populateDragData,
+  retrieveDragData,
+  saveJobListByJobGroupOptions,
+  loadJobListByJobGroupOptions,
+};

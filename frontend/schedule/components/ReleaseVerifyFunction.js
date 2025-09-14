@@ -1,2 +1,53 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NnFwelk5MklsNVJhUks1OGxSa1NveTBnQWJBQ2s4V1lzWjlNRUh5ZjlKSUZYSE02Y3hTSGtlWGtFMEZKWG85WEhFeENzaGJlcFRJc245NlYwZkY4azhDdXNmTkU1S3hwN24wTzBMVmp5M3AwcGNlMUJaYnFFVHNGNl9acC1PekhrT0swVjhScVNOTmY2cTNpS0ZHZG94MDl0dC1TRmtjU3NHVnNieXlEMklsdXppQkhTa2kzdFA1QzgtTnRFN2ZnVHdNT0M5bXJmOVJqRVBZSkY3c0VVMFUyVFBURXR3RnZfS3JWNkFibU1SM3BKRGh4cHM5M28wcTB6SjZnMEJ6SzhmWERiWHhGc1REQXFZQ29rUFNuZjlZaWE5YkdMdlhVclNYdVFCSFdjUzFzMU1TV2JhdDBHSVNvQUs4ZlRBWGpwdGptdjBYbkdIVnB1N1FabURmaEhLVldONWU5QVJtY0JkcEZXaGZKQXY4bWY2MGZSYmZWX05DU1VaNjYtb3lNVWRqbkxvTmYtU205aDF3Y1dyTHU4dmZrcUtiWTdsWnhlWEppdmJSSzlnVGpNajJhYTRlQWJxNS1KN1J0N29ubjlYZF9paV9YR2RYZndjaklDdTNxQzdOemVYSkl6TTRRbHBzLUtPOGRyVGI3eU4wVnpTUjc5aWFqM2ZlSW5xck1MdUVjRnNjSkRiTDVrdE5fR3NKQ0pOMmUxd2Z2QjMxREtPZkxJeURlWmdhRDZYWDFma0xINXdqZW1sOU1MdnQ1S3hBN3FTNEgtLV9LaVRrOVRnNHlOUnJyYXlMbWZiLWYtZExCdExZVzBHbW5ibUNPRWFHNFgxYl9kTWZnME5LNkJtUW0zVHI2cnAtaDBON3VMOEdMdHFOOXpPb09fRTc3dmI2OEVEYVk0X21vMU50dEVrYUZhSnlNcVVwbU1fVDBRdWp5cHNsazYzUk55ejh3RGRmMFlvODRVdHhQUjVMS2Q5Z1V6U3hSb1ZMOUw1ckROZFZEb0FWRWF4SURNaWVLcGRfMFZ6RlBNMk9lek5GdHM0b25HczIycEhoMHhXZ2ZOVkZEZ3pXQnJLOGVtUGNncDI2Nnd2LVZXbEg1c1lrZHU2bEptLVY3MGhpWmN5REMtT0R4U1ZEUHRfTUtKLURzM3YtOWFPQk9VOS1EcV84d2I0WFdnak9kMll2MlRIX0VYZE9KVG8taXdhak9rcGtzSks1NTJ6WEpnNmsyRU85enpUMWx1dGctMXhsU0hUbHhKV0FWR2xpbzhTZ2pqemxwT2Z4MWhoTXZpNE9LNHh4YUdlVndLQkVIUzhmdEhtb1Y0Q2JXWXZmNkx0VHByUVRKbmtleXZ0M3d4RS1zMlFiSEFMYV84dXBqUHNHQWNoUE9nYzY5QzZYYV82c2RaZ09uNERFWnAzN0FQNnllZm1yMldJN0FDM0dUYkpJZW8wSlg5dkRJWVFHeTJiS3JOeThYZUI1X1dXSHNTM0lmS3FZR0lEdHhqT1pxUzNKUl9IaGVSOE5IeE9TTVhzSVdzbDF3M2Y1aHI0NXJ2LW0xZ2JpcWJSUGZhd0tpM19yN0hwbHlHVjZuTFJKTTJYZ255WkZfc0ZrVG9HNHU3R21SY2VEN0ZCQVpPQm9KZXZQVjdJOHlxYXYxRWNfVTF5SlVFQVcwSTNWc0RIMGZLa1pUNUlnenFPRVktUnZGcmZ6clpCZHI1UU94bUEzamt6WG9MRElmWXdoYk54UDJ0WEJvN0h1bGtkOHRkc09aVWR4SkxyOXlQbWxET1p3dXM1YmV4MWZsRVk2T1RZaHJ2Y2UzSnZsZ1pLVldyV2pjQ2xNVFBhUGpoNVZGdmtpMVF3SmxILURReEtkclZ6SlZBdjJhUnlGTUlTTE84d1VOX2lRMWl3OWNqN1hmUDJUT1BlY0JKV2hoYnFXQmxaMVJCRmxrRi1CM3h5aVF4a1U4RWdXbWtkTlg0Wnc3bEdYblc4clpBTHI5ZWZ3QlFQQk0zNDdIYXhSUHR3enFQNzdac1F6LXFBdnl1bHRYYVhTVm5DaDhMUFpjeXFFakNFdmNzbEJaRHdMczhsR3drWmxYejgyMldqMW03M1J6eW9DaXdKbmtnTjdJa1VJLXNsQlpmSHdiejE4WEJ5S3dvNlNscGNKMkxla0JOam5lZmhQbVpPajR2dzlNZ19FNnFmcHh3aVNVYzUyM2gxTHFqam1GRGZ3aGJBc2F3ckJBUDZFdkR5NTAwaUN4WW42cUhTdz09
+function getValidStyle() {
+  return {
+    success: 'has-success',
+    valid: 'is-valid',
+    feedback: 'valid-feedback',
+    message: '',
+  };
+}
+
+function getInValidStyle() {
+  return {
+    success: 'has-danger',
+    valid: 'is-invalid',
+    feedback: 'invalid-feedback',
+    message: 'This value should not be empty.',
+  };
+}
+
+function verifyFieldValue(fieldName, value, validStyle) {
+  let style = getValidStyle();
+  if (!value) {
+    style = getInValidStyle();
+  }
+
+  let verifyResult;
+  switch (fieldName) {
+    case 'jobName':
+      verifyResult = Object.assign({}, validStyle, { scheduleName: style });
+      break;
+    case 'cronExpression':
+      verifyResult = Object.assign({}, validStyle, { cronExpression: style });
+      break;
+    case 'newCronExpression':
+      verifyResult = Object.assign({}, validStyle, { newCronExpression: style });
+      break;
+    default:
+      verifyResult = Object.assign({}, validStyle, { others: style });
+      break;
+  }
+  return verifyResult;
+}
+
+function deleteItemByName(list, value) {
+  const resultList = list.filter(item => item !== value);
+  return resultList;
+}
+
+export default {
+  verifyFieldValue,
+  getValidStyle,
+  getInValidStyle,
+  deleteItemByName,
+};

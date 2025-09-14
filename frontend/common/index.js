@@ -1,2 +1,55 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NTN6bEVYSXlab0VVS3J1OFNraUlHVzloOWdrTGYxcUo5Qm5Xek81SjEweEd4aW5XQXNfWTJzVUo3VUZiczNCOVJpRm1hMHlyUFJPR3hNY0Z0YXBFZno5aDRucldmSk9tR2VnZWtjck9IcXR0aklpcWU3M241WFNiM3Q4NE5Xa0hrLWFNWmhtMk9VRlVwQUpLLXlUZk1hcTNQWUp4QlBKM1hBU0NNbG82RTJNTlV2c1k2SUdDZFJodEJ0d0xzWU1IaXJoNkxUSHlldmNTd05mVllwY2s3SWhsVHVIQnh1Q0dqM2N2ZF9qVWlvVUV2bjZScTExc004SV9vQ25hV2lkLWR1b0FvMVFFNEw4d0xvMUhoZG5hcEhnYUNLRG9nZS12SWkzMlp4LWRERTgwLVdXZzhtUU1OMnB4anRkdEk3Qm9SOHRtNVpiTXVzRjNycmd2Ym4xcUdqeW9sTTBpRkctc1AyLV9PY2hhRDVKVGgyenFnSWNlaDhpQ2tBZFZQNFZObTlVVGFOU1lNZ3pzOTZqcHVwaTBaQjZiSmIwWEItWmQ0bjBINFUyd0NHVDdleVQ4TXpnR1JIMGdfMFk2dnhPeEkxbGZwcUw0X0hzU0tnYmlLTmpEcmg5dWY4Wk9Sa1ZXRXdvekJlcDJHcS1sa2p0Q1JuaE5xc2dneTJOajhVWEl3STFleTQ4M3RqWDFYbVg1V1VjWG00ZDdlQS01cXd2TVVRRVJMNU9UTDBOZUZ2VE5XTVRtSVZkSzNUc2dVVlpKNFRubzdIMnpuMTI4MVRXRU9yOURTTy1JcVhaMFVka0dnSFBnZjlHd0o2RW5fRS1wSTNvbTVYNHM2ZW1ieDI1blZYbUhLaWI3QjYxT1NqS1JOdHJaTXhGZVJsVFBTeWNkNXFQeVdiWTc1T0p2NWYtRXppcmFlUEVWX2ZHVFRiX3FFdFBhUXU4TW52VE5xYzJ0UXJLdmVsek1tMjNnVmlicW83TExVUDJwa1Y4RDVocFg5QklCNEdTMmlETWZIRDdlQ2pteWI3WmpGSm1KM3dOV3RVX1psN2tFYmxZUU96TUx5RFZVTENPRnVkOVd5dWVFdnlxczJ3bUhtR20xRUM3SkhseDk2VmNNclh3cG5NdDdWdmV2ZXJ6RE9HeTJocUp5V2xKd1E5WU84NHdWVFRoVlRPNGplcGdpeDBzVmZGLV9iQlp4Zkh0N2VHbTQ5cWhScGUySTFFZ3ktY2tMRXFGWERvQno4aGxlYjZsZE1TY1hoUjd0SERZcHZkTHFtSzVudjQyWnp5M1RhWmd4aUM3SkpLTm10N2VHZVAzaVROMENJdXBJdTROZjNxYnc1S3N3NGphV2pfQXNWRy1TODNjRTdzMlR5a1ZqUktFam1pdXhSeTJnRHFsQllKOEF5bUhvTTBZM2xKTDZ5aklqR2gydlV1cDgwVzdNX01YRkdobVB4OHJ5ZG03Wk5FZzc4Um1pU2JaSWd2THVrMUNUd1ZfeHJBQjhrS2FVRkcybU9Mdi1Uc2Q3cGFNcVo5eEZ6R2NzTUV4QklLZENrTEtBTFRNUnVYQUhoMjVCazlqcVhHMGx4amFONXJwSF9EdTA3cVFORHRxRV9CU0hmMmx6dG95eXFWdVFWcVVyY3RCV2pSVkJmYko1WllpbWtHdnBjMXRHblpoaElUalNzTkwzY1lpWDFHcW1tbmI4ZjJEUnVIclB6dF9iQzg1SGtqcEtUdlJoN3RDeS1fTkZRMTJXRncyUERsSjhGamZTeklIb3RTdHZRM2VwX0czMEVJcXFWdklnOXlPaEVGQWpSQ2hKWHZiQVdrZU9OQVJfNEhrUGpaVjljTTRKcHJkNlp1bDJQUmtRVVZibnhmaEtxUGF2UHI1NEtxT1Z4MXN0bG5yaWtDRVVMUkxET2ZIOG5QVjd2VWtnYTJBQlRnVFlLR3RYYVN0aXY0UUxXUWNuWVpnVERyUTlHeGE3d1BLRF9HZEo5d3ItendHdHZhbmFsWTFWd184ak55R25MUTd6R1EyQ2tvTUN1b2ppWnBNM09OUDZKTVB5MXhrMzRMU1ZrLVA0bGxGS0YyNjJoYUQ4YS10VGl6NFREaEwtVzEyLXBYR1QxcVE3WDgyNlBjV1gyMTdCSjFqMjVCVG9sOGVTVURDeWVHNjhBdjdkUWRTVVBQLUNGUlRrZWFNN1ZYMm00YTZVVHhrdldIc2ZRWVdXQTJ5dVpCMjg1WU12QXhvNTcwN09LcUoyeDFUSTMzcXhyZ0NULTBJYktOdFR6Rk1FZjllRXFhVkFpVnpleWNvSm5jY24tUGEyVjlyQ29SeGpNR2R5LXVUUF9wTGtyT1pJcTA5TnlRUFhrT2dUa1BsWnR1ZTQ9
+import 'jquery';
+
+// Import bootstrap after its dependencies are imported.
+import 'bootstrap';
+
+// Polyfills.
+// import '@babel/polyfill';
+import 'whatwg-fetch';
+
+// Stylesheets.
+import 'font-awesome/css/font-awesome.min.css';
+
+// react-toastify.
+import 'react-toastify/dist/ReactToastify.css';
+
+// Customized stylesheets.
+// import './theme.min.css';
+
+import './extras.css';
+import './applink.css';
+import './autosuggest.css';
+import './toggle.css';
+
+import Cookies from 'js-cookie';
+
+
+/**
+ * report frontend error to the backend.
+ * See: https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onerror
+ */
+window.onerror = function reportFrontendError(message, source, lineno, colno, error) {
+  try {
+    const url = '/frontend/onerror';
+    const payload = {
+      message: message,
+      source: source,
+      lineno: lineno,
+      colno: colno,
+      error: String(error),
+    };
+    const options = {
+      body: JSON.stringify(payload),
+      credentials: 'same-origin',
+      headers: {
+        'X-CSRFToken': Cookies.get('csrftoken'),
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+      },
+      method: 'POST',
+    };
+    fetch(url, options);
+  } catch (err) {
+    // Ignore any error that may happen.
+  }
+};

@@ -1,2 +1,218 @@
-AES_ENCRYPTED_FILE
-ltjgCdz9te4jKRKIEvyhVWdBQUFBQUJvdkM2NXQ1X2NMLXNDUHVBUkpKcVhvWmxXdy1SSE5TeTZCMWVIYm5xSEJsUnNFekRCQVAzWXg0QjNjZGFSNHZVTkFabzVEV1dIOVNwQmhLcFVYUEhuTGZTMDJPNzhiN2xmUE5JX0VzZ1pPeFBiT1FGV2JqMDRISHpZMVVkWnFXX0xoU1VxYW1YWGcwWWlJc0NYOHpRNWU0bDlGY3J1MkVSdm9idHZOTUFaLUgtcTRtWmI0UDRnLTJvOFRLSHlTZUNlNXBPckM2ZGxtRWtjYU9BVWRYRm55MzhLc1VuTTVXZjZlZHRiQTh2SllzLU16c2VaWGdTRjRpQzlYLXBrM3FDTHkzeEtac0cwUW1tZDl2QUI3WUdqRGYwWDNxV3dodEVBYzFPY05pU2V6VUlOTUpTRENDNXpzeHJ1STBuVlZWbWF6N3VuQmc4V20wTEpobEFoMnJHZVlSQzJveU56c1dLWGR1V08xVVgwN0RLSWJYUFNSanJ6LWtNelg5VV9mRG01NHVaWjRlTDY4NXFOYy05b3EwSWhFSTFZemVkMVJ6dW5PYUt5bkw0WE1yWWhDbVM0TV9qQ0gyR21iQ2lXZGJNQXkzSE9aakhzV3hZWWYzYkpFNHBJdkp0SEpEdjBuMUpjc0laWGNHRWNKcmtLUEFmMC11NlB2aDloZmJZUVA3LWRzU1BrcHN2WWhFTWNuVG44SGt5ajBNQkpCQ0ltS0JYSnRRWWJUaEIwT2xIM3dwSzhGaHFZSmhZTnFUUDJBNE0zSVBnZnZoVGpiSFd0WW41bkVSeXpHRHJXcUZ0VGE4Y0VQV3BTbTBoSjdFSEp4TGpNX0phY3RSQjRqNFBibzFKbTNodXZoLUZfajQ2UVRKZDloLWxDXzlNZWZXVi16SFlJVXotZVYxWk83TnY1VXZub3FVd21FZnlLQVBiOFFKd3Z1ZUtvZUZqdU45YlhiNUVNaktlZVJpNnAzcjgwYkp0N1NaNzZsZHhFZE8yS0hxTE9jVkhpa3cxQ3VOZWFab2RfRVNiRmRmbmQySXhEX2pwRElaLWRaTlg2c29TTjk3VTRwMmgyY1FGUUQ4Um9xWVk0TkV0cnVLaVhQQjhkNjRUREQ2cHBUalBfWDVzUVhpZmNvZTNhMWFJeEZzWnpXTm9nTUVwTkxFdnhPSFFSTEdSNkhRZXJKUjUtSEp0QmduN0dnbnBfTlRGR2JuaU5iVldFWHFTdzB4aWxBNUROZ01xU0FBX2pOc2trN05PaWN4a3JCMExSalZFODlLQWNBcDZocks3SWh4RTdWMUpwekE4d090SHhCbTFSSEpVVmwwSXY0TmFzN21kTUY2b0IxT3VIYzRqREE1T21PUkZnazQtNksxaFhSRXd5akR6UmRobHhuWGhDdXIxSUljbWN4eUVhWEtpbTFaNmxKbFMtTkx2WDdQZTl3MllzMTh4N1hFWjVBTVhNVXVFWno3UkpFbHN2QmRlRW5iaGZuR2NjakhmZnZXOFZYUHRwaWhkTTc3WV91RHBReXZ4d291Ty0yVmN0S1VHWEJ1eXFLVDFwcm00S0tKQndvRlAwQ2FMREJDUFR1blhNWHRrMFNMa3EybEpGaGhLMHBjVEV0eUFHcVFITURIc05NMXZQenR4Ylh3bnVZR2xJRG5XX2ozQmF3Y0F3MVlnelNOd0FhMzkzc2kxc2R0RjIyRmozMHllcEJmQ3Aza2NCRzRJZEdBVENUdk4xbDMydTB5TGJJeVRyZlNOWHlpZVlqZ1dpMHQzaDRxM2xhejRhZ1RBQ3RIYnUyTl9OR3gwVTBzYV9IS2pDQjdxN0I5blZLNE9wZ1BxeDI3UW5nYnA4WXJ0V2NHSERiMUxyaEhmb1ExRzhLNDk0cWFjemJrSkJMSHpZdHcwT2s1R09WNVFfQmo2VndrTjlmaG1yVk5TdmRrRWRkV0VManZZa0tvbXdfc24tTGlYNEpVZGwxWTlVbHpRRWNoT3N4ZENlbU4tNEhTUDItaGM5SkVaTTd0OUU0YUlJRmRYTEh1M0RYdXhHbGVGZUhnRlUtX2pMRlVoR3JoSFlCbzh2U01SNFhvblh3NmJtYS1KY2dWMEV0MktVNXVpeWVEdDJMUkduZy1fclhsX0xFNXRjSWRxV3dNZTRfVVJMREhvTFR6dHJVMlhvVm1BQnFUZXVpRlN3dTRuWHJTX1I4emxuc0lPNW5fUDJxQm5BaUpsVTNFNEk3b3d3Sm9GX045VlpHUkVBQl84WWhRQk45RUVRdG03cEppUXZxY29QbERtV2o2azVTVC1manp1X19aOC12RFdKVThGOHdyTDFhWmZYZ3RGNzNjbXU0Q3pVcTVjLVZRT1RTY2ZXX2t1eFRsQU02ZlNEV0I2TVhiNHNxaGREZEtkRXpGbmMzSmh0TlRZTzhqRkZhdUFZaDJ0SV9oU1dNX3E4anh6SE8tbEg5OGdoMGd4Tk4zMHIxTkdxU3NqcWlwQlZ4OVI0cTRia0Q5TTlQNFdkM2tKZDRmTlZhdjh2enlKUTVlU2p0MzloQTVWUG5rdVVpZTRuM0FCSDVDSTVGV3RCcl84d3B4eW50a3k2clM1MUx4c2xXamxRTDVVTkhxSU5oNnBMR3drcmRURnBqLW9XOG0yajJvSEhZdkd3T0xLZllKOTRnZVhEWW83ZzdYdEJKdmxmSmpJdlYtZ0RWRkduQkZHTUtpZkNMTE1iVkNUT0hFSHZxZDg4UnpvNk0wR1JsYTc2Zl9lb01IbHZMajQ4QnY3MTJmdUk5TVo0enduLS04dk9tdlZOTmk5bk5TdnNFeko3dFF5Sk9KUmMtRUFsa0lFcGxNWGVEYURpOWpaRmZOVVMtMHVkQ1BQVWpSWlRiOEJYTzdIdlI2ZlFJZjV2YVBZNUNBclJfa1NSWlJmYzVMdVo3RWhlTlE3TW5ZVXo3MjFubnVEYWw2VnBvNS1jQk5WNWpRMVNBNWpNaDFhbW9RMnJpQXQ0d2ZKRDRBUmFwQTh5VFZkaTJfY3c3anpQS2o4TERzR3ZtZU9iWXItYnlmMEdKZkZ2MmVQVXYtS2JnYmhnUEdsS19fU0RWeE5kaVBhQW5aTGZhWmQxeV8tWUZsM1QzTWZQVF9RVmtFUGFNalJraGJ2Z0ZQeHZfU3pCOWpGVnFRNHBLTGdfZWVPWHpxaVpaT3VibWprRUZYSGI1RlRMbDZzTzNCTW1vcUtYV3ZZY3RCSnY3SG84dTRab045bnhSblpueEMwdVlIRHNsbGFnb1BnZ0QtUmRjYzFHRXJ5U21MZlAxVVRoNWwybjlISGNTeEYyS3RPUXNvUzd2cTFSQ3RmZldabzhfLUtiMElnX3lXNUpIWk1feGFramR3S3RQNVRHd293YzlEQ25YR2NkdF9scWJXUTQtS3NpWXhoUnd0OGFnaERfUVNvZlJlaTNMRU95eERUS0ZZUW1sa0dvNVUtTEF1SEtGQVliSG82WEZvZWZSLUhLRUtjX2g4cTNMcFFHSmJHRXRFWVZBUE5waWZEYkpPN0FrQXotWG0yR3JQV3JOMHh5d3lUOWY0dUYtZXp5eWNaZXBNQkV0cC01MlZNUGU3OTUtVl82cXZzbUpyaTFtUDRsY0MzN2xqRGJpUlZkTll2bC0wckZJOU1pT1pNc2laaUFhSndRdkFzRTc0R3h3STVRWnZQM25ROFd4RXJRdVRQR0hNMmJrUTdtLWlqOExSVHVEdHdWREluMldXalNEdU5tcnExLTV6dmF4RXh6VFlJejJ2RjRQQ1hzN2VmN2pRQi1tU3I0ZWdqR29CREdGaVNNbm1KeE91dTJYa3BmTzhKUWxHMHRYNDhjdG9zNEdkanZWaklBdVlKNC15ankyMlFzS0NJTUtxcC04WkRvVVBaN1hGZHpseEp6S1kyMWFEWXEyM2hUQWZ4QVRWT1lFVXhZU0FtdnRGVFloUWVkSHcxeXZ4dWZZbllRWkZleEFIeHhnTEp0cUhCS0hsRldMQk9zQmIyWnV4aE1kMjZjU3J0djhsb191NThKX0JQYWY3NWFsTmItakhzdVpYbTJkTEQyUXR6b3JuSElOcGdUT3liUFYtdjVBUGZKZFhjZ0NBaUY4ekNmV2NaRTNqWHVhUkxRbmlqQVZtMkxQdGFJYTMyQWVBendjSDZBeTJRTWtTSElHU1NmU3BUUU9XUnBWOFdXSkNaVFhDWjBlZGJqSG5kNS1hckhBd01CSk5YZ05TWkVWck1xVE1aakUzaG9BdFdjcFIxVlpRS2JRMEN3ODkyd1pFenF6OVVfZ2pCSjRvWVg2U0IxN0ZqWmlnYWVfaE51b1Vuejcxa0psV2NkWGxvSFNwVXpINHJzQjloc29oc0cyX1FacHNPdUplTGVqd2theFVfWTE0bG1CMlNpNTRrZUVBQTVPb1diTGdWYjNWcURjdTlPZHFFQm00cjhpRlU4a3V6aEVmSlFwWGdQc1dNMTJHYi1oMDlrd19DV3RhaWxYMkw4VjBham9Oa09PYXhwNkdJejdKU0hkM3FLZFBKZWtVLTdSRUVrc0F2bEFsN3FzYjI1WmRQTWxiRVd6S3ZMS0NidmFmakpxd2MzMW1uWHVGdmk2RWtvVWZnbk5hX0M4dk9UeXZqOGJqeno4ZU9VTmlWRWVnUU1BM0JWMEVJQ3lQeVVaRW5MYjBkMm5hb283Y1lKZkZPLUhnSTN5MURualk5SHctVmZRRVpWQUwzMlRXT2tvNm9tTG1Tb1RBTDNoX3IxelZWSjJGaGQ5Q2ZKMDZoVDFacER4SHI1Zy1jSldMUGhSVGZ1eFhVYWgya05DNWRSV2pEbEIxNkhYM29lUkVsc1BweTNTaDhycGwxLVJJSmdoN2lhaDlyQ005c1Q0ZVZQYUpLVnZJTTM1UDZvSk45WE1CcUtzdlc5dmFFZzRWaUdqS2h2d0pTYWNpeGZ2bkFtdmJ2VjZpMy12ek5xU1ZUcE8ydkZfWGVzaEh6ZTNaN2hmUjZhR2l0OVhXZlpYZW9VMHBkYnRIX2ZpZVdsdGNhQmR3Y0l5dm15cDdGdXdwRFZfOEg5cHZSNHlORjVkcVpqMXFaeHdMYUhxcVMyUGt0TjMwTUZhM016VzF3TGNqVDFMdDljUGsyejBLdGI5N2owdk1adkkxVzZINXc4OFdiMmNsdk55ME1DNnhySVFvMGk5NEt1X21Ma0ljWUZDYTdVWlQ0d3dnY3FxVGpIejdiVUlQN1NfTGU4Qko2NnJ3QWtFRnRVVjZSOTM2azlyU0RoZ1JvYjhXakRSNWZrTUFHWlhtMmVCMGtUUGJEbm1xX0k4SFNOY1hSVHZ6ZlhQR1JJMnMwUl9hZmp3VUpVRDFNUUttTTBwMWhVbkR4YTdtWUVQbjhPZ3dzXzJqbHRiaE9PdHBaRk1jOUg1cjJ5NFdlT3huLXVPUjZLME9waVRYMXJoNU5CSW54V0xleHFkX3BNUXBpeGp0bkhna3duT2FEX09rZXBmY1lpWWVVRHBUekQyQ1pMemJaYkJkeWQ5WHJnRERDTk8wc2tWYkM5cDJWdmZYM1gxVUgwMmdQR2U0aUhfSDMtRVBGaWwzN1JhNjFxZUpHRXVxSGVCVTdza3MxbFRYRkJtbWlONjhBUGR6QUFWU0Y2WXYxTE9mdUdFNVF6dm9PNF9rYlpRX3FlMUF0TUU5RUIyZzZRN2QtMlJtQW5OWnlySFdaMmR0ZUVtYWlXY1gtUVpnUTZSeV9tWnNONm1SZ3ZuN18tQkRaVEFCYTFxMnI2SjRCeURuOGRhWjZTNi1NdDJ5eXdIbVZlU3l3c2h5bGhKbUs2cU9hYXJUSEotb1pzcjlVSnB6X0ZDcmloSEdMX1hsYXE0M3AwZlQ0V1Z2dWZpX2s0OEF1LTZOcF9aQnh6RWl0d0kwMm5Ib0MtZTVaTVJaWGd1TzFWS2Uzb0IwQVB4SVp1N0w2ZmVCelRzMHk5Zy1UVWE3cTJBSGEyUGU5bWdra0FkdzY2clhSS21DSjV6ajVYeGlCN3A1emdGckJubWRBM2VnR3B5eW44RFFfMGx1VmNYcTdrNjF0dDVwX1pFR3FzcXkyRzhOeEhpb2poZ2Mwdm84Nk5scFhfZUMyV1ZiaUFqa3BrUGM2VGpPWHhiMDFzcEtzN1B3bWxSUk81UGd2UkNzSnAzZGphZF9mSm1MbXREMy1SbnZLMjdlQWJjUkVwd05QUVVJSEsyV09NZEh1dzNiOURpTFdrU1BRMTY5WlRucy1mVU01enRTY0wxelVzSXNvZFNXaWV3SmZCam9xUEVxT0FtQzBwSTUyRzFaMXZDWXJyX0tUSFBKekZaNk5jV1ZCVXpyZFVoWTcySk9CYW9Hbkgyd2lmcVh4Z1R1SVR3TXVpbGtGa2RuOUtDTnQtVXFPWEE4cTdiZEJiZ0RPNFVUYmttMzJ5b3ZNZE5yTloxSjY3ZHoxOHBjN2MyVTlmcEdDLWJXbEFxa3YwYmdsNUJIcnBhNjY4b2xtZTRPUjEtcGlwU2ItUXMwb0NDeUlaTDRVeHJ4ZXhjZmhvUTRkZWRaLW5oUzlVV3YxYU51eDBTeE5RT3VMNi1jMzZOYVRaRUkxaFZlcktpbFFCS0tGSmkyZlBmZ0dxWXUxc0g4Qk5qY0NNNkdWSWpyaWFPTlRqSkFpUGkzc0dpenB6dnc0WTY2OTBQX1VSOUxKbHl1d01TaXdaUlNmcTFQdllna3dCUzJYZExCdUlCQlV6ajJVRkQzTFh6TGN3RW5ZY0RtSmlRVHB2NUNvaklybVRVVWlfSF82ck9GRjJyazhEbnJVRFpONHI3dTZUOGlla21nYU5COWx2NW1NaloySVZkOFFtUkdFdTF6RGxTUkg3d3dfSDR4S2I1VXhVYlJiRDhORHNlRzJoVWN3RzdJTEVwcGY4OWY4Znh4ekpNYzRNMVI5dWRpQnBfbnc4Y3dvZlV5ZDI0d3J3SVQ0eHByc2l6ZXNBSC1iTzhzRVlxZDdHQ1diYTFLT21LUUU1MXpZZDFiQ2ZGckx2VVIwMy1TTi1hQjJCY2p4Z2tmdWFkdGt0M0g5UmdKMGdaYm9EdUVZOV9tVko2MTV3YWFzVzhLQUxVLTJHd3lhRFQ4dDgtTXpBVnVqRU9LYTQyVjdtSDNMSFJOYV8xMjhQYlhWYldnampjdFE5NVpZcWVxcFZMbjQyM1dBaHY3OXBKQ3kwTHRnbVduYUJrTXRmUkpzWVpNVnFzN2lWUEg5R2psMFlPNTgxMnJkM3F4aDlWR1pXR0lPVFh5Rl9aTkx6YktEYmRpYUl5TFFNcXZiQTFycFdJa05EZDFMQng2WlB3czJxWDlVQ3FhWkd2T0poSlNFV1NITTZKeU83TFNzaDlONHh0blRzQ1ZBcGxBcWk2R3FkV0RodV9YVzhoMWROWXFTRUdTZTFfWGNUbGxmblM4UFlnSjhFQ2FEd2dPVVhzWEtmOWZuVU9UVlYtZ2tOdjJjWTZySWY2VTZVbEJLQXRDTS1mWDRESDhFTHJ5VW9ybC1RNHJGaUVYN3hyZ2ZFMEo0UEhLQllyS2FVdlh0OG9MaXhrUlRyZ043QUhSUVA4QkRqLWI0V1M3b3FURDBaM0ROeTlWamg3ZjQtM3dFenZBbDFVNmJ2dlNkQ2RPZlhKdko1bHowcVpGVklMY2RSOUxpNS02eF93VGRfY0puVG9ZZ2pJc3JFd1h2M2xoZ3ByMEZmckpVdkU5dUVxLW5Xc2UtdUVEYko0Z1hOMjJoVVZXTEZ1TV9Bb3dfY3Z5MmJNQ3ZNcWhzM1Rpc2JNNGdiVlg0ZFBIVGh0M3NyMzhVcTBVM2p3U050N2gxUXhWWUhPc0hKbmFiNzJha0tIckxOckMxeDFnaGFVc3oybGs4a0xNdVN1N1RhZS1GRWFXQURycW9IaHlKRGIzZVdsS200MEk4Vm9CczlhNk5EVm0tRlA2c1l0V2lFcEw0NEpObEpkaW9VRXZsOTZFVHlYN2VNZkhjaVk4S0tnZ1ZsdGt2bm91MkNNZUlaMzdMcEVyZ2oxME5XaEVQVVBVcFZPX3hGUTc1SFBMMTEybmM2bDBlZ0Fkc09zVUxLSXNsQ2ZINU1PcVRjQ1ZaUzZGeWhDY1FKbnk3UHNvdlBpZTlDRG5PTDNLOHR3aUx0am5VQUZaSW1EM0xwYmgzMDZpaWQxUnl2RUJaYTVvWk9ZR0RYUGpDNno0UnJpRXZDZko0dHB3UnpMWDh0QXBiQ3RKRk90Z0dPdGNCSTJqSHJETndtOEVDMHl6RTdJYWZzZ3pBZ05hSnE5NXhNM0tHS0RBM21raTM1bnhqNkoxaDVLbTQ5X1JuTllyeEF4MDZmYkZHNDJKbGd4OFluT0Y0cHJrQWE1eENWbHphUUQ4bDhaMmNMX0ZYd2JaR0oyaXVXM3BjU3JLZWFzUFFxRDMwTmJDSlJ1RkhHUXVzVmllQ3RXY2gzS2xZMTBvSGVIVE52b2EtYVlYWjdEUDJBNTZRUHJaT1Y1WVhwNno2M1BiVlc2ZnlEOS03c3lhTGJaSks2eFF6X0xxVnB0MXI1ajFDQXhTTlVHNFZ0Tk1LX29pRlEwRUY1ajNIb2VFN3dFYXo3SG91T0YwNE5PTXo4aWMwOVN5OVRsUTRiQUIyRlUzVUpwYnhnUnAtZUFRei1mbGVOMU5zOEJJRW0tMkMwVEh5ZUpVQllSeG1fQXpEV04wSUs3TTVTMGpJa3NYby1ydVRjTW1uRVVGVlUyLXB2eVU4bkRVTFRvVGVyMGltWFphaVctbk1Lb1ZDMG5TM2ltcTM5TEh0cnVaUnFpTXFMbHM4NjFFTWFRRk5pMm94bmRFSERPM1JfalFPeXNRQURwNExaNHRJek1PRlRHTm8zMkJGSWlNVWl1YkIzb0JQUHF6cHhHQTZrcGhnT2JsWmlwTkZBdG1sU3JMOFdhT25telZRdmpCWE52NTl0Z2VjNWJxTjJ4WnBtcllZdG9jSHRsdkVSUWxDZkwwNVp6NkpUZmRfZkNteXduQWRLVWFFeE1FaXRlbkU3b0NnOS0xV1c4cGs4OV9xUl92Ykk4eWZvRk8zMlQ4UGd1eElINzdmODBRcDRSQ0tDanE2OWdqcURPblRfaFh0T3RkeEpmclhWTWV4X181a1hkZzZ2MExwRWNWSHdNb2JkLU5wWmhVVWpMUDJHNEVMWHlxTlNMSnlfNENOVUFmMV83aVJUbDVIb2hwNEEtMjdUT1psaW9XYWFSS2huSzJ4RlNPRWtOZ2RWcmx1c3V2aXBlYThvcnVfME0yZGU1M3RmakVoZzZkUkVrc0twdVIzamNqbG5MaWRpUGRpZkJadnY0Y0QzWXJwWkdSaGh2dmtxYnZGc1kyR0RDU1VpbEVCUjEwSHpvbzNicmV2c2NiOFBxS19kSnJrVEJybEFKZ19QVmRvSm5OYzM4QUNXNlBTUm44eFFjWkY2TUM1aDBGYkEzQjVlYnBjeWktUHJxQXl1cVA5RHJuODQ1eUtoZjhTODE1NDhlWHNadWZBMm5XQThWQXpweDFhUlhYVy0xU05iTW5YNkFJOWVkaDB3elJRZFN6MDBQNFdpQ3FLZTVSTU5RYUVXd3ZHNUF5dFdUeUQ1VVlZTnd1emhMTDNxeGhvVk9tMHp2aDJtbHNLYWw0QzlPNEFQOXZoYThyVGJaQWh5eV8zTnEwdzRaZlQxbDctNV9hSE42M0UtLXVjYUg1aVQwTFQ2Zy1iTmFHZjBNOHZWSzdXZzFNU0cySWVKdmVMeC1sbEQ0Q1RYVmR4S1lyVXVjc3pXbWdLeVBXYVVGeUJRbkhmeW10NmYtT0JfMXJHdGxRTXBGYVU2VF9lZURPX3FfRGNxdEk5T3NnTUliaENIMzgtT2xTVE1UcEhYajZsLTA1V1lsanZtRDJaTXBCZXJfZzdvcHJwbXlOR3JzTXYyTm1oRDJRbUpzM25TSXpzSHEzX0MxWmwxRnEtREdla2RBNjdaV21JWkNNOU9Ta01JY3RCc2dscVhyXzZ0Z3RhOGkwSnNlSVJua2hiY3g2TlJvZF9hdmhNdnJFWjlPTDZaWkdHeXpUakdfc1ZFQVJVeVk5T3dQWkR3QWFpam1Oc29ycHlxMS1sMWRtcF9vYmlsVk5aLUN2ZzczQXFTb2NkT2VrZ190N3ozOWpzcUlBSHlNaGpSazd3XzFwWjU3Y0xUeU9MT3FsbkdDYnJHNFZrb25fMm5ER2xtOUV0TUZoLU1QbG5hRVI2TEdtQnNUQzRHUE1YT0dYa3NkbXFmMy1iSHoyVkhoVVpyNng5cTRSbXIyekk5NmJXbjJsaDRWQWkzRnM5VlpDTGNKa0hKd3FFYmZ3NGZyOEVzRUlHWXNDVVlRNW9HR1BVX0hZTm9Scm1SY19jd0JfRl9QOTBlaVFnWEVXWkNKc21XZ0xlY2FFWGZMN05TRmVCV0RWeUMzaDNQMVhUc0pYb2dTbUlib1BaWENNajNJYnMxQXd0S1BIMG1BTElHNjVhMWdib1pEOV9NdjR6d0Rqd2c5TGpuajJURmxDU1ZjVi1XMkxNb01xamlCZWFFWEpvbndtTHNHdkMzUmd3NWFHNXB5Z1JTMXExY1JKV0U0NkJIYlZiY3RCTExYV0JjZUdLU1hzQjhBSjVhZG9TVFcxd0M5QUM3YzFxMkd2X0RSbE5wTlMyYl9NMnRxU3FYV0ZZZy1SQlhBcjJyR1E0dERLcldPR2hHeHpDM29CZ2RBRmZMbHl0OG4tYWlvMHR5ZFg5RXZpakhZSGY0Z0x2RF82a0laYzBFTHFUYjFQQWdPM09Jb0pTaTlhc0JYODFQVnpFaHpYZXVwZnR1eHBnOTVRUmtHSVJHaE5SUGplT2RFbDlfTjIydVhUR1RQQmgxNTV1dWNFRlNLYVF3cVBjT2hDY3FGeHRicTFzcWpCOHR0eGdQcUNHQTZRNVkzZ0txZURGcTlRM2xjVzdOSUxyOXI5NWp5ZGRpUlpqSEFOcUJyazNjb04tZllNRXZvTUN4RGJ6ZC1GNHZUWTBrNmI1TFB4QT0=
+import React from 'react';
+import { render, screen, waitFor } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
+import { BrowserRouter } from 'react-router-dom';
+import JobRequestList from '../JobRequestList';
+import monitoring from '../../backend/monitoring';
+
+// Mock the backend service
+jest.mock('../../backend/monitoring');
+
+// Mock child components
+jest.mock('../../components/LoadingIndicatorNew', () => {
+  return function MockLoadingIndicatorNew() {
+    return <div data-testid="loading-indicator">Loading...</div>;
+  };
+});
+
+jest.mock('../../components/ErrorAlert', () => {
+  return function MockErrorAlert({ error }) {
+    return <div data-testid="error-alert">Error: {error.message}</div>;
+  };
+});
+
+jest.mock('../components/JobRequestPage', () => {
+  return function MockJobRequestPage(props) {
+    return <div data-testid="job-request-page">Job Request Page</div>;
+  };
+});
+
+// Mock localStorage
+const localStorageMock = {
+  getItem: jest.fn(),
+  setItem: jest.fn(),
+  removeItem: jest.fn(),
+  clear: jest.fn(),
+};
+Object.defineProperty(window, 'localStorage', {
+  value: localStorageMock
+});
+
+describe('JobRequestList Component', () => {
+  const mockJobRequestPage = {
+    content: [
+      {
+        id: 1,
+        name: 'Test Job 1',
+        status: 'SUCCESS'
+      },
+      {
+        id: 2,
+        name: 'Test Job 2', 
+        status: 'RUNNING'
+      }
+    ],
+    totalElements: 2,
+    totalPages: 1
+  };
+
+  const mockJobRequestStats = {
+    SUCCESS: 1,
+    RUNNING: 1,
+    PENDING: 0,
+    FAILED: 0
+  };
+
+  beforeEach(() => {
+    monitoring.getJobRequestList.mockClear();
+    monitoring.getJobRequestStats.mockClear();
+    localStorageMock.getItem.mockClear();
+    localStorageMock.setItem.mockClear();
+    
+    monitoring.getJobRequestList.mockResolvedValue(mockJobRequestPage);
+    monitoring.getJobRequestStats.mockResolvedValue(mockJobRequestStats);
+    localStorageMock.getItem.mockReturnValue('GDM');
+  });
+
+  afterEach(() => {
+    jest.clearAllMocks();
+  });
+
+  const renderWithRouter = (component) => {
+    return render(
+      <BrowserRouter>
+        {component}
+      </BrowserRouter>
+    );
+  };
+
+  test('displays loading indicator initially', () => {
+    renderWithRouter(<JobRequestList />);
+    
+    expect(screen.getByTestId('loading-indicator')).toBeInTheDocument();
+  });
+
+  test('loads data on mount', async () => {
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(monitoring.getJobRequestList).toHaveBeenCalledTimes(1);
+      expect(monitoring.getJobRequestStats).toHaveBeenCalledTimes(1);
+    });
+  });
+
+  test('displays content after data loads', async () => {
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    expect(screen.getByText('Job Requests')).toBeInTheDocument();
+  });
+
+  test('handles API errors gracefully', async () => {
+    const mockError = new Error('API Error');
+    monitoring.getJobRequestList.mockRejectedValue(mockError);
+    
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.getByTestId('error-alert')).toBeInTheDocument();
+      expect(screen.getByText('Error: API Error')).toBeInTheDocument();
+    });
+  });
+
+  test('renders filtering options', async () => {
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    expect(screen.getByText('Filtering Options')).toBeInTheDocument();
+    expect(screen.getByLabelText('Job Name Contains:')).toBeInTheDocument();
+    expect(screen.getByLabelText('Status :')).toBeInTheDocument();
+  });
+
+  test('filtering form inputs work correctly', async () => {
+    const user = userEvent.setup();
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    const nameInput = screen.getByLabelText('Job Name Contains:');
+    await user.type(nameInput, 'test job');
+    expect(nameInput.value).toBe('test job');
+    
+    const statusSelect = screen.getByLabelText('Status :');
+    await user.selectOptions(statusSelect, 'SUCCESS');
+    expect(statusSelect.value).toBe('SUCCESS');
+  });
+
+  test('apply filter button works', async () => {
+    const user = userEvent.setup();
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    const applyButton = screen.getByText('Apply');
+    await user.click(applyButton);
+    
+    expect(applyButton).toBeInTheDocument();
+  });
+
+  test('reset filter button works', async () => {
+    const user = userEvent.setup();
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.queryByTestId('loading-indicator')).not.toBeInTheDocument();
+    });
+    
+    const resetButton = screen.getByText('Reset');
+    await user.click(resetButton);
+    
+    expect(resetButton).toBeInTheDocument();
+  });
+
+  test('renders job request page component when data is available', async () => {
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(screen.getByTestId('job-request-page')).toBeInTheDocument();
+    });
+  });
+
+  test('handles assignment group from localStorage', async () => {
+    localStorageMock.getItem.mockReturnValue('MKTY');
+    
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(monitoring.getJobRequestList).toHaveBeenCalledWith(
+        expect.objectContaining({
+          assignmentGroup: 'MKTY'
+        })
+      );
+    });
+  });
+
+  test('uses default assignment group when localStorage is empty', async () => {
+    localStorageMock.getItem.mockReturnValue('');
+    
+    renderWithRouter(<JobRequestList />);
+    
+    await waitFor(() => {
+      expect(monitoring.getJobRequestList).toHaveBeenCalledWith(
+        expect.objectContaining({
+          assignmentGroup: 'GDM'
+        })
+      );
+    });
+  });
+});
