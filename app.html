@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="/dist/vendors.css" />
     <link rel="stylesheet" href="/dist/common.css" />
     <link rel="stylesheet" th:href="${'/css/' + theme + '.min.css'}" />
-    <link rel="stylesheet" th:href="${'/dist/' + app.name + '.css'}" />
+    <link rel="stylesheet" th:href="${'/dist/' + (app != null ? app.name : 'scorch') + '.css'}" />
     <link rel="shortcut icon" th:href="${'/img/scorch-logo-' + theme + '.png'}" type="image/x-icon">
     <link rel="manifest" href="/manifest.json" />
   </head>
@@ -59,10 +59,10 @@
     <script th:inline="javascript">
       window.routerBasename = [[${app != null ? app.routerBasename : '/'}]];
       window.appConfig = {
-        theme: /*[[${theme}]]*/ 'default',
-        appName: /*[[${app?.name}]]*/ 'scorch',
-        currentUser: /*[[${currentUser}]]*/ null,
-        build: /*[[${build}]]*/ null
+        theme: [[${theme != null ? theme : 'default'}]],
+        appName: [[${app != null ? app.name : 'scorch'}]],
+        currentUser: [[${currentUser}]],
+        build: [[${build}]]
       };
       
       // Debug information
@@ -112,7 +112,7 @@
     <script src="/dist/vendors.bundle.js" onerror="handleScriptError(this)"></script>
     <script src="/dist/react.bundle.js" onerror="handleScriptError(this)"></script>
     <script src="/dist/common.bundle.js" onerror="handleScriptError(this)"></script>
-    <script th:src="${'/dist/' + app?.name + '.bundle.js'}" defer onerror="handleScriptError(this)"></script>
+    <script th:src="${'/dist/' + (app != null ? app.name : 'scorch') + '.bundle.js'}" defer onerror="handleScriptError(this)"></script>
 
     <!-- Enhanced error handling -->
     <script>
