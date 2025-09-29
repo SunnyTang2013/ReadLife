@@ -1,2 +1,187 @@
-AES_ENCRYPTED_FILE
-V8gw15brZejrnDd8sHv79WdBQUFBQUJvMk9xX25tZnF0TVVSVlVfNnFxakVxQTVGUXRJcnJZVkdBYjhIZmRsRFZrX1EyRXRJdExpWkxFTzNqNUdva19PeXlyOHJ2eWktRVByYWxwQUJwLVBkM1dGd2xnU3RiZldERXNfMi01WnhHd083TEtBRm5rVmZfQXpxWTdRck5zajNmbUdFYzhSTjhCVEtlMk9qbmlVSEozMFdMYmJiYXNFZlZOYzYyUldGczhFdUhrQnRtWGdGTHV3QW1BNTFXb0w4cElqLWxQQjdPVHh0dkJ1dm1aLWZnSkVnemthU29WTFk2clEzcUd2SW1HMTBuMmphbGtfNFdqemhmY2I0enFBV3NMckxtWmUzd1ZLeEVWWVB6ZTFKMlRxZFBoVmNSUHcxNmhDem9DTzRRU2JjMTd5UDBzOVVrVWl4MEpvMHlrc21MTFZDdXJVQTlCeTZ2MFRZbkcxRnJ2Y2tyYWRYMG9LY3JSOURGYW95OU5DNHhKVm1kLS0xcVhMdWlJTk1ZUl9JNk92TE5Kc2xMOHExZ2t3X2FrYVk1N0s4U0JWUEtQUlRneXh4SVdLWDdSbkJnYlEtdm5IaEtpNDNWZmo2VWxRcVlDRktZcUR6TUdrSUZ5dDJYWjJ2SEZQSmo0SE9sbFRacHBUYWdMOEtQSjlCVEJ0eWFFa0ZFc2VXNXJkbVFHRjBiMnBtR0VMMzFkVExzSUVSODZRa0JPbWVjcnM4Mm9LOFBCSVV1Nl9jSU95WUpqTHRqWkR6LVFZNExUOXhCdXN0RVd2MFFKR2tsNUhOZkw4TDhlQ09SdW01VFFIdFdHSEVlenUySzY1aDBVU19makhZSDZYX29XR3NjRlp3RzJFU2k5dlJmVkZGQW5RNGc2RUxNQjlUTW1lWnZqNWxiS3JCdEV3M29fY1dueXhvaUp0bjZvOFpVVWREQUxDS3czOWFzeGZTb1dBaU5RU0c5dlNVVGEwaFdGWm9zbThjRWw0bXJ4WFVZdkR0TDdWeXZnbnhfM21aek04QVdxT3Y4dk9wampIZHRhOFlMZ0Z1VnRfanNxM3M3YjJDb3lqNS04b0doZU5CbmEzMi1Od3A0WDdKVEtIcERXZEFVNEpBUjdCU1JRenBFODd3SDltMjZaOHBmWWlLZGRRSjVjVTBNN1g1QkNHS19EcVVUb0ROUkIwb1RQTnluUzQzV0NucjBQZEVTU0Q4RlI5ODU1SmFpRldMdDd0ZFNRZkNPR2FWcDQ4QjdYZElCM0RVZi1id0NGY09oeHMtV1VPdVBwWndISUhTUmszTklzVjAwTjVaQXF2NVFSaFlBVVNFYmhhM2N5TmsxZ3FKNERkVVppMUZPOHI1Q3A0TUt2ZG5TX0VyRHA3R3Y5LV9QeUh6ZVplcHR5Q09JNnJtWUVxQ0xzYzc4eWpCUzJIdnJ3WFh2UWlRZHQxQ2x0RWw1ZTNwOFZ4WlVLeklyOWg0TnlSYWlqT2hRb0w4alVudmF0aFF3SEN5WnV2RGR5aGFxcW91YlJpMGJMZXlHOWJCLXFKZEZoQmhhb3JZbWlEZmtVZS1kVGprYTU5ejF5MFI3aGJ3MWY3T1VWc2s3TEpqQllfRkZSMko3b3Q3VEJiREFaNWNiU2lBc05fQlg1T205ZFgxZW1XNzRfZklJeXQ0ZlZyMzF2RnRnZ3dwSWhaN0xIUms4UV9xbEZBX3NwbVBGVFpkLWw3dGhBNVNtZHdMTGNneTlva0FPcVFmWjFNTk1BX05SRm5ydml2a0JYbFYxSGtqSmdzUEJwSG4yMnpEcTBpSkpQUU1LZVRXT0VCNEI3ZXNUdjR2OUtaZnR6SVBid3YzS0o2LU1qRkI3MlJoUm5ZN0ZWRHE5SndnbVdvSTB1cldNb0cybzMtOTQzeGRGT2JoUFJfSGxIYmRSMVM4Xy1ObnR3MElOdFhETzBKRDJyLVE2dFBGLXowVGQ2Z2Nud0FsZFNKM2pybjNBajJzbXZxMlRXYU1UYUgxU29RMDhoZkFKZWVlTjRZdTVyTTk4c0hrWXdETzNyYV80WU1KMVFQc0U2VzhKUGRFWHR6QTMyOU92MklzX1NveUwtcXNfNTJIdVloaXdEYW5ja3dqNUxmazN0TmN2TVF5NXlyRG9jTUxwOEhiRmlrT3gwUU9XWGNseE9NdXJVbE90bVd6UXpXc2VjUWxhVk9vS1VWbGQybWcxdUJBbnZHUl9peXpGMkVzeU9YZnhoZEo1MGo4NFpxS2hLZWEzdFFKTWY5V1l3ZjlkMmdrcG9JWllPbXFRcVZDV0pmbXBsU1NfeTBILTJuT09jbXljTFNhdnhONW8tYy1ZcmN6dlFnd3hRcV9femw1Nk5DLUdRS3BfR3FyLWhmLXBGOE5LR2h3d09iOU56amh2eDBuaEM5aUhTcHRjUUtJWFFNTzlXMjJsY1VuZXlJaXhRMWN5dUp1MlA0NVc0MGxLN2lsV1A2ekRDRWZIaGkyckdSQk54UWpScG0zN0psZFh3YUJOdlgxTzBpcGJycVV1UEV1eEJnWWVGNTZZa2FLbVVsY29nMnd6b2JFQUxYaXVZdGJPSnhQa2NGSDYtaDhmQUUtVmFaZldKMDNBSUtvTzhOMlpQVFNPTkF3a2ZqVDRXYmNDTXFFTVJJYVhheGZmX2R0d19pTzlpYXVmMEdZVWhRQ3BwTXJvMjBld3habERJUUktOUpmbmtLNmV5UldKRkF3X2tRWHB3N2JBVjl2MWR3cVZmNE1VTzRjVDhEN1dieGNDU1UyVmc1d3NLSlZZR05JYW5XYTVacDBfY3JOVGNMclU1SVdVNnppRjM4WjZIcGFrbDdiVnBSdkc4dU04ek9BakVYYVJUaXFfQXpNQnVxVEpsLWhtZGZkYkdaeFRpZ0xTWVM3Q04tQy1BMkpsb0dtcTBJeGNhRnlhanFrQ1FyTFZDUFV5Z2VFX0tGU184dTFSSFBGUHdpSVlmZlNWSnpITHdsOG5TZ1JjY1ZZMFY3VXk1UDVmQzVoRndhTkx5M2tFYXdVZkhDNHFfcURqOVpIUXhTTzRlXzRBczJxMWM1YjFlTUhiMG1qQ3RWUmF4MW95YjlabkhjN1RFNVBjUVlBUW82SWF5MEpiWE1BXzliM3I0UFRjZkFaUkZJRFkzUGttVkpQQnprS09KZHQtRTBxdmFPajlwSTNZbzlMN3NMMGZmdWZTUnFGc1BlTTd3ek5JcUVNUnFoTk9BaVp3eW1rSXZfTGxlUG5qSUozaGRhMHpyVk96eGtTTmlxbUxWWkVkcEpjT3JIQUc5MEp4Zm9Qa2xYOThJQnVaM3laWGE3OFF6eUxtaUQ2N1owblpLbFo4T0d2bGRKMkpnRjFfcW93UzRDSDZTYmRHTGhtdTlzdkFaYXA4VEZPNkN5RnNTaGZDTXc3bnkyWEVCTkhjVkc4NmJLRlBreDllSkt2cm5ROE1XRjZodzZQU3pqQ0I3dXk3cUhNVFNjUnhYeVlHNGM2UGcwTndiT1VURWVPS050bEFVdW1kZFJ4WFduTi12VDZLYWN4YUNMQzZ4cUc2cUtQbHlFOHdXMXBGTGZUT3h6TGZvbTAwdGs0RDlJeVFTQmtrcjhRZm1KalZKOExfMkhlVXJQc1EtaHg5MWhaWE1YYWloQnVyYnVjeTFuZXVleG1kaHhBVEhwdnc2YU1EQ251VklGY0FmZWs0UmdCSnhWNnBqWHBmT1R2d1k4OFVMV1k4aWplNkZwV1RqODdyODRGUFFCRFAtNWJXWDBxSE5tZUdFOWQ0ZUJpWUQtaXJ5elhhek1UeE94ZXVGX044cUtZTENuRk9ra0xIYVlqeW9tQTdhYW1OZjhJUkdjWkJRNmFEMGNhYWNhZWFFVjkyelhITmJlWTJjcU0tMHpLQTV0RC1vcXhVWDhGTlA4YVJtUEFKYTF1RTYzbHdNaDJ4cExNSWN3SmQ4NUtTdzFzaE1fandobDVaWFdtSXpERjJNdkthSTZ0RHpnV2ljNnhEdVowOWktbE5mdjE0dE5TaE82aDRsUkxCZHZlX004Y19QWWE1Q2JLNjZVdDZOTlZHcXpacWhsQ0FSel9XRXpJTV9LazI1Zk9qaWlFU0hIX2hfVmZSUlZ3SzRRTHdDLUd5ZDNKNGFtRWhtemp2ZGhRU2oyXy1Xb2h3alUwRTNXTDBwRW5BbFRtbnJsZnNtQlZnWnRKQTYtMGxFcXhqamY0MngtMHB5SzRTQ2hpM2JCUEZKWDlWakp0SDRWM2xHNC1NVmVfYVJKYXRRcnRJcTJ5NUVGdFB5anRLRGFIRWk1d3d5aVkxY2VRUVJRZU9oM1ZIRTZSRDZ1N0MyZEtzcHNrVzczRTdnUDhpOHhYN1ZCaG40SW9YTUNtcXJQdThWNVdFS3l6Q2huMlBXNE1CVWIxUW5PNEV5Z09NcFRZbHpyNEtXNENqWHBzMGlDMzlmT0hxNVhCaDUtdzZYeDltUDlPR2ZtMTRFaDR4d0pYbUNCNWdJME1MX21od1dPZXJDczNZbklFVjJOYUdETU5HVTkybDZvUHgxeFRHTDZvdjBQblhNRV9EaHEyYWlnQlJGX25rSWtWUFgxOG9XMDJBZjlCaHZGX2tHSVMyR291V2h5akt4N2JjWU82dzVMYVEzejNiSWdLS1YzUHFNajVHbDFlUldJSnpoM2VwaWxZanRYclV4SzFXUjBmSm5VVV9pUlRfRi1wUnhra0sta21aYUs3MUItV0hrS1J1Q2E2QTZ6ckViWGlGeEFua3lRQ1R3OGtsZzNlalRFeHphOTRUbVozVjhHRVk1TGFqUnRzYlN5S0FxMlBKY2R1MWttXzc2ejFCRXE0dWR4LXVEbTlWd0dhcUVleDJ4UDRpSjIzcm9pZGs3UlR1Z2U4NkpZeG9EQnBtRW81UVprTXhCQXhFRmN5WnV2ekJfYjdyb3gyU1VQQ254dlo5MDhXUWNLMXRpVVlhS1lldmV6bmZ0RDhMeGdfREN0czBaQjRyel90OHF6VVQ4WWhtcmdIZkl2Y0JyWVNCMUwzUURBWTVwcEp1YWxPMVVHNHlJSmxGTGxjZzR6UHJ6Z0wzRmsyWTVoOE93YWV4WC0xWXpGYTFZUEJKWVpJRHJCWE1iem5VR0tIcWN6RDZhNGl2YjZnUHpMbWxKOFNDMlNwVVEwa2tWMkQzRnZkZzlDMG1mZTIwVjhsTGFlYnVqeFVHQ0NhY25TajhPS29RcUp0WEh2UjFNLUJSZDZFSWxyZVN3R0ZjX2ZIZ0sxcC00eU15NTI3OGlPcTJhTGsxdjVFajQ0cFA2SDVPQTlVUzIzMDNPNFdHaFdqMk9qVXBwcVozb09FSmhFTjhESEQ0ZF9Lc1hMWDd4cnBYMkFTemdHZGZHSkxiTU1iaXhld1pkUXc4U0R1UjlEZTZiOTM3cDAwOVFlZWp5dEhDR0EzQzM5VGVMZHc0WHYxRnBsaXRERld4R1Mtb2ZKTTR5TGtvdTRhM1NLLTB6cDVIM1Bwc3VQN1E2YnJlNzYwalFFcUNKR2VCRTRUQVAxRGRmR1hscWt6bFRSeWdrQUlNQ2RqdWpxbkZ3Q1FLVnpHb0EzMmljYmJHWW9RM3p3ZV9faUhSZG5mNzV2X3BMQ3dMcmRvakJ4U0VBSGNsV2lycF9KcXBUWXNyQ3NLTlZ0ZF81djRxcDVEbk9scEFFeFNvSFVvZGhINWxoYzZfVEpabVg0dmRJMXptdFY1UjlQY3JYVl91Z2JySUVxYzJwNzVXak9qRXlJcEZiY09SRWczOGNhZ3JZUEdQUW9fT2I3X1BmSEw3OFZlWFotYW96RHdmX3dXci1UWHdkY21LS2dyN3RuQzRGQUV5RGZPMWhVZ2NhYVk1dktjWEZ6YTlSbk9BaENITzlyOHhrZFpudDJaUXp3dTZ3UEtXdDMyTXZnNUZtUEwwaG44TkNEbTlvcC1zWDFUaEt5bVB2VTNqQ1AzUUF1V0QyUEllTVdnNVRMWG1KMkJ0aXlpMVRXbWxoU3ZldE1mazJPWWdpaWFFbTJVaFVodmtFVkhmSVBsMWpaVXJHY0V3Q1l2ZzhtQXlEbGRpZWh1MGVXeHI0RXFuSGx2UmNwNnBDejk1XzJOVmsxX3JjT1h1SDNvWk9ZMHlnT1hYdDJEMWRHc3Yzc2hEaEotSjdUcjdzWm1ld3IzSzd3WE1DUEI4QjcweTRfU29hRVBwRUNmbzNaX1FjRE00Q2JfNnRmRDdVODFjMG5lYmxoT0xkLXJmWndpZnQxYnA4VkowdTdvY2xPdE10WlRhWk02SWF0WndIdHAzYkVYbEo2WmU0cnh3b3B3SldtVUZwVkV2bkpiMG1EQ0N3eDlIenVLMko1ZHVHLWsybm5lbU5TMFBYNGVVZDJZeVFxYUtvQnJUaTNOUlBra1U4QXUwcmZ6X29fa3hDaE53aUdLTjFPOWRaUVZSdU9tcVFmY3lkdTB1TnlMcmQwTWEyM2NRV3l2eDh3WEV3SF9tVVdiYzZsWkcyVFlkWENhVE9RNk9GTHBhaGpkeGxINkpOQmwwdHh0elNkSlhzWVJISTdfU2F6eDNxR0FVcTFRS256SmNUN0VjZFBIUk5fa1J2MHlkYjZjZWVsZ19BcUYwMjBjUUdpV3AtUmlnekI5V1hmd2FDM3dzWUlQOGppVXc4Q3JibzA4TVJDUTV0VnE0SGM1dHlfb3lHdUg4YXVYV3pGcjd5UmRZQU9yai13bjZZV29OdThqSjdIMjNpX21MZkdURU4xT2c4WU1Ga1FUQ0M2VXdhSG5seDZCV1BxbTQ3QThrMjdqVGVlQnN2QlNUVjJoLUF4aF91QWJFZFptbWJ2Z1VlUDZMd2E5eHpkQkpBOTFMT2xfZHdJMG1QSDNIWlZBakFFRTFKOFVVTUdQWTllN2tSRUNfMXdhU3lKem84czR6bHJtRXlMaGl0ejUxZ3UtVTEwb1VtWm9YVHhIUTVYeXF4Q05JVndNRkZ3YjVSbTRrSmYwOEtaZHl4XzZBV0J4QjczMWpRWTBZYnRLWW1RYVZELVVPdHB4UEx6UlRtNjVPVEp4V3phTG5NNFZOblFwSVJMU1lpWk5UdEJyMEtvMGhtRjkxc1NlTEt5MGJxaWNEQTA4UFNXNGEzSUs3N2NpRjU4UkN6RWpYR2tleW44RWV1ZlJ0UXYzUG80VjhYUzhENmlBSTZHeEVCUnVobnpaeFVKek00OW5fX0lDWEd6MVhPY1V2WlMtLXhOQTNTOWJJN0M3N2E3ZFlYSEJ1N3FaQlE1XzJhb2RRQkVCaU5oTmpYb2NOdnRJSU8xQTYtbEJzRlFhNVBJTUY5MXUyRHBOanV2aGpYS2ZBOV9TVHJWU3dZeFN0N0RyalRWcVdxSTkwRlV0VC1udEw4THF3WkdnT2NUenYzLUhpSWhGWWZnb1NhbDhrYzBGLUVRODN0NHhSd0hkYno5MVVIMUl6aElwOXdiRGZnUDJPelROcUdlLXlwdW1NeWxyYjY3dTVrdDBYMFlSU3l2TVRhT2MxVmdwOVdITWNpdkpIZXZsb1YteHdQeGhXME1nZXJqZWtNN0NEZTNYUXlpc01BbUQwd180OEZhV0VlTTdqV0t1SDA3eDE5SUNHRWZlQWw3dE1VbDhhUVZUOXo2SVlyNktzbnI2amhLcmlKZzVZcWFTVVMxbnVuN19WeVNrd3pUVmlCbTk2SWdQY18yeEVQc3prWEpwRXQwZEdoTGZpc1Fhcm5OMTZpdkVCUXRVQlBWQzh0SXZ1T0JWejVJTHBOaWxLU1REZEstT2tjdHZOOUtZZTRTaGMwMDFndm9kUFVkSklhclFGeHBNRGFxLUYxOEsyUFpSZnNHTVVvTlc4SUpzV0I1WWM4ek5fcWpKMlM4R2padWI4SU90cDl2M2pXQlVQQUEyZ1MwNUd6dnZGVmxLY2lNbnVXb3BRYVN5MDhCeHlpRGZ4dGlTQXVxcWctYUF3aEE4WjJTRFZpUFlqN3pKRlBjZGNZZnBOVGNRYWZlVVItTVNlOUJHYkY2MVRQcHRlSGFTNmlKcVVkdG1WYUVmX1VRVFp6Wmh6VkUxbUVyc2FKQW11N254UTVwbXk5Q2REb0ROODJ1am9DX0tuaktxLTZDRkJLU3ZubDdnZl90dFR0cTF0N3RMWk9TN203Z18za0FPRFJXQmhIMXBVRkE4MEpQcXV6M0xBOXRPMkgtRkNicVhjazBPOWRzM2kwR0VjV1JFdWpEVTYwMm9NU1VhRkhGSVhSX255VjZ4TlFEYXM3WDkxRzdDb2JaZWpkeVRocFJySTNLRTgtN2ZQdUJxQTZQTU1qMlFleFBKVUZhMTV0QVJ6WElnZE1MRXJiSmFMMk1mQVVjLUZJSl8xbmFOY1VfM3lGSjVjNHc3NkIwYWpHV2M5QUtpamR4VEZPNmxTSm1OUkxjZ1lZbmRlZ0tHYnIzZm55a05RTm1DU3lpQ3NRMFBHd1lHdEZsbVNicjBQamVidjR4LWR5Uk4zTml5QlpyU0NnZXZ3THJkVmhkNFdZRDZxZGVMdWJ5NDdmS2xuRXNLOFFuRUVjZ2FYUWJCeWxaQi1iREJnanFjZm01THhnY0tOaWQ0bUE0cXVsQnRLWXgzUUZCNU5IaV9Dc2tXeXFIM08tVWdPS0pjd1BDUVl4bWtiTmltT01rYWF0bzhEMEo4Wm5Nc2MtQk4yTlJDdzVBNWNBSk80ZlhfSGVSekI0dGFrb2todURsa3U2WXdGcHF1Q0tiNjMtSTR3TU14SUFXYWhXUWNrX1MxUFdpY2taNTgwVFItVXl2VVZvcTBuZWhQYU93aUZWRDlEODlFd3cxQmhzTjFHOHM0TXo2WFBDSlA2aWV2X2x6aGtybDlDd0FYN1hRNEUwMGpDajR4eUF3S09Kb1RWY2RHT3dnY3lzNEZYQVp1c2JtaTZHc2VOTUVLT2J0UzJrSzd6QS1RZlFMWFlMUU5HX25lajlzSkRha1NPbnJsY0o4TmFsVU5zSTlGVE9WQkVNWjgwZWVvVmFFa2tFdG1veFVaU1o2TGMxMlRwSkVwT1NHcHB6cE5EdHM5aERseTg4b1c0YkoxSFBDT1hwY3VqMkthODB2X3JWLWJHYnhubG43LTVubE9pNXlQdkxiYWJsd3MwcUhsZ1diNVJodms1N3ItUUhtMFB3SGNrd0MzQUxiZnJPalFQREliNm9Hdk8zZVNXZ2xJX0FVal92QkZ1MzYwQWdFMjFla0VWaXhCSEtxel9ydFg1cWxkMnh3WlFuMU9KcVJfVTNxSHVncjJCZ2ZKSmNJNHVqSnNTWG5zRGgzU1lUMnMtVHNQS0V6ZTNnTEN2TU5YdTFjc1Vwb1puTWt1NEZYSGRBQ3QyRE9aVDJTSlpMLUNZS3FNMXlReEZzejFPNkNqSGFJczA3MUE0Qkt2YWk4Q2ZIM3BXNEpQQzhPZk1xY252dkYtXzh6OE1STVZCVFBoU2FhZXJXa0EzUnlmT2V0bDhKQXJ5bTlYaUUySVpPVnA0SU5abUxNX0dRbUdaeWNrWERVaVRLakhTSkJWdWpoTUlQWXNhMjYwVFB2bU1BdWxiaDJONFBwWmtMUFM2RlVRTFNySWltdnNVSHdvS2V5ak1iZ01XRDBNNlBBT3BZb3MwM0JCMzl3dWlYMmxJZk14V3hhWmk2QkdUZDY4cEtMRkp5bVZ0NWxpa21oMC1TWVNoS0VJMm5kaVRlclhycWFNTk5VTUk1R0dQM0gzSWljRlpyY294bWJCTk5BRDNTX0xzSjZHa3ljWThCcmQ5a3ZtZlNpN09JS0Uzd0liU3JnQzNHQS1LYWZFYzhqcXh5QzdOUEVMZVNnY2tPMWJJbWxkS0RGRV95cE9jMXhWa0VEcTM2SzIweEU5MnItbnBYY1JpME5GNzUyZWxhTlRtVmhwLTBoUmRpZ2ZBc2hmYk8yMlFJLXBaM2t4V3dLUURRWWtDT2V6cWtadFlwUDZTVWlVZk4xNlM2NkNQcm44US14UWFxbHBYRWRfRjRUQTlrWXBQamN6MVBxVzFlU1dKaHVEUVptTFUzLVZXUzFzanRha3BjZzFkWGxiclZrQ0kxdnVQWG5EbXRkdF9Wd2xEMFBTcHVMdV9fYVVrN0pEdTFWRnI4Zm5kdG5LVE1mNkRhSUVGalc2V3IwVGV0YzN5UmhLU3VjaU9ua3NqdDQtM3JQSThJQno4eEMtbncybEk3ZWw3emxHa0hKemotZlJhSU96eFQzZWk1bFhyZjVwZU82V1VibzRjbjVBWnpHQlZ0Z1lIX3hNY0FhMXBqMURSVjUzcE1VOTRleDBtNV9lRVE9PQ==
+const path = require('path');
+const webpack = require('webpack');
+
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+
+// Resolve directories relative to `__dirname`.
+const sourceDirectory = path.resolve(__dirname, './src/main/frontend');
+const outputDirectory = path.resolve(__dirname, './build/resources/main/static/dist');
+
+
+module.exports = {
+  target: 'web',
+  stats: {
+    entrypoints: true,
+    errors: true,
+    warnings: true,
+    modules: false,
+    chunks: false,
+    colors: true
+  },
+  performance: {
+    hints: 'warning',
+    maxEntrypointSize: 512000,
+    maxAssetSize: 512000
+  },
+  entry: {
+    common: path.resolve(sourceDirectory, 'common/index.js'),
+    globalConfig: path.resolve(sourceDirectory, 'globalConfig/index.js'),
+    jobs: path.resolve(sourceDirectory, 'jobs/index.js'),
+    configurations: path.resolve(sourceDirectory, 'configurations/index.js'),
+    monitoring: path.resolve(sourceDirectory, 'monitoring/index.js'),
+    releases: path.resolve(sourceDirectory, 'releases/index.js'),
+    releaseManager: path.resolve(sourceDirectory, 'releaseManager/index.js'),
+    user: path.resolve(sourceDirectory, 'user/index.js'),
+    schedule: path.resolve(sourceDirectory, 'schedule/index.js'),
+    pipelines: path.resolve(sourceDirectory, 'pipelines/index.js'),
+    batches: path.resolve(sourceDirectory, 'batches/index.js'),
+    searchCriteria: path.resolve(sourceDirectory, 'searchCriteria/index.js'),
+    quantAqsCoverage: path.resolve(sourceDirectory, 'quantAqsCoverage/index.js'),
+    metrics: path.resolve(sourceDirectory, 'metrics/index.js'),
+    profile: path.resolve(sourceDirectory, 'profile/index.js'),
+    tools: path.resolve(sourceDirectory, 'tools/index.js'),
+  },
+
+  plugins: [
+    new MiniCssExtractPlugin({
+      filename: '[name].css',
+      chunkFilename: '[name].css', // Use the chunk name instead of its id (`[id].css`).
+    }),
+    new CleanWebpackPlugin(),
+  ],
+
+  output: {
+    path: outputDirectory,
+    filename: '[name].bundle.js',
+    publicPath: '/dist/',
+    clean: true,
+  },
+
+  // Enable code splitting for smaller file sizes and better caching
+  // All chunk files will be automatically placed in static/dist directory
+  optimization: {
+    moduleIds: 'deterministic',
+    runtimeChunk: false, // Disable runtime chunk splitting so each entry executes independently
+    splitChunks: {
+      chunks: 'all',
+      cacheGroups: {
+        // React and React-DOM
+        react: {
+          test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+          name: 'react',
+          chunks: 'all',
+          priority: 30,
+        },
+        
+        // Put jQuery and popper.js in a separate chunk. The bootstrap JavaScript library (included
+        // in `vendors` chunk) requires that jQuery and popper.js be loaded first.
+        prerequisites: {
+          test: /[\\/]node_modules[\\/](jquery|@popperjs\/core|popper\.js)[\\/]/,
+          name: 'prerequisites',
+          chunks: 'all',
+          priority: 25,
+        },
+
+        // Chart.js and related charting libraries
+        charts: {
+          test: /[\\/]node_modules[\\/](chart\.js|echarts|echarts-for-react)[\\/]/,
+          name: 'charts',
+          chunks: 'all',
+          priority: 20,
+        },
+
+        // With a lower priority, put all other vendor packages (from `node_modules`) in a chunk.
+        defaultVendors: {
+          test: /[\\/]node_modules[\\/]/,
+          name: 'vendors',
+          chunks: 'all',
+          priority: 10,
+        },
+      },
+    },
+  },
+
+  module: {
+    rules: [
+      {
+        test: /\.(js|jsx)$/,
+        exclude: /node_modules/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: [
+              ['@babel/preset-env', { 
+                targets: {
+                  browsers: ['> 1%', 'last 2 versions', 'not ie <= 11']
+                },
+                useBuiltIns: 'entry',
+                corejs: 3,
+                modules: false
+              }],
+              ['@babel/preset-react', { 
+                runtime: 'automatic',
+                development: process.env.NODE_ENV === 'development'
+              }]
+            ],
+            plugins: [
+              '@babel/plugin-transform-class-properties',
+              '@babel/plugin-transform-private-methods'
+            ],
+            cacheDirectory: true,
+          },
+        },
+      },
+      {
+        test: /\.css$/,
+        use: [
+          { 
+            loader: MiniCssExtractPlugin.loader,
+            options: {
+              publicPath: '/dist/'
+            }
+          },
+          { 
+            loader: 'css-loader', 
+            options: { 
+              url: true,
+              sourceMap: process.env.NODE_ENV === 'development',
+              importLoaders: 1
+            } 
+          },
+        ],
+      },
+      {
+        test: /\.(png|svg|jpg|jpeg|gif|webp)$/i,
+        type: "asset",
+        parser: {
+          dataUrlCondition: {
+            maxSize: 8 * 1024 // 8kb
+          }
+        },
+        generator: {
+          filename: 'images/[name].[hash][ext]'
+        }
+      },
+      {
+        test: /\.(woff|woff2|eot|ttf|otf)$/i,
+        type: "asset/resource",
+        generator: {
+          filename: 'fonts/[name].[hash][ext]'
+        }
+      },
+    ],
+  },
+
+  resolve: {
+    modules: ['node_modules', sourceDirectory],
+    extensions: ['.js', '.jsx', '.json'],
+    alias: {
+      '@': sourceDirectory,
+    },
+    fallback: {
+      "path": false,
+      "fs": false
+    }
+  },
+};

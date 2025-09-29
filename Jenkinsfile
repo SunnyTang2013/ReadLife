@@ -1,2 +1,414 @@
-AES_ENCRYPTED_FILE
-V8gw15brZejrnDd8sHv79WdBQUFBQUJvMk9xX3ZNd1poU0F4Rk1DUmQ5Qlp5ZUdSdUo1VllaeG1tMG0wWXNVS1hpUEtRTTVFWno1aEdaSmp2T0dmOUtlemhHRGJSUm9NUzV5SUlObnVwS2h0T1ZGaVhZWFR6aWI2VzlBT0JmekFIR2R5RkZqSW1vMWdGNk1LX2xxdl9WMEUxOW1FZlo5dmdHYlprejQwc0ppR3lkMmJ1YlZMNEZwQWtJY0JSVEI2WkNjUm5wZUNGY3RqdEVyS2MyVWIzamNyOHBlT1pKWUQ5OHQzMmlEWTEwQ3JMUjNpVDM1aWIzanB5R19BQ3RISmlqZ01pMzBGMlhMOUxSVW8yS0JRLXBBU0YyYlh1bFBKR1JqRzY2SkZoR2txRkJQTEVLc0FIdVctaFpzVWY4MUJpejVqaTVDVTItVkI2OFNhaU5wR2xINjdfSWlTN2RSbU5lLUdCcHJOblFPb0NpSGhTMzJPN3YtakY3WGlDMXpLcnFtR1dtbk5DalpHc05YdEg5STFMQkE2Y1dzWWt3QXZxX0Zpd0ZyaEVMbVVBTTNWWXV0bE1SMWdHRjhudlpDYjZOMC16REJuaWJYY29QT2ZpYUtQMzZEMFpjQU16UlMwc2lZRDR1M3JMT3JDNEFZUUNRSXRrcEg2MGN0cVJ1M0JzdGM2MlBrQmZveDJwOUd2VnVJRktqZlRubExYSkVUN3V5ZDVlemFHZTJtNHFjSHhKR2k1akp4TjRmcWMxS2g1OTg2Y21iWnlMUmRsa0tCNmNGQjRwV0hHQWZaYTBlSFNwREl6ZWNTbGpFanduRDhja2N2ZlM5eGlyOGNLVzZTemcxOXd1a3RiS2ktZHZ6VmxVbEd1VzY1ZFF4c2pIVEVGNHJLYjBvNnp1Wkc2RUdmQnhEeGVWVndYUllWLU9uV045d2pWM1BtMXJRaUJIa1JJX3V3UERKM1d3SkZndjJCZ29uVm51RWtEWFJyM3FRU000d015NktjRThfbFZVN0IwR0ZyT1ljQ3ExQTFwMlNXZDVOLUZkb29XVW1qQldVUElqeVZuMzZFdGxNeTd6VnhwNFVFOE0yNjl2WTZBMUVZTFF6YmFicHkxcTRtYnN5WWN1Z1hhQTVwc012bDdEM3JlcDBnaHJYRUlVcThmRGVTQlJib1JpTnk0RGt6MG1qN1h6eEM4aG5GRU1MTi1sb3diQ3BPUG5BNlNUdk1RdXlqQkxTcE51cTEzSlRlSXozcWt2STdYNkpzLTRtSUkxR3J6TmpCVnRzcHJ5SDEtSzBFRHVfdnpWaFBnZ3VSMUUtNTJvNXpWZ1d4NFgxMndaNGRnMjVaaG9HRHBfTnBSZFBXTHZOSFBoXzJENE91WkczQ1R1NWE4Ml9WbjRLWGpFY05HZW9VZ1dMU3Y4YXJ5cVJSOXNBS2ktSEdiNklWQzJveDcyRlN0a0t0ZElDdGFLYWtwbUFLblAxVlp0U2RfVzRJdVdCQlZUU3VFeTNoVTR0bHV1Q09aeFB0RThrR01RcnphYlNvd1B0UnlTaXVIM3U4YnUwa0tFb2trOWJtaVhSU0tRQ2NRUmxoSVFzal9ZUHRyZ2hTbkdycUFwMFlPbDlTaTY0d0NsTkxuUGJDMFpLZjd4ZGp1allRY2NfX0JfOV8yT2R3YmJQUGhadlA0Um1VLW5JcDlaMW5td3BnbVpjZk5vUVFzaFhhVER3U2VzZlFBZ1Q5OEU0MnhpOUtZU3c3Y296S1l3bzVTY3ZMaUdCQXo1aEV1dVdKTzl6RGFGcTBKZ3VnQzVSUlhocVVCMC1xVzc1YjR2R0c3NlpTWkJiaWFwaEhWRVRDSG1UN3Z5cWFUdU9takUzRHVsVzg5VVAwQi1HRERUOGJqSnhpdVc2TlM2MERRenNCRUhxeEVrMEZoVEIxYUV6eFI1Vm5iUVE3dFNwZ21UbWhUOFB0UkhYLWJFNFROV3prNHB3cjl0UWxzV29HdDhoRTFMNjQxbWdwb3ZsODlobjE4YVNtakJpNmhEQU9tTW9jSFNtcDlWM0ttTkMyR1A4cXlVanhGRS02b3JoQlN3MTdCVmZiSkxaOUl1VDRBaUx0cDdYd2Ryd0s4Z3RfVHBjYWV2aUlCT2dSTmd5NUF4RC1iclFXVDVCRHBMYnh0QVJVWk01NmZITktIYlZHRWhWallGcEU4Unc4SU9SSEdVNVJvRjhTMXU4bGE0WjJTZnYwQlBsY1F2VUMzVGlyMGJINGlrcXA0b19SZjhxbzRKc2J1TnJla2JUX2RFSDRBSkdxbU1QTWJHRFE0NkVTRUVoWE1XUWJLUHpKcGJSSGNkOVlLc2xNRHYwM1QxZkwyUlR5NXA1aHc2WkRTWDAwZl8za3dFNWVFZWFWYV9WdVN5UVBRd3d0c3gtX2V2T1JLejltMmVMZTQzOXkzSEtIOGI2cU5WQ0JXZkNJemFtUXhNbHdaNjQyMml2ZDNsdDF3MjdKVUt1TFZrTWZ3RjlwMi1WNkt1ZGlhQ3ZwUjVCVEJUUXU0Vkx3NGV0UFdqZjlNekxCYnIzcGw2R3lwZHlLdl9yaFVjX2R3Z2Z2UjBLNUc3QXhWSTBTNXZpZ0VjSDE4Q3ZKdC1sS3FRakdEYkxIOGFKNWtxS3BRd0wxdnoxTEtVTWtTNHZyVThGM1BwUEFGUTRVVlJSM1ZCLXo4ZTc2OHJCQy1mUElLNjFmUzRrSnR1eTFybnAxN19nT2lVLXNYT2hzeV81dXZCSVlzRmk2cjFWQXNDX2tRSm9PbzF5RUY1djlyNE80TE4xMW5rbExQUE55Vk41RmVfRHZoblVWeXBELWN5cHNDVlFwbndHYnR6SG01NTRTVjZyYVUwb2xBV3V4VTZZMUFjX3NvS3RXQkNfRXBoLWJoTFB5S0RrbGk0VzBGaDRHRmFscTQ4WE1qZ3JIMjNLX3ZiWGdFbFFxaENFTDFzSUFBaVpGT1p0RUQ1ejNUSFBMS1VVNlUxeDEyRURsYk5SdjQwUWUyS3lpS0hjQmxSUzRSX1FNQ1NvVFhfUG5Fek5MalZaeU5TOERzQndkc0czNzdUTWoxOHVqbDBPM3NsbnRlcmFBSjRrdUF3ZWZFRnA2MDRDUG5IejA2RVhxMmUzMVR3ckhDNmZmYmQ0V3NFSUozWmMxSEpPMHpyVHBIekZMa2ZxcTlvYnItcVhQV3pFTTIzN2FHRGtyTko4bjd1bHlEOFFkN29BM0xkWG83OTVOamVSaUt5ZlBKdVFtSThQMUVhSnRXNTFuZGhmeUNvVmI2VWpVbFJzYjY0bFlOd2s1aGs5bl9sZl8xNHl0YUpYOWJyYXp4cloyeV8xMlhPdko0MWl4NlppQ1RiNC13WEtTT3FrenVuR0hDWC1CWVE4ZHRwSkk4U3U5N3l6OV9IUllRazYwRjZLN1RQZlMzZlNUMFpFZS1zc3p4NW9mZXc4VlVSOWpROU50NzhuTzNJQ19VQWl6dmFfd2Z4TEVsYWlaaE1qS1ppX2J4T1hfNm9zbGR1Ykx0Z1ZQdkFvT0RSVFUxdmktdThJREZPNHFkbWUxUU55MEFsMXZLM0FlSDJMajM1VWZVUk9oanlIUDhaTzVYV0FtQWxSYjlNYzE3dm1LdTZFbkJwRmVrNnRobjhGR2ZuZ1NEVDJ3S21UaDFyQUI2U3dtRDBQVTI0bVdFSmV6SmZ2ZG5RSmhIVGJxQWdSdEFsbzdJdXhGN3VMR0JzNDc1QUIxc1BBcFp3T0tldkdhbERDLXFndGxUV3VHM2J0b2lIbk1MY0xva1kzREpmN2M3X3BoQkJkSGhTX3dCODFrMnVHOU9rUF9LLUdkNGZoX280VnBESXVyODlfQmM4cU9hTFNVd2o4TXJKNXJzc1p3OTR0UFpqYU9nbXFjVmxrNFctX2pXR0hBZUgzcnFRaFRnTWRpTTJrWlVmRzhPdzBWUWg3REJra2l1Q1Zmc0VGOTZKRVViOEs5QVZYc3phM3VQZzVibE8xeDhPTTQ0S2ZLQXJ4enlFVUR4OVBwcXhERUFZcFBWc1FKV1JfcG1MaXBrTTFtTnk1aThLOXdDdFFWaE5kRjRkbzU5MllWU294NWl4NjJIWUw4MXdjaC1iTU1SZ3lMa2VxZ2ZxejhQR0N5NUZUdENDZm9ZODVxTWpZQ3M2dzZkQnVOTTBpcDlYa1MyTEdIS1dwMmY2SWdaMWkwQk1YdElrVXFsUjNydUhBeVFDcURxZlk2Qm1nVlB1bm9PblJUNlZfSmgtVXhFa2kwYW0xdFVBM3pFMmJkS1pTeWp0X1Y3WnI5YkJWS3JXOGNIaEQxSVlVbGp3U0RpMDRFM3BWc2VsVjFQUzJOOUNMaXUwT0I4VFpXRUZJVm9kQmpxWnpBQ1h5dE95MW5udXdfdEVhZ3I3c1VyaUMtOTlEZXhRUlJpZ2E3VDF2TUdSYWtqUUJOWGZZcW1WclBhWEkyTnk1MzI3TDBfNTZvOWpwMDZ0M01ZSTdMYjFGd2k1U1otYjgxNzBMT0QzV09CVG01N2ZOXzBWcWdHT3dXU2VWUnNXV0N5ektCcHVwbDQtR1JzVDc3bkhmLTZ3a0Y1N0h1WFFiWEpzUU9FcWlLdF9zaFdTQzVxZVhzNHU4SmswLVMtZER5US16bFR1WEpEcTNKYmNoSkdMYXNOdjJveXNCbTJYajhxS3J6OVp2X1lqWVRVYVNvZWlJX3c4cHI1RkJDRGdsZlFZU0hWVzY4dGJ5TFVLaHBNSDRsT3B5TTVJSjZWOU11bVhKOEozWjFCX1JxWGQ2ODJGV3cxSHBod05adDJ0b2lRd2NIVXJleGw3ak1GaWRIbWhab0ZZQ3F1OUVKTEdRd01TN0d4bVJsQnJsalRvXy05aEJqemZ4QXFWazUtOWhMVncxeWJhQ0NGTmRfbHFpVmUzWTJIY29WdDJwd0I2Z25wWVByNm9sTjIwMkRrQ3JJRjhkYjRyTVVjOTdWbVZlcXh1Z3hxYWJVejhzZmpHVFBlN1pEeFNmQUloU3VRQVA5N2RLMllnYndyUFlXLUJ6a3ppTEFJakJ6aWV3NHVfbFZMV2UzSTdpNk9HaVlfazhJSVE2QXAxOXRKOHd0OWRNZ2pBVkFXX0VwTWlSay1ucV9XSFppUFljWUo4RjNGMmNrN0hDZWVWYjh6SEVXbmd2RnVRVm04Z29uQUlFbkwyVzFwUGx6Wk9KTWpSMHhwMkFJYXdCYXYzaXQ3cFpYaFV3TUUyWXVNN0pnSXlZSFdZS0NVM25SMndrd1EyMmRRZ2F3NnVrQ2RMSjVyMWFncmVYbkw0TUItNkFwZ21fbTRVX3RrOVRzeHZub3FUSThBZGxSRnAyMF9CQWRtUWc4VnZGMGlveG5jaEw1MzRXRV9YWW43dDdYWURVMUg0ck83cHYtRWtiSVZTWDA3WFZIeXJPelE3Zjlkc0x1TGM3V0Y4Nld0MkEwNm9mdUVYT09FMFhWamdMa2V6SG4tNW05MHU1bTJDTU1lZTRQTWZneDA3Wk56eTdCVlJfWU03MVRndzlibC1IODl0TF9kNU1xbWhoaTYtRklyNEJmQ1NRNlpJdzlJM3lOLURaeVZhQmJFQWg2LVlNZzRqT1VJTmhJRlItOU9ZQVhsZEFXZ01tbnd4OWE1MGJ6T3FHd0ZYMkVCaHh2UVJuY1lGdjRfWG5OQjNpT1J4Y1U0QWJJQjByM0Q4UEt6NWMtcEJ2NmNNQ2t2Rl9RNExwVWRaaHFqRE9Ram1KbDd4SF9mUHZyZmhHTmFEaXZubkd6b0s3MVdnTmNRT0trSHpXV2taVjZHdEtPc3E5c2ZHS2tyYkMtT2g1V2YyQzJOekJVRFRKTnFYb3lkb09rSlVqN0FJMDFoc3dFdW56TTQyREpmUWcwQ3l4bWFyNEh3M2xhTDVuaGdHTm1laDQ3LWlSaXFFXzZqc0RTRDBjMndDbWoyOXhyNGhabjRITWJWelJJRnNXVkZGUHk1aGV3Vkxhb2VBTnN4TGxDVkgxZURKV1paZ2x1RVlzc0FjdHV1U09ORWh1Y182M3pJRzlLSGgzelFpa21zR3VHR3pxcDVGSzU2WGppTU9qTnBCbXFRVk8wX1hySzdzeWh2ejNydzN2elpiWXlvWFBKa3NIcURZVUFfY2o5d2Rla0QtRThWWm1nQlBKRzdZTUVRdUNCUF9XRHNhaklwNXludFJ2M2laSTFjcW84cWJsdzdvaS1uMzVTZ1l2UjdaYXdTTjRnT0M2OFdoV1FpeDNLb3VielMyVmxsSTU5YTZCZElnbXc1RmVXV3pCSGxkemR6aWZVZ251dGY5cXJ4cnZrUTc5WUNWX2lSWjhXeUYycnpHNUZHa1dDRkt4SGZPY0pMeUkySXh1eXlmamU1Q1JPUEVFckRzU3h1TmxPWWZKZ08yUWJsNEdvcGpzUHpKM0g1c09jOFNmSVdHaG9hVS1uVUVvc2NZVXQtUjdJQjJSVGd5Qmt5b1c0aTlHSklhUmsyeVZLSzRYbnN4WkZmWm9pb2FjNnNDYk05ODZNM3NaZjd0U3dvTlNVTzUyTFV1VXpiRGlGdWpmNlpTLUM4QXk4RmpWclNkU0FzSS1FWnpNVi1kRGxkZnNPR2NWWnZNYjdGWWJXVEhjUTRRNE8tMFJWSUk5TjBtMTFsZElyX0tReFN4RU03ZTV3enN4MEV6MFdqMHpWX2hCaWFsRmdZaXFObHJyVTdmMW5LeEFmU2F6ZW9zbktLVGtmTEZtR2UzUEgxUDVtSzI1N2k3cC03VVUwcC0wbk5Vbmx1N0kxdUxNdmJlZGlSTWtxSXFXQlZva1QzQWM5N0duU0dYRU96V2VsUlZKNkpwckhKb3Y5SHRfdmQ4RTg3dUMyYnVsRVhTVDFncXhuU25xcDhHaUxmWmlwOWZscklIbzJDb1c0U3lETnYzSUQ3RzhSYUNkR2JGNUFPeVJWNVBKbnNobjlYajNvNUlMSjZDcm0xNk55N0huNHdMT0VzUmxJejg5UmlVLW5PeTg4YjUtSHM2TDhaV2wxRGp2dlJadU1JdjA2MGdRd2o3Y0RxNTlMRTFBTW5oWGVfQ3ZmUjhHRDNIUDVIWmY4TkNINjhjRUFwb3doaTVkRkgzR3dGcl9YeEpKU25TNVFPU1pud1hyanNuVUtsNkJsVlBZSHJzRG5Jak1EN0sya2lzWlB0SjlRajg4bXhRclpXTEpxT1Y1Zjlic2RuLVdFSzFZVlJnLVNjTjRac2E2NjdHX0c5WWVJZFJGem4tb2c2NEhIdi0tZUpTdnQzWkYwb0lnczJzZGNSX3EyZVBuUkpKQkJJZnV0N2l1SUxJS2xXU1ItQjRmVEdtSkY0OFRyVU5DYWtLVnloU3Jrc1FPYm9HOG9JblJCb0VBc0wwQzlzclB0SXNpX0VyMUdXSXFFSjJoNE5IbUt6Y1N0YkswYXdEbHJDQWl3YmtGX0VsUTg2bEY5b19ZaC1xellZOTJKYkc1NDQ2Qi1jNEtrQ0tibkJoMUxKZk96cWM0ZkdZQThNMlBTMzY0VlprR2lYMHJXWHo2eDd1MTFTWHhBQkRwMkFIcUJNZDhTcTIxcVlpMUtJdGRMdlpnMmZYVGxCWEI4OFdPQU44NEtKU0N1NVhZdTRvOFo0WVpkTDYtc3pUVVgxck8zVFdDNHljcXRpWFB2X1lJNG5GZ1NlMXM3S0oyWGtHbUZMaUFYUW9BQTJLb2g2NndzdnFSTm9UN3dQbm5Pd3Z0YXZOUHdkOVBaWjNPempNc2g3ZW5oZ3BDcy1pTzZJS3ZNNEZJdGpQdW5RYXo4OHRmZGx5b3Q1SFFCakoxRFN3ZVpGQ3dwMmM1bWFBQWFlY2l4djBMOVBQUDB3dzl1V3NoX0dtNHNyOGlUNksyOUlYaHJFY1hHUjltUUxGMTM3NU83ZDh1WF83M2lQaHlkVFJBZFpFX2lpNGFjNm14cXNwOWswZG9ueFVhWXlDSnU0YURKdWZXakV2QTNNZUh0TnRZREZmSUY3YTM5WFYxZk9DMkJJUUhOd0ZhdjQ1bzY5UEdYbVdIdWFDTk5jMlZKS2dUb1dkby1uX2drWElFY3JSZU83QVRFc0xDZU9SQnN2WGlacWxjY3ZMRlRjUzFCZzBuOE1XMF9hTmNnSHowTEc5UUs5blRTUEhYMk9pV1N2MWwzd2YxQVJFcGEzMzB1LXNvVXlhUm5kQV9Lb0o3U1VRR2xlMXUtSzFzakNZcndtZTAtSVNlTV9ZdGlTNERkRmw3VERNaldQV0ZyZDFrd0JtbC0xcHNSdkNYTVNQNk96SXhIN2VfcVJSeVJrWHZ4NGplUENYLVUzVmRDWjNRWG1veWM1Q21BekRmMi04RlFtdk9fOE9TakZ1YnVWbUUyOUFLRjRtQXViOEtZZ2x2aUpzWTgwTkpFWExMbXRjUFlUenk4TGNDRGlFR2Mxb1ZVMW5XLURKX19fN1lBVl9lbDRvV3dRNmtEeTdXQjFkRGtBTTJBdVQ0TFNjWkhJM3R5V2FkMEU3VlBXaEVzWnpmbWpoeUVnRkxLUlFMR3NiV1o2ODJoXzc2cXJzbmFKcm90bVVBUzAtLVFkdkZsSi00ajFLdXpXN0FKVHBTX1QxZTg2WWxkV1dtSjlqZk1CQ0ppTzh4SXc4blZlTU5HYk8yblNnUzFqZDZidlVONjN4N3VJcFhYTGFBX21zRFNvR3FxQnpxcHhDaXhIczBKcW44NjZCbVZTenRNak1UVGI5c3hPS1laV05mREk3XzFoSWJUTXNrSVhkR1VSeDNBQUE3UHhDY1NXR003QUJQVHMzM3pMTTRnWnBlUjR5UmpOY2xYNjNweUxMYnZ6Zl8wdGYycVF0NkVmeWkzWVl3aVRDNUdGbnF6OTVhbExpaHRKbnAxQWJ3d3JJREIxRTgwcVpVOHZ3dC1TMEJ2eFBhTEJHeHNkTEdkMkh0ajlSMW9nN3RVUDdzTUJmc1pERUxRQmpkM3E0Q1ZMRDBoNXJCSXdXNVpHbnRfMGQzaUxoWWdXNWZQZ2V2cG5kR2p5UDB4SHMxU05fdGgzS01kTEFscmRyRnFXSS1La0xyLWZLbGF3eHE3bnVDa1hLT0g0MU03Zzh3UjRzX2NXZGIwUEFOOVFYRXBvTzh2SU0xd2NjRVJuOVk0S3NwME9NeW5wa05kb1oxcTE1ckZLTVU5a2hkek5FU2V3NnFqZnRjbEZHRGljWmo4U0pDT3JaU25ya2tUT0xuMElTd19jQ0MzVWJ1ckpJeXVVNDBpbEgxMndWSnFsYnJnRXNwbS1SM0Zzam9KendOSzF2MFc2T2Y0cVBqMHZIVnl5d0N6UkltQ1pMQlBWaGJhaUhNVkdEcEdZaGk3aklwVTRfcEo0QXFvd2F1U05lOXpoQWs2Q2VzLW8zQ19mU3R1V3ZFS2dKSldKTERPakF2SnlrZ00zOE92N3o0SEZwSVJMR3JFRGdKZVVKZ00wXzBRWlVnY0JLX01GWmRuYXh3NXp1UUN0X19SbTd1R3lJc0x6R1B6NGxnR3F6VWZFSmRBc0JpUjM2b0tEZ2VSdG9Na2U3eHk0MUFab20xM01mNTRZZHB1eUYyeHZqQ2lYaGFrcGt5WE8xVzhzQlZSSkdUQTkwNmtqczVGYkNFYzE3ZVVqdTc5emh5NzVKVUdvY1BkTlpLMXN5VHotcFJWTnJwZS1aMFRXZWRiTXMxb204eWdtUXMxdldVSlpiSlVCblBZWkN6NG50X1dISnJ3TFQ4VTRlV1E5VnFBMmdQVGtSNUt1NzlBamJDb1JNMXVvSy1lZWhBSlRGbnNiYnc0cGxma3kzY0Jvdzk4QnE1NjVjTS1COTVUc1N0OW5GNnMtN1haajdLa0hLSXFQc25WMUFHRGlJQVMwSDRwZnp2OHY4Nk9VNkFzaGhvbmFCUlZzRVNyV0hISmpadEpHa1U3T19LQXhkMjR3R3haOXdRcVZmVms5cEZLM1JPWm5ZVGg4VFJ2ZTFGRWJScGg5dE1DWUpZUldiSWNpTERLTkZiUFVOYTllYUhLM2JIZl9jUFNqbUlOQ0pPMWJlOUhoQVlKNXJSZnA1SnpIRlF4YVYyS2w1U25UMDRTWGxyMHhoazVQSThnb2pZUVdlaW92NlNfUDN5Y2Y0Nl9mN1VWZ25TMVJTbGtzNHg3X1ZGajJqUUxnYkF2bjVSdVBUbHhVM2RKbG9VRC1fZW5wX0VOMGQxb0hpX3pLdE9nQWlER2hGU3kzaWtYUVVlQjRSSTlGVXpzZFRsdVJKd0hCeFRTaEVBdFpjazVtbFFBT1ROckEwX0ppczdMbVd1V184Q2VhU09iejNWa2xOUloxTjJGUmFyaGpOSzVGUTNFOHV5aVJZSi0zVnNfU0JEc1lkOUlmR0lKWldrWG1sUkdzTnRwUzRDNTVxSnNHQ1pqN1FPUGFESlN6eFdiOEZiTHUxcndub3A0OTlHTWtXX0F1NDZ6d0dNOFd4anFiNC1xZ3d6YkMxN1l1TkdHSWdNWE1uR0l1Wk1EbkQzUkNuUURrSnRkQ0xidHpTYUlQMHdwTkxWYkxtOVhVb2ItMFQ1cndQZ1I4X1o4OXJQbnNQa0dQTWdDTUxyVThFdUV2SkNFZlpwRWZVbjhPenV4MUM4eldfeS1kUzVyUEk5YmxfY1NBUVNwRlMxcC1zdGV5VC15U3p5TXV0U2F0eGZyU0VVelNfbGROYmhtY21IN1lNd2ZJRnhjS0Q4T2xyNm9sVS03Q3E1X3dXUFdXWUQxYkRTa012S2tJT1BWUEUyeGR1ckpKc2dHa2pQQkJiODFpU29aNnhrV2JsMk1sUTVlZnVGQ1NIYUxfcVp2QmUzT2ttMzVwQnItamEwV1I0VGptNmE3RHo1YTlwWkp4cExET2l5UzhqQm1NSktPMG5mbDJ2b0xMOHBjSlpJZHU5TUZZbDdhNjNRMmNNVC1xUnlyYUFVcHBjQlBBU2F1SkhxcGVaYjRVbjdZZWRTbTRzNjVPYXBOLTJzTFR1TjdjNXVZWU1nS01ycmtKMTJ2VlhHN2Q1ZG1QdjVxNWZINjBfa0ZsYi1LalZpR1NYMjZMcUZBNG1yaXg1R1BkTEpDZVotbFVMVkdsQlR0VFNsYVptZlZWelNfZXU2a2ZCT2dSdnVydWdNT3I4ZjFyMVVMRjAzR3lKbUpTc0FnY0djYlRfTHBsRDlvLU5QM1JEVG00VWVSUXFCcnNvSjdibDZHWUZJcERLNnk0VmhQX3FOVDNobmw4bnpURTJsLW01TUxvZDV6VGg0bkdBcjZDRTc4QloxNGdlV2V4MFhQcUE2WnNueTBfTEotbnluSXI1N0VtNWNmWGVCbHFJR2NfNTZnRm1ybHljdWtWcGRPbk9ZUWN1bkhpNDFvS0NtZEJtdWhzYlVVTV80TUpiSWtsYjJ5ZXU4RGEwLVpHZnFuRkxGeEJOOVVhN1pTb1BrNXJJZzkzWFc1MFNHZG5SRjZMdHkwWFBpNkQ1Rkx2M1BvWEI0QzN1SDAzRmxMbmhiV09wX3htSmEwaUVLbFlzNmxaUGlFbER1Q3F5VHFPMjQ1VUtaRzVKSXhfSDIyenBoQXZ5bVJrRllGbVBMRnhDRmxSRDVXMzJIbERJWGV5NE5NazdMQnI4WUhPRzcxVmpSZlE4YmJUZ3NhUFZFbjNjUVR6THVUUUMzNEoxRE5ucnpIdHRJaWRxZV9IRzVPOE1LOVh5LVp6YTJwWUdKT3QxaGUzX3ZDZHlub1BfNXcyMUNOS2V4b0dLRkM3ai01cjYyMHdPcXd2WXdfZGg0MW5vNms1S1A2LXlIbUhkbURXc1NpUi1zQWxUMGJDT3g3a3d3d1cwN2RkUzJNZEZZMFhOQW1kS2dBZlBudEZpN2tPdVZzNTA3QVdtM2w0eEhzTnFkemxvTjNRQVRqT3pNNzJieWZPNk43VURCTDNJdHo0NnlEalZyN2taajc3OU9LRGxjQ19qY0ZaQzBNVHh6and5NW9RN2xzYnYydDZtNnhwY1dRaUVRN2hnbUlGQklWc29seU1vXzJFLTBUQWRRTnh5Y1FNZ0sxTmZxdFhYaE9tbzhiMGdJMmhTU1pNSzI2VnlqRW9pSFZ2cEV6VmwxeG5GMTZhN3BobWVrWDBGTjkxT3RReTNYdnZuTlA1NWJaa21pMndEcnBqTEhfekxNbDZ1RjFRX0h2TGFQbTZUekxkMGNlcWxSWGFQYjNTakwwVVFKLTJfMmpyVVZkVzJRLTlfLWxPRE1kQlBnZTU3ZlN1YWdyczd1bklqMWlCQ2dua0R0aXBOaXFKMWJJR1NFemhSVVhERkpselhTOUZzdnR4RWo1UkF6WHBmYmVkTXFJZDlRSnFNOFR6LXdqMzlhSUpEUXRDQTJMYWR3bnljSEVacWQ0WVV1emxBNUlOWHh4Nk9YbHRCWWt2STdvUEdRN015MDFIbmJ4bWpqcUktT0JLaU5EYUp4SzRWMEw2OHJLTUNBTmVDUXNCa0kzYWdISXZKWDYzd1poMDFWUXUzYllncjdKT3JUbWRFQk5VaVU0d2pyS3RVNU5KdTBOQ0tHTktnemdTN2hTUElTUnc3RGxwdXlsaDhwUUk0aUFObXhRQXZVLUNBeU5Ma3BfVnN3dmxTTXZCdkk0ZTZBa2ZJMlhGdDl6a2c1V0JXNFpBTG9CWjlMOWhzRUZXbWpfTWdaTEhQakhYYUVpSzczeElNeEVTclhkNS1DLXpsNVBpU0JRWWtPY0NicE4teU90ZzFCS1Vua1M0VWxrSWs0eUV3ZWZkUXdGQ1RGX2h2WE04emNIN0g5RnJta0lxY1N0TU9Ua1hmWk5rZXFYYmpFX3JjcDZYZUpJOE9EdzI5R3ZWTVpOR0hoWEk5cERveXZlVU9UUnRCcEp2RV9zbzF2QXk1TllpWFV4SVVkbTM0Q2xiaXF1c3dXbTN1cFZZMzB6NExIR2xpSmdMMkZpblgybUcxMHRmMmMtTXItWVdmaW1HVURPd0otOFE5UGV5NXA1QjRONW1YczBmdm5BdVk4QzVIYW9IVkhJUFpIbHZyTm9SMExSQjlUSnhOYVlJdnFOdllVeEVIb3RQd3NlZk5GWkJkS19pbXFnZkVGMXJCajktdEhES1E5OXNxS0stVzJKbkdaUTNCaFNXUWtzSTRJZWJvWGRMc2REYjJvbWtRTjlEUHZfT1plZXpUZ3Y0UXB3akdfcFdBbFZZeGVaTVp3YTVWRU9fZVhnZ0tkTHEyeGtSZ3hFdGl4TnZxZ0wtV3pHVFNwazZrRjNMRWxEaFgzeTN3bncwRG5jWjNLZXlUQVhoV0lhUDBrVi1HT1JkazFxem1rYUFvMFQxcHlXSEhNYzhwZzFmdGgtQ0JhNVpyVVdid1RJdjhwaF90dFd6UGh6YmhWZUJielQyQ09vNlBiMUdKTUg1Z0p3T2ZQZUxNc0luZmh5eUh5R1dTeG5NNm1tUmg1Z1F2b3c5SHJXWEd6Nzdab3hZcHp2c1BXTmFrb1VJV3VaVkRocThNeGppYnRxeG8xYThaS1o5bHRKMXhSa2xoSUZ0UjViNWhQSkppdkVRVlFIU1RXOGdib2Z4WDdjMDdrN01fQzZnNGdqTG1Da0JNUXhUVXQyS2w2ZzZ3VElJb0w3MWJpVHY5cF9sUE5QaVdGOUY1V0wzRTQ4Q2ExTXJCeHRjV3RlbllxLTIycGlHbXRLQUpweGQxWk4weVNpYXg2dzFzem1IWDFvNGFSMVhvN2p0WWFKazUtMTBycmxvSXoyRlR6bHdaU2JadUpRRGttVW9kUFF0bHBsLUwzbXRLWnlUREZTQm1va0JHczBCR3lBZEx1QlA0YVlpYkRLRm5pRnNmT0F1UklsOGFoOEh6VTMteEk1ZFc5bnd1SExjWWxJYlZ5NnFBb3A1WUNudVN3UWpJVUhGVkxPT1VoMDd6MUhiNDhHRkFTTkVTS3NTWHRIQlVwc3RRUGRJMlJOMnJOeEVUUmM0ZDJwS1RJaFdseElCMVhjbEhHdDRsYWQwOTM4T1kxdXFuY24zdENKdXRUTVEwUjlOeVJaWFF1UGZvc3M2cVIzcXVlWkEta0JqbElNQlhocEFSMDNFQU53TXlvVXNudnFtWEtsb01mRzFHUllsRzVZWm1ranRSN2o1X3ZLckVvM2VkelBlY2RHdDNfT3NLc0FWX3hPZmFhMm95VHVXaUZiMGtNMmkyTW5EYnhFY1BTNFlxcTJLTW40SEpOa3lGZWJaTEpxVXZ5cTVwVF9EOVE2bGR1UXZ0bmRDV1BNMEtfUUI0MEZpVV9FbXl5VFhNak9Sci1XS2hYNVU2aTRJR09vQnRBZzNhUGw2elI1dUMyNDMyY1poYllBUHNub19LNS1wRmktZ1ZORkJqcUtiSUFzRExuV09RZkZOUWdWemFWbHBzZE1zb3IySk1CRDR0WEpLWWpaNUoteV9GMlBucGFjWlh1LURZOWx5YlN0TkFHc1J4QUpQRnJQZmFtLTJHcDhFX0puYWRDQUI2dHV1Rm1iM2tXbUs0bHBRaEJieDZJbVoxNkp0U1NpdnNXX0ZlaXJ3UUlsdmJTOGEweEpjcXF1WEJ0OGFOYUxh
+pipeline {
+    agent {
+        label 'linux'
+    }
+    
+    parameters {
+        string(
+            name: 'NAS_PATH',
+            defaultValue: '',
+            description: 'NAS path, e.g.: \\\\server\\share\\folder'
+        )
+        string(
+            name: 'API_SERVER_URL',
+            defaultValue: 'http://localhost:5000',
+            description: 'NAS Excel Downloader API server URL'
+        )
+        string(
+            name: 'EMAIL_RECIPIENTS',
+            defaultValue: '',
+            description: 'Email recipients, separate multiple emails with commas'
+        )
+        string(
+            name: 'EMAIL_SUBJECT',
+            defaultValue: 'NAS Excel File Backup',
+            description: 'Email subject'
+        )
+    }
+    
+    environment {
+        ARCHIVE_NAME = "nas_excel_backup_${BUILD_NUMBER}_${env.BUILD_TIMESTAMP}.zip"
+        DOWNLOADED_FILE = "${WORKSPACE}/downloaded_excel_files.zip"
+        EXTRACT_DIR = "${WORKSPACE}/extracted_excel_files"
+    }
+    
+    stages {
+        stage('Parameter Validation') {
+            steps {
+                script {
+                    if (!params.NAS_PATH) {
+                        error("NAS_PATH parameter cannot be empty")
+                    }
+                    if (!params.API_SERVER_URL) {
+                        error("API_SERVER_URL parameter cannot be empty")
+                    }
+                    if (!params.EMAIL_RECIPIENTS) {
+                        error("EMAIL_RECIPIENTS parameter cannot be empty")
+                    }
+                    echo "NAS Path: ${params.NAS_PATH}"
+                    echo "API Server URL: ${params.API_SERVER_URL}"
+                    echo "Email Recipients: ${params.EMAIL_RECIPIENTS}"
+                }
+            }
+        }
+        
+        stage('API Health Check') {
+            steps {
+                script {
+                    try {
+                        // Check if the API server is healthy
+                        def healthResponse = sh(
+                            script: """
+                                curl -s -o health_response.json -w "%{http_code}" "${params.API_SERVER_URL}/health"
+                            """,
+                            returnStdout: true
+                        ).trim()
+                        
+                        echo "API Health Check HTTP Status: ${healthResponse}"
+                        
+                        if (healthResponse != "200") {
+                            error("API server is not healthy. HTTP Status: ${healthResponse}")
+                        }
+                        
+                        // Read and display health response
+                        def healthContent = sh(
+                            script: "cat health_response.json",
+                            returnStdout: true
+                        ).trim()
+                        
+                        echo "API Health Response: ${healthContent}"
+                        
+                        // Clean up temp file
+                        sh "rm health_response.json"
+                        
+                    } catch (Exception e) {
+                        error("Failed to connect to API server: ${e.getMessage()}")
+                    }
+                }
+            }
+        }
+        
+        stage('List Excel Files via API') {
+            steps {
+                script {
+                    try {
+                        // Create JSON payload for API request
+                        // Use groovy.json.JsonOutput for proper JSON encoding
+                        def jsonPayload = groovy.json.JsonOutput.toJson([
+                            nas_path: params.NAS_PATH
+                        ])
+                        def payload = groovy.json.JsonOutput.prettyPrint(jsonPayload)
+                        
+                        echo "Original NAS_PATH: ${params.NAS_PATH}"
+                        echo "JSON payload for list API: ${payload}"
+                        
+                        // Write payload to file
+                        writeFile file: 'list_payload.json', text: payload
+                        
+                        // Call API to list Excel files
+                        def listResponse = sh(
+                            script: """
+                                curl -s -o list_response.json -w "%{http_code}" -X POST "${params.API_SERVER_URL}/list-xlsx" -H "Content-Type: application/json" -d @list_payload.json
+                            """,
+                            returnStdout: true
+                        ).trim()
+                        
+                        echo "List Excel Files API HTTP Status: ${listResponse}"
+                        
+                        if (listResponse != "200") {
+                            // Try to read error response
+                            def errorContent = ""
+                            try {
+                                errorContent = sh(
+                                    script: "cat list_response.json",
+                                    returnStdout: true
+                                ).trim()
+                            } catch (Exception e) {
+                                errorContent = "Could not read error response"
+                            }
+                            error("Failed to list Excel files. HTTP Status: ${listResponse}. Response: ${errorContent}")
+                        }
+                        
+                        // Read and display file list
+                        def listContent = sh(
+                            script: "cat list_response.json",
+                            returnStdout: true
+                        ).trim()
+                        
+                        echo "Found Excel Files: ${listContent}"
+                        
+                        // Clean up temp files
+                        sh """
+                            rm list_payload.json
+                            rm list_response.json
+                        """
+                    } catch (Exception e) {
+                        error("Failed to list Excel files via API: ${e.getMessage()}")
+                    }
+                }
+            }
+        }
+        
+        stage('Download Excel Files via API') {
+            steps {
+                script {
+                    try {
+                        // Create JSON payload for API request
+                        // Use groovy.json.JsonOutput for proper JSON encoding
+                        def jsonPayload = groovy.json.JsonOutput.toJson([
+                            nas_path: params.NAS_PATH
+                        ])
+                        def payload = groovy.json.JsonOutput.prettyPrint(jsonPayload)
+                        
+                        echo "Original NAS_PATH: ${params.NAS_PATH}"
+                        echo "JSON payload for download API: ${payload}"
+                        
+                        // Write payload to file
+                        writeFile file: 'download_payload.json', text: payload
+                        
+                        // Call API to download Excel files
+                        def downloadResponse = sh(
+                            script: """
+                                curl -s -o "${DOWNLOADED_FILE}" -w "%{http_code}" -X POST "${params.API_SERVER_URL}/download-xlsx" -H "Content-Type: application/json" -d @download_payload.json
+                            """,
+                            returnStdout: true
+                        ).trim()
+                        
+                        echo "Download Excel Files API HTTP Status: ${downloadResponse}"
+                        
+                        if (downloadResponse != "200") {
+                            error("Failed to download Excel files. HTTP Status: ${downloadResponse}")
+                        }
+                        
+                        // Check if downloaded file exists and get its size
+                        def fileExists = sh(
+                            script: "test -f \"${DOWNLOADED_FILE}\" && echo EXISTS || echo NOT_EXISTS",
+                            returnStdout: true
+                        ).trim()
+                        
+                        if (!fileExists.contains("EXISTS")) {
+                            error("Downloaded file does not exist")
+                        }
+                        
+                        // Get file size
+                        def fileSize = sh(
+                            script: "stat -c%s \"${DOWNLOADED_FILE}\"",
+                            returnStdout: true
+                        ).trim()
+                        
+                        echo "Successfully downloaded Excel files: ${DOWNLOADED_FILE} (size: ${fileSize} bytes)"
+                        
+                        // Clean up temp files
+                        sh """
+                            rm download_payload.json
+                        """
+                    } catch (Exception e) {
+                        error("Failed to download Excel files via API: ${e.getMessage()}")
+                    }
+                }
+            }
+        }
+        
+        stage('Extract and Validate Files') {
+            steps {
+                script {
+                    try {
+                        // Check if downloaded file exists and get its size
+                        def fileExists = sh(
+                            script: "test -f \"${DOWNLOADED_FILE}\" && echo EXISTS || echo NOT_EXISTS",
+                            returnStdout: true
+                        ).trim()
+                        
+                        if (!fileExists.contains("EXISTS")) {
+                            error("Downloaded Excel files ZIP does not exist")
+                        }
+                        
+                        // Get ZIP file size
+                        def zipSize = sh(
+                            script: "stat -c%s \"${DOWNLOADED_FILE}\"",
+                            returnStdout: true
+                        ).trim()
+                        
+                        echo "Downloaded ZIP file validated: ${DOWNLOADED_FILE} (size: ${zipSize} bytes)"
+                        
+                        // Create extraction directory
+                        sh """
+                            rm -rf "${EXTRACT_DIR}"
+                            mkdir -p "${EXTRACT_DIR}"
+                        """
+                        
+                        // Extract ZIP file
+                        echo "Extracting Excel files from ZIP..."
+                        sh """
+                            unzip -q "${DOWNLOADED_FILE}" -d "${EXTRACT_DIR}"
+                        """
+                        
+                        // List extracted Excel files
+                        def extractedFiles = sh(
+                            script: """
+                                find "${EXTRACT_DIR}" -name "*.xlsx" -type f | head -20
+                            """,
+                            returnStdout: true
+                        ).trim()
+                        
+                        if (!extractedFiles) {
+                            error("No Excel files found after extraction")
+                        }
+                        
+                        echo "Extracted Excel files:"
+                        echo "${extractedFiles}"
+                        
+                        // Count extracted files
+                        def fileCount = sh(
+                            script: """
+                                find "${EXTRACT_DIR}" -name "*.xlsx" -type f | wc -l
+                            """,
+                            returnStdout: true
+                        ).trim()
+                        
+                        echo "Total Excel files extracted: ${fileCount}"
+                        
+                        // Store file list for email
+                        env.EXTRACTED_FILES_COUNT = fileCount
+                        env.EXTRACTED_FILES_LIST = extractedFiles
+                        
+                    } catch (Exception e) {
+                        error("File extraction failed: ${e.getMessage()}")
+                    }
+                }
+            }
+        }
+        
+        stage('Send Email') {
+            steps {
+                script {
+                    try {
+                        // Get list of Excel files for attachment
+                        def attachmentPattern = sh(
+                            script: """
+                                find "${EXTRACT_DIR}" -name "*.xlsx" -type f | sed "s|${WORKSPACE}/||g" | tr '\\n' ',' | sed 's/,\$//'
+                            """,
+                            returnStdout: true
+                        ).trim()
+                        
+                        echo "Files to attach: ${attachmentPattern}"
+                        
+                        // Prepare file list for email body
+                        def fileListHtml = ""
+                        if (env.EXTRACTED_FILES_LIST) {
+                            def files = env.EXTRACTED_FILES_LIST.split('\n')
+                            files.each { file ->
+                                def fileName = file.substring(file.lastIndexOf('/') + 1)
+                                fileListHtml += "<li>${fileName}</li>"
+                            }
+                        }
+                        
+                        // Prepare email content
+                        def emailBody = """
+                        <h2>NAS Excel Files - Direct Attachment</h2>
+                        <p><strong>Build Information:</strong></p>
+                        <ul>
+                            <li>Build Number: ${BUILD_NUMBER}</li>
+                            <li>Build Time: ${BUILD_TIMESTAMP}</li>
+                            <li>NAS Source Path: ${params.NAS_PATH}</li>
+                            <li>API Server URL: ${params.API_SERVER_URL}</li>
+                            <li>Total Excel Files: ${env.EXTRACTED_FILES_COUNT ?: 'Unknown'}</li>
+                        </ul>
+                        <p><strong>Process Summary:</strong></p>
+                        <ul>
+                            <li>✅ API Health Check: Passed</li>
+                            <li>✅ Excel Files Listed: Successfully via API</li>
+                            <li>✅ Files Downloaded: All .xlsx files downloaded</li>
+                            <li>✅ Files Extracted: ${env.EXTRACTED_FILES_COUNT ?: 'Unknown'} Excel files extracted</li>
+                        </ul>
+                        <p><strong>Attached Excel Files:</strong></p>
+                        <ul>
+                            ${fileListHtml}
+                        </ul>
+                        <p><strong>Jenkins Build Link:</strong> <a href="${BUILD_URL}">${BUILD_URL}</a></p>
+                        <p>All Excel files from the specified NAS path have been downloaded and are attached to this email.</p>
+                        """
+                        
+                        // Send email with Excel files as attachments
+                        emailext (
+                            subject: "${params.EMAIL_SUBJECT} - Build #${BUILD_NUMBER}",
+                            body: emailBody,
+                            mimeType: 'text/html',
+                            to: "${params.EMAIL_RECIPIENTS}",
+                            attachmentsPattern: attachmentPattern,
+                            replyTo: '$DEFAULT_REPLYTO'
+                        )
+                        
+                        echo "Email sent successfully to: ${params.EMAIL_RECIPIENTS}"
+                        echo "Attached ${env.EXTRACTED_FILES_COUNT ?: 'Unknown'} Excel files"
+                        
+                    } catch (Exception e) {
+                        error("Email sending failed: ${e.getMessage()}")
+                    }
+                }
+            }
+        }
+    }
+    
+    post {
+        always {
+            script {
+                // Clean temporary files from API download and extraction
+                sh """
+                    test -f "${DOWNLOADED_FILE}" && rm "${DOWNLOADED_FILE}" || true
+                    test -d "${EXTRACT_DIR}" && rm -rf "${EXTRACT_DIR}" || true
+                """
+                echo "Temporary files cleanup completed"
+            }
+        }
+        
+        success {
+            echo "NAS Excel file backup and email sending completed successfully!"
+        }
+        
+        failure {
+            script {
+                // Send failure notification email
+                if (params.EMAIL_RECIPIENTS) {
+                    emailext (
+                        subject: "Failed: ${params.EMAIL_SUBJECT} - Build #${BUILD_NUMBER}",
+                        body: """
+                        <h2>NAS Excel File Backup Failed</h2>
+                        <p><strong>Build Information:</strong></p>
+                        <ul>
+                            <li>Build Number: ${BUILD_NUMBER}</li>
+                            <li>Build Time: ${BUILD_TIMESTAMP}</li>
+                            <li>NAS Source Path: ${params.NAS_PATH}</li>
+                            <li>API Server URL: ${params.API_SERVER_URL}</li>
+                        </ul>
+                        <p><strong>Possible Issues:</strong></p>
+                        <ul>
+                            <li>API server may be unavailable or unhealthy</li>
+                            <li>Server does not have access to the specified NAS path</li>
+                            <li>NAS path may not exist or be inaccessible</li>
+                            <li>No Excel files found in the specified path</li>
+                            <li>Downloaded ZIP file could not be extracted</li>
+                            <li>Network connectivity issues</li>
+                        </ul>
+                        <p><strong>Error Details:</strong> Please check the build log for detailed error information</p>
+                        <p><strong>Jenkins Build Link:</strong> <a href="${BUILD_URL}">${BUILD_URL}</a></p>
+                        """,
+                        mimeType: 'text/html',
+                        to: "${params.EMAIL_RECIPIENTS}",
+                        replyTo: '$DEFAULT_REPLYTO'
+                    )
+                }
+            }
+            echo "NAS Excel file backup failed, please check build log"
+        }
+        
+        cleanup {
+            // Clean up all temporary files and directories
+            sh """
+                test -f "${WORKSPACE}/${ARCHIVE_NAME}" && rm "${WORKSPACE}/${ARCHIVE_NAME}" || true
+                test -f "${DOWNLOADED_FILE}" && rm "${DOWNLOADED_FILE}" || true
+                test -d "${EXTRACT_DIR}" && rm -rf "${EXTRACT_DIR}" || true
+            """
+        }
+    }
+}

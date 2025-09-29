@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="/dist/vendors.css" />
     <link rel="stylesheet" href="/dist/common.css" />
     <link rel="stylesheet" th:href="${'/css/' + theme + '.min.css'}" />
-    <link rel="stylesheet" th:href="${'/dist/' + (app != null ? app.name : 'scorch') + '.css'}" />
+    <link rel="stylesheet" th:href="${'/dist/' + app.name + '.css'}" />
     <link rel="shortcut icon" th:href="${'/img/scorch-logo-' + theme + '.png'}" type="image/x-icon">
     <link rel="manifest" href="/manifest.json" />
   </head>
@@ -55,6 +55,23 @@
       }
     </style>
 
+    <!-- Define error handlers before any scripts -->
+    <script>
+      // Script loading success handler
+      function handleScriptSuccess(script) {
+        console.log('✅ Script loaded successfully:', script.src);
+      }
+      
+      // Script loading error handler
+      function handleScriptError(script) {
+        console.error('❌ Failed to load script:', script.src);
+        var loading = document.getElementById('initial-loading');
+        if (loading) {
+          loading.innerHTML = '<div style="text-align: center; color: #e74c3c;"><h3>Failed to load application</h3><p>Script: ' + script.src + '</p><p>Please refresh the page or contact support.</p></div>';
+        }
+      }
+    </script>
+
     <!-- Global configuration for React app -->
     <script th:inline="javascript">
       window.routerBasename = [[${app != null ? app.routerBasename : '/'}]];
@@ -66,8 +83,12 @@
       };
       
       // Debug information
+      console.log('=== DEBUG INFO ===');
+      console.log('App object:', [[${app}]]);
+      console.log('App name from server:', [[${app != null ? app.name : 'NULL'}]]);
       console.log('Router basename:', window.routerBasename);
       console.log('App config:', window.appConfig);
+      console.log('Expected script path:', '/dist/' + window.appConfig.appName + '.bundle.js');
       
       // Hide loading indicator once React app is ready
       document.addEventListener('DOMContentLoaded', function() {
@@ -107,23 +128,27 @@
     </script>
 
     <!-- Load scripts in optimized order for React 18 -->
-    <script src="/dist/runtime.bundle.js" onerror="handleScriptError(this)"></script>
-    <script src="/dist/prerequisites.bundle.js" onerror="handleScriptError(this)"></script>
-    <script src="/dist/vendors.bundle.js" onerror="handleScriptError(this)"></script>
-    <script src="/dist/react.bundle.js" onerror="handleScriptError(this)"></script>
-    <script src="/dist/common.bundle.js" onerror="handleScriptError(this)"></script>
-    <script th:src="${'/dist/' + (app != null ? app.name : 'scorch') + '.bundle.js'}" defer onerror="handleScriptError(this)"></script>
+    <!-- Load shared dependencies first -->
+    <script src="/dist/prerequisites.bundle.js" onload="handleScriptSuccess(this)" onerror="handleScriptError(this)"></script>
+    <script src="/dist/vendors.bundle.js" onload="handleScriptSuccess(this)" onerror="handleScriptError(this)"></script>
+    <script src="/dist/react.bundle.js" onload="handleScriptSuccess(this)" onerror="handleScriptError(this)"></script>
+    <!-- Charts bundle only loaded for modules that need it (like monitoring and metrics) -->
+    <script th:if="${app != null && (app.name == 'monitoring' || app.name == 'metrics')}" src="/dist/charts.bundle.js" onload="handleScriptSuccess(this)" onerror="handleScriptError(this)"></script>
+    <!-- Load common shared components -->
+    <script src="/dist/common.bundle.js" onload="handleScriptSuccess(this)" onerror="handleScriptError(this)"></script>
+    <!-- Finally load the specific app bundle with its own runtime -->
+    <script th:src="${'/dist/' + (app != null ? app.name : 'scorch') + '.bundle.js'}" defer onload="handleScriptSuccess(this); console.log('🚀 Main app script loaded! React should be mounting now...');" onerror="handleScriptError(this)"></script>
 
     <!-- Enhanced error handling -->
     <script>
-      // Script loading error handler
-      function handleScriptError(script) {
-        console.error('Failed to load script:', script.src);
-        var loading = document.getElementById('initial-loading');
-        if (loading) {
-          loading.innerHTML = '<div style="text-align: center; color: #e74c3c;"><h3>Failed to load application</h3><p>Please refresh the page or contact support.</p></div>';
-        }
-      }
+      // Log all script elements being added
+      document.addEventListener('DOMContentLoaded', function() {
+        var scripts = document.querySelectorAll('script[src]');
+        console.log('=== ALL SCRIPT TAGS ===');
+        scripts.forEach(function(script, index) {
+          console.log('Script ' + index + ':', script.src);
+        });
+      });
       
       // Global error handlers
       window.addEventListener('error', function(e) {

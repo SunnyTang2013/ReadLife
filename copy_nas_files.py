@@ -1,2 +1,136 @@
-AES_ENCRYPTED_FILE
-V8gw15brZejrnDd8sHv79WdBQUFBQUJvMk9xX0JiZWlMYVhKTEZmMnF2Z05saWVKREVpdWFUMWNwbGZ0U29CQ0JsZUg0MF9zWWVwNDFRc3VKb3gxaDdFOVFGQVRKUGZBbm5pdlVVbWJxZW9XM3RyM1VNaEg4NThKY3RWazN3ckI5cUFobXEyNVJXR0dfanZzOEhJemZjYkY3TjJqal9uODBQeVNuN09aS3JvSndXVXBfMHhBUjRoM2t5X3ZMTjFfdHgwa0p6V051ZHY3N0RmSFdkRXZfNU9PQVFpa2tpN3Fja0x6LVd3ZVUxX1NGbkdHQVdkbTZ5bkJTWFVHd2xjMnQ4LTF3RG5ncTZzaVYyOFZvc2xwZjhzOWt1eklNLXI5V3ZkZkJBQjc1cm5pOVVYRUlDZkVDRlQ0azItSEQxajdZZUhrcGpIMjVpX2NENGlQQm05akR5LW4zQ0JybW9wRnhycTgtZnliZG0tRkJnQzNucHk5ZnZocXo0ZmtsV2s3MDByR18wQWRrcHAyN211b1l5ZE4xWnRmUjlURVg0eXFIdXNNMHU3eVdoMUVrZnNFb0E3cDY1WmxGcEwtSGNlY2UxWDZTVjJoRWZnaXB6SGstZDVZelBYSGEzYTJsVC02YkMzOWVMYXBXOWdQZFZCeWJMT09GR2JaUzNON3BGcHRrTmpMalB3WTBhZkRob00wTTZvSWF0TE9hWmdiY0pQTXE1cHpDTDI4NlRxQm9TRHVUQlZhQWhRclI3aDloNXk4dGF2Z3dLV29CZndIWkY1TU9wQ1czdUREaGVMVzg2YWtGNkF1S0VvTGxxWXlQN1RjSS1IS3NlUGN6b1ZIUUEtbHpEOHNpNEVhZ0h3eW5LTWc2cVZ2dFdjZGFwYklYdUY1Q3dCb3pjNURnd3hQLWZOXzAyWWk0WGxWQVVFY2NVODJTMVR6WWkzR1o5SXM4N3RtdjhEVk1zZTNBZ2puakVJdXE3X20yS3FzcE5KVU9BbkxRbnRmUFJ2NDEtcmZSaFJianNfNkYzQTgzSTBOdEtrdHlyMTZuSkdHbl96Mm9pSWliLXl3anJjZ0lMVnRXVnVNY3Z6bmVpX080OXZLNmhCRUhFbkRHNmlGcGlrT3BMTm9icV9NTzRveU50SUdGQjRQY1ZPWFpaamlJU1l5emZCcXdkRGVpSVFGX1RFQ25PTk5mQkIyWU0yOVZSWFFWX2JJTFJxU1h5Y3VCa0l0U1h5TXRIM01FeUpaV282LWpQY2dNWDdxTWJVeXB3anZzRUVQbDE3NEZRVDBLcWVUTTdTSkR2NDJkSGRrQjI0em5EQ1N2QWw3SUliU2dJN3pWWUh3aGMwWW9Vc2VuNm1NM3BWVWVSSUg1X3c0ODdOVkZuNWc4MUtjSlVnLWcyakljN0N0SWUtTHFzX1k1RVdRcEZBTTVocFg1S3NiaS0tMlg4WTZUSzl6QzNnV2RUQjducU5ta1pjOHZPcHltODUtY3ZkTTF5a3hhUjZ0bndzYXpBb1VFY2twMkw0R1VOLUJsWHBoOWlUZ1NzSm9mblZKWFJnWjRVdGkwdDgyMUhyZUZ4VEkwRW1aU3BNSTUySHhSbHh4Y2hkYjg5X1hHcjN2S1VDc3dVbDZIT2pIRFBPLTdla1RHaTZ1ZUpnZGNYdGtBQUY1RFJ2am1mTTYtcjJXdEtHeDhLa0Z2UTN5ZTFWZUZjbzlySzlGckV2TkRmT2toMERyZ04zRk5FZGd4bzhLZU5UcG1BbmJfeVIxc2JIalRMOXJLay1jUHh2M05YTjlfc21BWktfbnFDOXMwRXdQRUFXRExjVnhacGh3bGs2UWRHazlHT0t6bjExeFFnMnJfeHpiX2dzYTROY0lUeV9FWmxWU2p3bWg0c1FJMEp5eFdSVklqbldrYWZpWmtZWVdES2xPWUVLR21iWjVZTVIwRlJBZndUUVJndTBGSklsUjRCRG5CN2pXQWhOQVpsLU9KMWNETnRYN1dJdl9LaFY5RVdhdDNPRmJRajhrVkFxX0xNeE9aVmhWTW9xN0RFZXlETU9fVkc5Ujd6d194c2ppS0wwdDhkQVkwS3B0N09ZeEcwSnR0bV9MUDZjbmxwV1ZvQnZaMVhTbTE5TDV1NjJKeXV1YWI3S1JOUnZ3NGVKclA2NUlHa015a1JYTzZFaEREWEFhWElseVBGT2dZT1BZQ2VfRml0ZDNZRlBuWkNQZ0Z1Sng5QWJFd3l4UDE1blZLTFprMEtVdVlDZmZvZk1DdENlTWUwMXgyUXBSUlBnRkVwRndhSFlXWWZIUjhEQXNwd0VqSi1hM2oyNDMyNGdDdEVvSVAtRGNtUDRlcEhvbWw1QTZ5dFpzSnZMblkzUUR6czZIeDBNejVpY2VLeGw3eDJIQ1RDOWU2VjZLN2JZMGRaZkJLNEtueTd4SFduc054bTc3M2Y4Z0hmNm9saXhMM2Q3SXFsd3VtMkFEZlREd3AwWUx4LXdFRWtjNWZxSkdQUENfdzBuWnJsbS1Qb3JUOXlzbU5oSTlpTTJmcm5mNGZaMG50V3VkWFVXUU1TS1BXdnkyR3J3Wll0SGxRdWxhSDBuMjZQU2JqeWlENDFESlVqa1BVam5XaC1mR1hubEJHaUw3a3BTeW8wYkRiczRZSVB0QVVoTkxhZXVoOVM2X3lWUFBqTzZfTFJRZzhlTWQzTEdKcEZZOGJhSzl2T0hfQUZLZ3ZhVzllSGFHMGFMcS15X2ZRRFFRVjEybUFMa1NURnh2QjdEV2hWYlNqV2JXSE12NnFyaktFTWQ4YndocnlHOHhBM01PZ05helBNdDYxS2VubXVRTUhWeVY5Sks5Y0ljMWZNa3Zyd3c4cmFJYU5ObG1SSGNfUklNRnRhRV9qSl9RUEpvV3pIeERUb2JlS2puVkNYSTNUeTRrRllQMFpvcms0OGh5cmhWNUZjdDlvOWwydG91aVRXc1pIeXpvekI4VU9TSnNXUWp3ZnBFaHBycVhHZ2FhVXpKWEFmRFRaVWRQZnZERzBkWHNxd3kzTjAxSVphcnV4aS1ESDZLWmxtNlpIR1RZaHQwMG9uSy1ScGZPeTYySnliellBSjNDcy1nY1hPeGZrMHo5aHZPZWttQjlFM1kzQzlxb05lZFQ5WHdta3Fac1V5ODVMUE83eHRfQ29uTWNmMzZCMEhxdFlON3FUd3RJaGwtSGFObjB6MUttZGpVMlF1V0Q2T1d0OVd5MG5Wb09nanNkMC1TT2RhTE8xRmhsVFZCQ2o4UFFNOWtEMkU5YXhFa01mQ19XZkowRG5VZlBGOVZsZlg4ZTY4RzNTN25hbkk4WnpRTFdoMlVvd2V1cnh6TzQ4RWk3RTJnRVpGTTlnVkxIem1UOEVZSll1UnFaTnZGczM1aUFqYUJqTU9QNFZFN2JJRFFZbTI4QjllMDk1eTBSQlY5VG1kOXktbWtrbnNqalNxWldFQmQ3d2I3cUJvektSbEFZRElwZVJYWTJCTFNtVEJnUjdKTDZ0Y0JIeWVCMmRNSEtqRmVaZ0ZkTURpalUxWW5PUzNHX24xVjJXYmxmbzY5LTY2ZU1VR2YxN1FUbWNraEpOSWxvRWN4TXpmaXpFQ196Zmp3MXNJZXNnUXlJUWVwLWkzY2JoMENfZzh4NzVVXzRGQVNJeW5vaUd5d01SR0daNENad0IyTUwxaFp1ZU1ObHhhLWRNNkVNRHJVbG45cE5HR3JJLVl5Mk1IX1N5ZnFlX1N4c2dWWXlJMktZSDlhZG9zLURJeEhoMjBWenVLUjFOM2VyMGxtcFRzNlFUOXR1RGE2c0hkN2kyQjVqcDMyNFdDWWw0YVFLVTRadldOWjJqVWNDNWJLWjEwdTFBc2xCX1g1dWNpT0w5dHJuTHVnNXR0aExUdjRfUUEzOURYYVkyRVZLTHcyS0JOcjNxXzlSdEZCRGg2Y0NXNEdqcHlkWi11RUZOWnZZdmxzUGdFMEl3RjVPMG9NYWhLb2ZjQ3NvaWRZRlVOYnp5RVJrcXI2V1UyWUZQd21UZmVndjMxUHQwWlRBSXZkSEMxenlLcXpEb0s3aEdyWk9UZ1JiM0J1RWFQQ1AtR01WbHJHdWI3WUlfeGJ1UDVHb2U0ckY0S2dRRF9JQXZqNEVuZDJEZDU0c2ZmcFRwenhEcXhqMFVGNHNTTHZQczZuOFdqaUFEaTNmTHJkd2Zra25jLWN4bzVvc1J4UUxEVV9CZk9GbXhBRnRia0tNZjZSNm5veXlVY1pSMGN2VEFSaTFhRklxT3d2bDRpVzVtTXgtclh1NUdjLUQ3S244Sk9hYUhkV2pLTG5IckFPLUtiTFpLVWt6a3NWdEZPX1R3YVoxYkRCSTNJbk51UllZOEVUXzBpQ0wxdjRiR24yTWwwRDNhTGdiUzI0ZXRQVEZjZFk2UEY2QURZQjEwMklsTlE9PQ==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import os
+import sys
+import shutil
+import argparse
+import subprocess
+from pathlib import Path
+
+def map_network_drive(nas_path, username, password):
+    """
+    Map network drive with credentials
+    
+    Args:
+        nas_path (str): NAS path
+        username (str): Username for authentication
+        password (str): Password for authentication
+    
+    Returns:
+        bool: True if successful, False otherwise
+    """
+    try:
+        # Use net use command to map the network drive with credentials
+        cmd = f'net use "{nas_path}" /user:"{username}" "{password}"'
+        result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+        
+        if result.returncode == 0:
+            print(f"Successfully mapped network drive: {nas_path}")
+            return True
+        else:
+            print(f"Failed to map network drive: {result.stderr}")
+            return False
+            
+    except Exception as e:
+        print(f"Error mapping network drive: {str(e)}")
+        return False
+
+def unmap_network_drive(nas_path):
+    """
+    Unmap network drive
+    
+    Args:
+        nas_path (str): NAS path to unmap
+    """
+    try:
+        cmd = f'net use "{nas_path}" /delete'
+        subprocess.run(cmd, shell=True, capture_output=True, text=True)
+        print(f"Unmapped network drive: {nas_path}")
+    except Exception as e:
+        print(f"Error unmapping network drive: {str(e)}")
+
+def copy_nas_files(nas_path, target_dir=".", username=None, password=None):
+    """
+    Copy files from NAS path to target directory
+    
+    Args:
+        nas_path (str): NAS path
+        target_dir (str): Target directory, default is current directory
+        username (str): Username for NAS authentication
+        password (str): Password for NAS authentication
+    """
+    drive_mapped = False
+    try:
+        # If credentials are provided, map the network drive first
+        if username and password:
+            if not map_network_drive(nas_path, username, password):
+                return False
+            drive_mapped = True
+        
+        # Validate if NAS path exists
+        if not os.path.exists(nas_path):
+            print(f"Error: NAS path does not exist: {nas_path}")
+            return False
+            
+        if not os.path.isdir(nas_path):
+            print(f"Error: NAS path is not a directory: {nas_path}")
+            return False
+        
+        # Create target directory
+        target_path = Path(target_dir)
+        target_path.mkdir(parents=True, exist_ok=True)
+        
+        # Get all files under NAS directory
+        nas_dir = Path(nas_path)
+        files_copied = 0
+        
+        print(f"Starting to copy files from {nas_path} to {target_dir}")
+        
+        # Traverse all files and subdirectories under NAS directory
+        for item in nas_dir.rglob("*"):
+            if item.is_file():
+                # Calculate relative path to maintain directory structure
+                relative_path = item.relative_to(nas_dir)
+                target_file = target_path / relative_path
+                
+                # Create parent directory for target file
+                target_file.parent.mkdir(parents=True, exist_ok=True)
+                
+                # Copy file
+                shutil.copy2(item, target_file)
+                print(f"Copied: {relative_path}")
+                files_copied += 1
+        
+        print(f"Copy completed! Total {files_copied} files copied")
+        return True
+        
+    except Exception as e:
+        print(f"Error occurred during copy process: {str(e)}")
+        return False
+    finally:
+        # Unmap the network drive if it was mapped
+        if drive_mapped:
+            unmap_network_drive(nas_path)
+
+def main():
+    parser = argparse.ArgumentParser(description="Copy files from NAS path to current directory")
+    parser.add_argument("nas_path", help="NAS path")
+    parser.add_argument("-t", "--target", default=".", help="Target directory (default: current directory)")
+    parser.add_argument("-u", "--username", help="Username for NAS authentication")
+    parser.add_argument("-p", "--password", help="Password for NAS authentication")
+    
+    args = parser.parse_args()
+    
+    # Get credentials from environment variables if not provided as arguments
+    username = args.username or os.getenv('NAS_USERNAME')
+    password = args.password or os.getenv('NAS_PASSWORD')
+    
+    # Execute copy operation
+    success = copy_nas_files(args.nas_path, args.target, username, password)
+    
+    # Set exit code based on execution result
+    sys.exit(0 if success else 1)
+
+if __name__ == "__main__":
+    main()
